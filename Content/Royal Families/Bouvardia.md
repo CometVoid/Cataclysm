@@ -1,1 +1,1 @@
-The flor'in royal family, and one of the founders of the theocracy. The bouvardia royal family was here before all the others.  
+The flor'in royal family, and one of the founders of the theocracy. The bouvardia royal family was here before all the others.   
