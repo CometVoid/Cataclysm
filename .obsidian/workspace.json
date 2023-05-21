@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Rivals/Sprocket.md",
+                "file": "Content/Royal Families/Royal Families.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Rivals/Sprocket.md",
+                "file": "Content/Royal Families/Royal Families.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Rivals/Sprocket.md",
+                "file": "Content/Royal Families/Royal Families.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Rivals/Sprocket.md"
+                "file": "Content/Royal Families/Royal Families.md"
               }
             }
           },
@@ -156,12 +156,13 @@
   },
   "active": "0f54fd7b6f83d632",
   "lastOpenFiles": [
-    "Characters/Rivals/Esky.md",
-    "Characters/Rivals/Baro.md",
-    "Characters/Nemesis/Vernon Alfred Victor Celestia.md",
-    "Content/Royal Families/Royal Families.md",
     "Content/Royal Families/Celestia.md",
     "Content/Royal Families/Bouvardia.md",
+    "Characters/Nemesis/Vernon Alfred Victor Celestia.md",
+    "Characters/Rivals/Baro.md",
+    "Characters/Rivals/Esky.md",
+    "Characters/Rivals/Sprocket.md",
+    "Content/Royal Families/Royal Families.md",
     "Talents"
   ]
 }

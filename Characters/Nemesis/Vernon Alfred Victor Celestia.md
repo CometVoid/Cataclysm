@@ -1,1 +1,1 @@
-The Head of the [[Celestia]] family, and by extention the current head of the theocracy.             
+The Head of the [[Celestia]] family, and by extention the current head of the theocracy.              
