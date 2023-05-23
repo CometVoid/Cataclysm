@@ -1,0 +1,95 @@
+{
+  "nodePositions": [
+    {
+      "id": "Characters/Characters.md",
+      "x": -665.9398803710938,
+      "y": -400.9208679199219
+    },
+    {
+      "id": "Characters/Nemesis/Vernon Alfred Victor Celestia.md",
+      "x": -470.1484069824219,
+      "y": -186.83673095703125
+    },
+    {
+      "id": "Characters/Rivals/Baro.md",
+      "x": -925.9305419921875,
+      "y": -434.56781005859375
+    },
+    {
+      "id": "Characters/Rivals/Esky.md",
+      "x": -508.5608825683594,
+      "y": -613.1790161132812
+    },
+    {
+      "id": "Characters/Rivals/Sprocket.md",
+      "x": -744.5957641601562,
+      "y": -653.5238647460938
+    },
+    {
+      "id": "README.md",
+      "x": 1849.8768310546875,
+      "y": -337.1276550292969
+    },
+    {
+      "id": "Player-Accessible content/Royal Families/Bouvardia.md",
+      "x": -169.5166778564453,
+      "y": 351.69244384765625
+    },
+    {
+      "id": "Player-Accessible content/Royal Families/Celestia.md",
+      "x": -223.961669921875,
+      "y": 8.486931800842285
+    },
+    {
+      "id": "Player-Accessible content/Royal Families/Royal Families.md",
+      "x": 30.892616271972656,
+      "y": 176.81344604492188
+    },
+    {
+      "id": "Player-Accessible content/Rules/Embeds.md",
+      "x": 732.5221557617188,
+      "y": -162.9388885498047
+    },
+    {
+      "id": "Player-Accessible content/Rules/Rules.md",
+      "x": 555.8265380859375,
+      "y": 32.358116149902344
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 1/Tier 1.md",
+      "x": 300.9527587890625,
+      "y": 678.002685546875
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 2/Tier 2.md",
+      "x": 431.506591796875,
+      "y": 804.9647216796875
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 3/Tier 3.md",
+      "x": 599.9132690429688,
+      "y": 819.7481689453125
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 4/Tier 4.md",
+      "x": 749.8101196289062,
+      "y": 722.0573120117188
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 5/Tier 5.md",
+      "x": 803.7808227539062,
+      "y": 541.6898193359375
+    },
+    {
+      "id": "Player-Accessible content/Talents/Talents.md",
+      "x": 536.2536010742188,
+      "y": 555.2169189453125
+    },
+    {
+      "id": "Player-Accessible content/Player-Accessible content.md",
+      "x": 355.07830810546875,
+      "y": 273.5292663574219
+    }
+  ],
+  "automaticallyRestoreNodePositions": true
+}

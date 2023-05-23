@@ -1,14 +1,14 @@
-# Content Overview
+# Player-Accessible content Overview
+
 %% Begin Waypoint %%
-- [[Content]]
 - **[[Royal Families]]**
 - **[[Rules]]**
+- **[[Talents]]**
+- **Trees**
 
 %% End Waypoint %%
 
-
-
-
+ 
 ```ccard
 type: folder_brief_live
 ```

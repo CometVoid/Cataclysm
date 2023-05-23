@@ -6,6 +6,7 @@
       {
         "id": "2d4607f7c27a46aa",
         "type": "tabs",
+        "dimension": 36.76662320730117,
         "children": [
           {
             "id": "0f54fd7b6f83d632",
@@ -13,13 +14,52 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Player-Accessible content/Talents/Tier 1/Tier 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f29f6db066ba1d1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Accessible content/Player-Accessible content.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5a498a7af893776c",
+        "type": "tabs",
+        "dimension": 63.23337679269883,
+        "children": [
+          {
+            "id": "fffe84a0c9c947bc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8b283dfc96f0f07",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Talents-Expanded.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Player-Accessible content/Player-Accessible content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Player-Accessible content/Player-Accessible content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Player-Accessible content/Player-Accessible content.md"
               }
             }
           },
@@ -159,19 +199,46 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f54fd7b6f83d632",
+  "active": "f29f6db066ba1d1e",
   "lastOpenFiles": [
+    "Player-Accessible content/Talents/Tier 1/Apothecary.md",
+    "Player-Accessible content/Talents/Tier 1/All-Terrain Driver.md",
+    "Talent Template.md",
+    "Player-Accessible content/Talents/Tier 1/Tier 1.md",
+    "Talents-Expanded.pdf",
+    "Player-Accessible content/Player-Accessible content.md",
+    "Player-Accessible content/Talents/Tier 5/Tier 5.md",
+    "Player-Accessible content/Talents/Tier 2/Tier 2.md",
+    "Player-Accessible content/Talents/Talents.md",
+    "Player-Accessible content/Rules/Embeds.md",
+    "Player-Accessible content/Rules/Rules.md",
+    "Player-Accessible content/Content.md",
+    "Player-Accessible content/Talents/Tier 4/Tier 4.md",
+    "Player-Accessible content/Talents/Tier 3/Tier 3.md",
+    "Player-Accessible content/Trees",
+    "Content/Talents/Tier 1/Tier 1.md",
+    "Talents/Tier 2/Tier 2.md",
+    "Talents/Tier 3/Tier 3.md",
+    "Talents/Tier 4/Tier 4.md",
+    "Talents/Tier 5/Tier 5.md",
+    "Characters/Characters.md",
+    "README.md",
+    "Player-Accessible content/Talents/Tier 5",
+    "Player-Accessible content/Talents/Tier 4",
+    "Player-Accessible content/Talents/Tier 3",
+    "Player-Accessible content/Talents/Tier 2",
+    "Player-Accessible content/Talents/Tier 1",
     "netlify.toml",
-    "Content/Royal Families/Royal Families.md",
-    "Content/Royal Families/Celestia.md",
-    "Content/Royal Families/Bouvardia.md",
+    "Player-Accessible content/Royal Families/Royal Families.md",
+    "Player-Accessible content/Royal Families/Celestia.md",
+    "Player-Accessible content/Royal Families/Bouvardia.md",
     "Characters/Nemesis/Vernon Alfred Victor Celestia.md",
     "Characters/Rivals/Baro.md",
     "Characters/Rivals/Esky.md",
-    "Characters/Rivals/Sprocket.md",
-    "Talents"
+    "Player-Accessible content/Talents"
   ]
 }

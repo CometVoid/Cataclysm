@@ -1,7 +1,10 @@
 {
-  "background-settings@@background-settings-workplace-background-image": true,
-  "background-settings@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-tokyo",
-  "background-settings@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-deer",
+  "background-settings@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-custom-option",
   "background-settings@@background-image-settings-switch": true,
-  "background-settings@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-transparent"
+  "background-settings@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-transparent",
+  "background-settings@@background-settings-workplace-background-image": false,
+  "background-settings@@blur-depth": 4,
+  "background-settings@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-deer",
+  "background-settings@@brightness-4-bg": 0.9,
+  "background-settings@@saturate-4-bg": 1
 }
