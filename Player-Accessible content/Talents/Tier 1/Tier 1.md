@@ -47,6 +47,16 @@
 - [[Redundant Systems]]
 - [[Reflect]]
 - [[Resourceful Mechanic]]
+- [[Second Wind]]
+- [[Shapeshifter]]
+- [[Shield Slam]]
+- [[Signiature Vehicle]]
+- [[Smooth Talker]]
+- [[Surgeon]]
+- [[Swift]]
+- [[Toughened]]
+- [[Tumble]]
+- [[Unremarkable]]
 
 %% End Waypoint %%
 

@@ -6,7 +6,6 @@
       {
         "id": "2d4607f7c27a46aa",
         "type": "tabs",
-        "dimension": 36.76662320730117,
         "children": [
           {
             "id": "0f54fd7b6f83d632",
@@ -14,69 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Accessible content/Talents/Tier 1/Resourceful Mechanic.md",
+                "file": "Player-Accessible content/Talents/Tier 2/Blood Sacrifice.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "5a498a7af893776c",
-        "type": "tabs",
-        "dimension": 63.23337679269883,
-        "children": [
-          {
-            "id": "fffe84a0c9c947bc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f8b283dfc96f0f07",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Talents-Expanded.pdf"
-              }
-            }
-          },
-          {
-            "id": "62d8e117febf9404",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.aconvert.com/pdf/extract/"
-              }
-            }
-          },
-          {
-            "id": "ef80fd60ba643d4d",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.aconvert.com/file.php"
-              }
-            }
-          },
-          {
-            "id": "c10939495daba5aa",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://s6.aconvert.com/convert/p3r68-cdx67/ttg2s-4s5j0.zip"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Accessible content/Talents/Tier 1/Resourceful Mechanic.md",
+                "file": "Player-Accessible content/Talents/Tier 2/Blood Sacrifice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Accessible content/Talents/Tier 1/Resourceful Mechanic.md",
+                "file": "Player-Accessible content/Talents/Tier 2/Blood Sacrifice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Accessible content/Talents/Tier 1/Resourceful Mechanic.md"
+                "file": "Player-Accessible content/Talents/Tier 2/Blood Sacrifice.md"
               }
             }
           },
@@ -222,35 +165,35 @@
   },
   "active": "0f54fd7b6f83d632",
   "lastOpenFiles": [
-    "Player-Accessible content/Talents/Tier 1/Intercept.md",
-    "Player-Accessible content/Talents/Tier 1/Resourceful Mechanic.md",
-    "Player-Accessible content/Talents/Tier 1/Knack For It.md",
-    "Player-Accessible content/Talents/Tier 1/Knockout Punch.md",
-    "Player-Accessible content/Talents/Tier 1/Knowledge Specialization.md",
-    "Player-Accessible content/Talents/Tier 1/Let's Ride.md",
-    "Player-Accessible content/Talents/Tier 1/Reflect.md",
+    "Player-Accessible content/Talents/Tier 2/Spirit Contractor.md",
+    "Player-Accessible content/Talents/Tier 2/Blood Sacrifice.md",
+    "Player-Accessible content/Talents/Tier 2/Adventurer.md",
+    "Player-Accessible content/Talents/Tier 1/Tier 1.md",
+    "Player-Accessible content/Talents/Tier 2/Blackmail.md",
+    "Player-Accessible content/Talents/Tier 2/Big Guns.md",
+    "Player-Accessible content/Talents/Tier 2/Berserk.md",
+    "Player-Accessible content/Talents/Tier 2/Barrage.md",
+    "Player-Accessible content/Talents/Tier 2/Basic Military Training.md",
+    "Player-Accessible content/Talents/Tier 2/Bard.md",
+    "Player-Accessible content/Talents/Tier 2/Bad Cop.md",
+    "Player-Accessible content/Talents/Tier 2/Animal Expertise.md",
+    "Player-Accessible content/Talents/Tier 1/Unremarkable.md",
     "Player-Accessible content/Talents/Tier 2/Tier 2.md",
-    "Player-Accessible content/Talents/Tier 1/Redundant Systems.md",
-    "Player-Accessible content/Talents/Tier 1/Rapid Recovery.md",
-    "Player-Accessible content/Talents/Tier 1/Rapid Reaction.md",
-    "Player-Accessible content/Talents/Tier 1/Quick Strike.md",
-    "Player-Accessible content/Talents/Tier 1/Quick Draw.md",
-    "Player-Accessible content/Talents/Tier 1/Proper Upbringing.md",
-    "Player-Accessible content/Talents/Tier 1/Precision.md",
-    "Player-Accessible content/Talents/Tier 1/Parry.md",
-    "Player-Accessible content/Talents/Tier 1/Painful Blow.md",
-    "Player-Accessible content/Talents/Tier 1/One with Nature.md",
-    "Player-Accessible content/Talents/Tier 1/Jump Up.md",
-    "Player-Accessible content/Talents/Tier 1/Hidden Storage.md",
-    "Player-Accessible content/Talents/Tier 1/Hand On The Throttle.md",
-    "Player-Accessible content/Talents/Tier 1/Hamstring Shot.md",
-    "Player-Accessible content/Talents/Tier 1/Grit.md",
-    "Player-Accessible content/Talents/Tier 1/Forager.md",
-    "Player-Accessible content/Talents/Tier 1/Finesse.md",
-    "Player-Accessible content/Talents/Tier 1/Extra Ammo.md",
+    "Player-Accessible content/Talents/Tier 1/Tumble.md",
+    "Untitled.md",
+    "Player-Accessible content/Talents/Tier 1/Toughened.md",
+    "Player-Accessible content/Talents/Tier 1/Swift.md",
+    "Player-Accessible content/Talents/Tier 1/Surgeon.md",
+    "Player-Accessible content/Talents/Tier 1/Smooth Talker.md",
+    "Player-Accessible content/Talents/Tier 1/Apothecary.md",
+    "Player-Accessible content/Talents/Tier 1/Signiature Vehicle.md",
+    "Player-Accessible content/Talents/Tier 1/Shield Slam.md",
+    "Player-Accessible content/Talents/Tier 1/Shapeshifter.md",
+    "Player-Accessible content/Royal Families/Royal Families.md",
+    "Talents-Expanded.pdf",
+    "Player-Accessible content/Talents/Talents.md",
     "Custom",
     "Player-Accessible content/Talents/Tier 1/Custom Spells",
-    "Talents-Expanded.pdf",
     "No touchy",
     "Player-Accessible content/Trees",
     "Player-Accessible content/Talents/Tier 5",
