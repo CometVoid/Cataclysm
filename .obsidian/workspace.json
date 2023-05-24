@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Accessible content/Talents/Tier 1/Courtier.md",
+                "file": "Player-Accessible content/Talents/Tier 1/Resourceful Mechanic.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Accessible content/Talents/Tier 1/Courtier.md",
+                "file": "Player-Accessible content/Talents/Tier 1/Resourceful Mechanic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Accessible content/Talents/Tier 1/Courtier.md",
+                "file": "Player-Accessible content/Talents/Tier 1/Resourceful Mechanic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Accessible content/Talents/Tier 1/Courtier.md"
+                "file": "Player-Accessible content/Talents/Tier 1/Resourceful Mechanic.md"
               }
             }
           },
@@ -222,41 +222,41 @@
   },
   "active": "0f54fd7b6f83d632",
   "lastOpenFiles": [
-    "Player-Accessible content/Talents/Tier 1/Construction Specialist.md",
-    "Player-Accessible content/Talents/Tier 1/Courtier.md",
-    "Player-Accessible content/Talents/Tier 1/Clever Retort.md",
-    "Player-Accessible content/Talents/Tier 1/Challenge.md",
-    "Player-Accessible content/Talents/Tier 1/Apothecary.md",
-    "Player-Accessible content/Talents/Tier 1/All-Terrain Driver.md",
-    "Player-Accessible content/Talents/Tier 1/Call 'Em.md",
-    "Player-Accessible content/Talents/Tier 1/Bullrush.md",
-    "Player-Accessible content/Talents/Tier 1/Brace.md",
-    "Player-Accessible content/Talents/Tier 1/Bought Info.md",
-    "Player-Accessible content/Talents/Tier 1/Black Market Contacts.md",
-    "Talents-Expanded.pdf",
-    "Talent Template.md",
-    "Player-Accessible content/Talents/Tier 1/Tier 1.md",
-    "Black Market Contacts.md",
-    "Player-Accessible content/Player-Accessible content.md",
-    "No touchy",
-    "Player-Accessible content/Talents/Talents.md",
-    "Player-Accessible content/Talents/Tier 5/Tier 5.md",
+    "Player-Accessible content/Talents/Tier 1/Intercept.md",
+    "Player-Accessible content/Talents/Tier 1/Resourceful Mechanic.md",
+    "Player-Accessible content/Talents/Tier 1/Knack For It.md",
+    "Player-Accessible content/Talents/Tier 1/Knockout Punch.md",
+    "Player-Accessible content/Talents/Tier 1/Knowledge Specialization.md",
+    "Player-Accessible content/Talents/Tier 1/Let's Ride.md",
+    "Player-Accessible content/Talents/Tier 1/Reflect.md",
     "Player-Accessible content/Talents/Tier 2/Tier 2.md",
-    "Player-Accessible content/Rules/Embeds.md",
-    "Player-Accessible content/Rules/Rules.md",
-    "Player-Accessible content/Content.md",
-    "Player-Accessible content/Talents/Tier 4/Tier 4.md",
-    "Player-Accessible content/Talents/Tier 3/Tier 3.md",
+    "Player-Accessible content/Talents/Tier 1/Redundant Systems.md",
+    "Player-Accessible content/Talents/Tier 1/Rapid Recovery.md",
+    "Player-Accessible content/Talents/Tier 1/Rapid Reaction.md",
+    "Player-Accessible content/Talents/Tier 1/Quick Strike.md",
+    "Player-Accessible content/Talents/Tier 1/Quick Draw.md",
+    "Player-Accessible content/Talents/Tier 1/Proper Upbringing.md",
+    "Player-Accessible content/Talents/Tier 1/Precision.md",
+    "Player-Accessible content/Talents/Tier 1/Parry.md",
+    "Player-Accessible content/Talents/Tier 1/Painful Blow.md",
+    "Player-Accessible content/Talents/Tier 1/One with Nature.md",
+    "Player-Accessible content/Talents/Tier 1/Jump Up.md",
+    "Player-Accessible content/Talents/Tier 1/Hidden Storage.md",
+    "Player-Accessible content/Talents/Tier 1/Hand On The Throttle.md",
+    "Player-Accessible content/Talents/Tier 1/Hamstring Shot.md",
+    "Player-Accessible content/Talents/Tier 1/Grit.md",
+    "Player-Accessible content/Talents/Tier 1/Forager.md",
+    "Player-Accessible content/Talents/Tier 1/Finesse.md",
+    "Player-Accessible content/Talents/Tier 1/Extra Ammo.md",
+    "Custom",
+    "Player-Accessible content/Talents/Tier 1/Custom Spells",
+    "Talents-Expanded.pdf",
+    "No touchy",
     "Player-Accessible content/Trees",
-    "Content/Talents/Tier 1/Tier 1.md",
-    "Talents/Tier 2/Tier 2.md",
-    "Talents/Tier 3/Tier 3.md",
     "Player-Accessible content/Talents/Tier 5",
     "Player-Accessible content/Talents/Tier 4",
     "Player-Accessible content/Talents/Tier 3",
     "Player-Accessible content/Talents/Tier 2",
-    "Player-Accessible content/Talents/Tier 1",
-    "netlify.toml",
-    "Player-Accessible content/Talents"
+    "Player-Accessible content/Talents/Tier 1"
   ]
 }
