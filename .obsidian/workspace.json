@@ -14,26 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Accessible content/Talents/Tier 1/Tier 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f29f6db066ba1d1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Accessible content/Player-Accessible content.md",
+                "file": "Player-Accessible content/Talents/Tier 1/Courtier.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5a498a7af893776c",
@@ -55,6 +42,36 @@
               "type": "pdf",
               "state": {
                 "file": "Talents-Expanded.pdf"
+              }
+            }
+          },
+          {
+            "id": "62d8e117febf9404",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.aconvert.com/pdf/extract/"
+              }
+            }
+          },
+          {
+            "id": "ef80fd60ba643d4d",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.aconvert.com/file.php"
+              }
+            }
+          },
+          {
+            "id": "c10939495daba5aa",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://s6.aconvert.com/convert/p3r68-cdx67/ttg2s-4s5j0.zip"
               }
             }
           }
@@ -133,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Accessible content/Player-Accessible content.md",
+                "file": "Player-Accessible content/Talents/Tier 1/Courtier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Accessible content/Player-Accessible content.md",
+                "file": "Player-Accessible content/Talents/Tier 1/Courtier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Accessible content/Player-Accessible content.md"
+                "file": "Player-Accessible content/Talents/Tier 1/Courtier.md"
               }
             }
           },
@@ -203,17 +220,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f29f6db066ba1d1e",
+  "active": "0f54fd7b6f83d632",
   "lastOpenFiles": [
+    "Player-Accessible content/Talents/Tier 1/Construction Specialist.md",
+    "Player-Accessible content/Talents/Tier 1/Courtier.md",
+    "Player-Accessible content/Talents/Tier 1/Clever Retort.md",
+    "Player-Accessible content/Talents/Tier 1/Challenge.md",
     "Player-Accessible content/Talents/Tier 1/Apothecary.md",
     "Player-Accessible content/Talents/Tier 1/All-Terrain Driver.md",
+    "Player-Accessible content/Talents/Tier 1/Call 'Em.md",
+    "Player-Accessible content/Talents/Tier 1/Bullrush.md",
+    "Player-Accessible content/Talents/Tier 1/Brace.md",
+    "Player-Accessible content/Talents/Tier 1/Bought Info.md",
+    "Player-Accessible content/Talents/Tier 1/Black Market Contacts.md",
+    "Talents-Expanded.pdf",
     "Talent Template.md",
     "Player-Accessible content/Talents/Tier 1/Tier 1.md",
-    "Talents-Expanded.pdf",
+    "Black Market Contacts.md",
     "Player-Accessible content/Player-Accessible content.md",
+    "No touchy",
+    "Player-Accessible content/Talents/Talents.md",
     "Player-Accessible content/Talents/Tier 5/Tier 5.md",
     "Player-Accessible content/Talents/Tier 2/Tier 2.md",
-    "Player-Accessible content/Talents/Talents.md",
     "Player-Accessible content/Rules/Embeds.md",
     "Player-Accessible content/Rules/Rules.md",
     "Player-Accessible content/Content.md",
@@ -223,22 +251,12 @@
     "Content/Talents/Tier 1/Tier 1.md",
     "Talents/Tier 2/Tier 2.md",
     "Talents/Tier 3/Tier 3.md",
-    "Talents/Tier 4/Tier 4.md",
-    "Talents/Tier 5/Tier 5.md",
-    "Characters/Characters.md",
-    "README.md",
     "Player-Accessible content/Talents/Tier 5",
     "Player-Accessible content/Talents/Tier 4",
     "Player-Accessible content/Talents/Tier 3",
     "Player-Accessible content/Talents/Tier 2",
     "Player-Accessible content/Talents/Tier 1",
     "netlify.toml",
-    "Player-Accessible content/Royal Families/Royal Families.md",
-    "Player-Accessible content/Royal Families/Celestia.md",
-    "Player-Accessible content/Royal Families/Bouvardia.md",
-    "Characters/Nemesis/Vernon Alfred Victor Celestia.md",
-    "Characters/Rivals/Baro.md",
-    "Characters/Rivals/Esky.md",
     "Player-Accessible content/Talents"
   ]
 }

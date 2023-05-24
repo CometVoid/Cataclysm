@@ -1,6 +1,5 @@
 # Characters Overview
 %% Begin Waypoint %%
-- [[Characters]]
 - **Minions**
 - **Nemesis**
 	- [[Vernon Alfred Victor Celestia]]

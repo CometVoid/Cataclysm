@@ -43,5 +43,39 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "62d8e117febf9404",
+      "parent": 0,
+      "droppable": true,
+      "text": "Extract PDF - Extract text, fonts and image from PDF file online",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "ef80fd60ba643d4d",
+      "parent": 0,
+      "droppable": true,
+      "text": "File information - URL, name, size and QR code",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    },
+    {
+      "id": "c10939495daba5aa",
+      "parent": 0,
+      "droppable": true,
+      "text": "New Tab",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }
