@@ -20,6 +20,30 @@
             }
           }
         ]
+      },
+      {
+        "id": "067a72f1604b3b93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8e5e5fe3985b437",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4bbfaeee98690da",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Talents-Expanded.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Accessible content/Talents/Tier 2/Fearsome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Accessible content/Talents/Tier 2/Fearsome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Player-Accessible content/Talents/Tier 2/Fearsome.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,8 +183,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f54fd7b6f83d632",
+  "active": "c8e5e5fe3985b437",
   "lastOpenFiles": [
+    "Player-Accessible content/Player-Accessible content.md",
+    "Talents-Expanded.pdf",
+    "Player-Accessible content/Talents/Tier 2/Blood Sacrifice.md",
     "Player-Accessible content/Talents/Tier 2/Fancy Paint Job.md",
     "Player-Accessible content/Talents/Tier 2/Fearsome.md",
     "Player-Accessible content/Talents/Tier 2/Fan the Hammer.md",
@@ -189,9 +212,6 @@
     "Player-Accessible content/Talents/Tier 2/Coordinated Assault.md",
     "Player-Accessible content/Talents/Tier 2/Containment.md",
     "Player-Accessible content/Talents/Tier 2/Confidence.md",
-    "Player-Accessible content/Talents/Tier 2/Spirit Contractor.md",
-    "Player-Accessible content/Talents/Tier 2/Ice Affinity.md",
-    "Talents-Expanded.pdf",
     "Custom",
     "Player-Accessible content/Talents/Tier 1/Custom Spells",
     "No touchy",
