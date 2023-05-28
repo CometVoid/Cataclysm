@@ -6,20 +6,17 @@
       {
         "id": "2d4607f7c27a46aa",
         "type": "tabs",
-        "dimension": 79.902755267423,
+        "dimension": 77.79578606158833,
         "children": [
           {
             "id": "68966716de19fcbc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Player-Accessible content/Trees/Test.canvas",
-                "viewState": {
-                  "x": 512.767100329589,
-                  "y": 183.2996849901123,
-                  "zoom": -1.2966666666666666
-                }
+                "file": "Player-Accessible content/Trees/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -28,7 +25,7 @@
       {
         "id": "626f80f4bb752f8e",
         "type": "split",
-        "dimension": 20.097244732576986,
+        "dimension": 22.20421393841167,
         "children": [
           {
             "id": "067a72f1604b3b93",
@@ -135,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Accessible content/Trees/Test.canvas",
+                "file": "Player-Accessible content/Trees/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Accessible content/Trees/Test.canvas",
+                "file": "Player-Accessible content/Trees/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Accessible content/Trees/Test.canvas"
+                "file": "Player-Accessible content/Trees/Untitled.md"
               }
             }
           },
@@ -208,6 +205,9 @@
   "active": "68966716de19fcbc",
   "lastOpenFiles": [
     "Player-Accessible content/Trees/Test.canvas",
+    "Player-Accessible content/Trees/Untitled.md",
+    "Player-Accessible content/Trees/Untitled",
+    "ad.md",
     "Talents-Expanded.pdf",
     "Player-Accessible content/Talents/Tier 3/Well-Rounded.md",
     "Player-Accessible content/Talents/Tier 3/Valuable Facts.md",
@@ -232,8 +232,6 @@
     "Player-Accessible content/Talents/Tier 3/Shortcut (Improved).md",
     "Player-Accessible content/Talents/Tier 3/Shockwave.md",
     "Player-Accessible content/Talents/Tier 3/Share Pain.md",
-    "Player-Accessible content/Talents/Tier 3/Sense Advantage.md",
-    "Player-Accessible content/Talents/Tier 3/Seize the Initiative.md",
     "Custom",
     "Player-Accessible content/Talents/Tier 1/Custom Spells",
     "No touchy",
@@ -241,7 +239,6 @@
     "Player-Accessible content/Talents/Tier 5",
     "Player-Accessible content/Talents/Tier 4",
     "Player-Accessible content/Talents/Tier 3",
-    "Player-Accessible content/Talents/Tier 2",
-    "Player-Accessible content/Talents/Tier 1"
+    "Player-Accessible content/Talents/Tier 2"
   ]
 }
