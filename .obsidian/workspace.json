@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Accessible content/Talents/Tier 2/Fearsome.md",
+                "file": "Player-Accessible content/Talents/Tier 3/Valuable Facts.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,6 @@
         "id": "067a72f1604b3b93",
         "type": "tabs",
         "children": [
-          {
-            "id": "c8e5e5fe3985b437",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
           {
             "id": "f4bbfaeee98690da",
             "type": "leaf",
@@ -117,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Player-Accessible content/Talents/Tier 3/Valuable Facts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Player-Accessible content/Talents/Tier 3/Valuable Facts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Player-Accessible content/Talents/Tier 3/Valuable Facts.md"
+              }
             }
           },
           {
@@ -183,35 +179,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c8e5e5fe3985b437",
+  "active": "0f54fd7b6f83d632",
   "lastOpenFiles": [
-    "Player-Accessible content/Player-Accessible content.md",
+    "Player-Accessible content/Talents/Tier 2/Mystic Theurge.md",
+    "Player-Accessible content/Talents/Tier 3/Well-Rounded.md",
     "Talents-Expanded.pdf",
-    "Player-Accessible content/Talents/Tier 2/Blood Sacrifice.md",
-    "Player-Accessible content/Talents/Tier 2/Fancy Paint Job.md",
-    "Player-Accessible content/Talents/Tier 2/Fearsome.md",
-    "Player-Accessible content/Talents/Tier 2/Fan the Hammer.md",
-    "Player-Accessible content/Talents/Tier 2/Exploit.md",
-    "Player-Accessible content/Talents/Tier 2/Encouraging Song.md",
-    "Player-Accessible content/Talents/Tier 2/Dynamic Fire.md",
-    "Player-Accessible content/Talents/Tier 2/Dual wielder.md",
-    "Player-Accessible content/Talents/Tier 2/Distracting Behavior.md",
-    "Player-Accessible content/Talents/Tier 2/Fire Affinity.md",
-    "Player-Accessible content/Talents/Tier 2/Dominion of Dimora.md",
-    "Player-Accessible content/Talents/Tier 2/Disorient.md",
-    "Player-Accessible content/Talents/Tier 2/Dirty Tricks.md",
-    "Player-Accessible content/Talents/Tier 2/Determined Driver.md",
-    "Player-Accessible content/Talents/Tier 2/Defensive Weaver (Improved).md",
-    "Player-Accessible content/Talents/Tier 2/Defensive Stance.md",
-    "Player-Accessible content/Talents/Tier 2/Deceptive Taunt.md",
-    "Player-Accessible content/Talents/Tier 2/Debilitating Shot.md",
-    "ad.md",
-    "Player-Accessible content/Talents/Tier 2/Daring Aviator.md",
-    "Player-Accessible content/Talents/Tier 2/Cutting Question.md",
-    "Player-Accessible content/Talents/Tier 2/Counteroffer.md",
-    "Player-Accessible content/Talents/Tier 2/Coordinated Assault.md",
-    "Player-Accessible content/Talents/Tier 2/Containment.md",
-    "Player-Accessible content/Talents/Tier 2/Confidence.md",
+    "Player-Accessible content/Talents/Tier 3/Valuable Facts.md",
+    "Player-Accessible content/Talents/Tier 3/Up the Ante.md",
+    "Player-Accessible content/Talents/Tier 3/Unremarkable (Improved).md",
+    "Player-Accessible content/Talents/Tier 3/Twisted Words.md",
+    "Player-Accessible content/Talents/Tier 3/Tuned Handling.md",
+    "Player-Accessible content/Talents/Tier 3/Trust the Captain.md",
+    "Player-Accessible content/Talents/Tier 3/Tricky Target.md",
+    "Player-Accessible content/Talents/Tier 3/Toughened (Improved).md",
+    "Player-Accessible content/Talents/Tier 3/Time to Go (Improved).md",
+    "Player-Accessible content/Talents/Tier 3/Suppressing Fire.md",
+    "Player-Accessible content/Talents/Tier 3/Takedown.md",
+    "Player-Accessible content/Talents/Tier 3/Sunder Expertise.md",
+    "Player-Accessible content/Talents/Tier 3/Stunning Blow (Improved).md",
+    "Player-Accessible content/Talents/Tier 3/Studious Plotting.md",
+    "Player-Accessible content/Talents/Tier 3/Spur.md",
+    "Player-Accessible content/Talents/Tier 3/Snaring Wards.md",
+    "Player-Accessible content/Talents/Tier 3/Smart Handling.md",
+    "Player-Accessible content/Talents/Tier 3/Skilled Teacher.md",
+    "Player-Accessible content/Talents/Tier 3/Shortcut (Improved).md",
+    "Player-Accessible content/Talents/Tier 3/Shockwave.md",
+    "Player-Accessible content/Talents/Tier 3/Share Pain.md",
+    "Player-Accessible content/Talents/Tier 3/Sense Advantage.md",
+    "Player-Accessible content/Talents/Tier 3/Seize the Initiative.md",
+    "Player-Accessible content/Talents/Tier 3/Scything Strike.md",
     "Custom",
     "Player-Accessible content/Talents/Tier 1/Custom Spells",
     "No touchy",
