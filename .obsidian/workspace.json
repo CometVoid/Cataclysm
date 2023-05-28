@@ -6,36 +6,62 @@
       {
         "id": "2d4607f7c27a46aa",
         "type": "tabs",
+        "dimension": 79.902755267423,
         "children": [
           {
-            "id": "0f54fd7b6f83d632",
+            "id": "68966716de19fcbc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Player-Accessible content/Talents/Tier 3/Valuable Facts.md",
-                "mode": "source",
-                "source": false
+                "file": "Player-Accessible content/Trees/Test.canvas",
+                "viewState": {
+                  "x": 512.767100329589,
+                  "y": 183.2996849901123,
+                  "zoom": -1.2966666666666666
+                }
               }
             }
           }
         ]
       },
       {
-        "id": "067a72f1604b3b93",
-        "type": "tabs",
+        "id": "626f80f4bb752f8e",
+        "type": "split",
+        "dimension": 20.097244732576986,
         "children": [
           {
-            "id": "f4bbfaeee98690da",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Talents-Expanded.pdf"
+            "id": "067a72f1604b3b93",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f4bbfaeee98690da",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Talents-Expanded.pdf"
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "4a5f040c8112de59",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c146bf4680d01cfa",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -109,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Accessible content/Talents/Tier 3/Valuable Facts.md",
+                "file": "Player-Accessible content/Trees/Test.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Accessible content/Talents/Tier 3/Valuable Facts.md",
+                "file": "Player-Accessible content/Trees/Test.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Accessible content/Talents/Tier 3/Valuable Facts.md"
+                "file": "Player-Accessible content/Trees/Test.canvas"
               }
             }
           },
@@ -179,12 +205,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f54fd7b6f83d632",
+  "active": "68966716de19fcbc",
   "lastOpenFiles": [
-    "Player-Accessible content/Talents/Tier 2/Mystic Theurge.md",
-    "Player-Accessible content/Talents/Tier 3/Well-Rounded.md",
+    "Player-Accessible content/Trees/Test.canvas",
     "Talents-Expanded.pdf",
+    "Player-Accessible content/Talents/Tier 3/Well-Rounded.md",
     "Player-Accessible content/Talents/Tier 3/Valuable Facts.md",
+    "Player-Accessible content/Talents/Tier 2/Mystic Theurge.md",
     "Player-Accessible content/Talents/Tier 3/Up the Ante.md",
     "Player-Accessible content/Talents/Tier 3/Unremarkable (Improved).md",
     "Player-Accessible content/Talents/Tier 3/Twisted Words.md",
@@ -207,7 +234,6 @@
     "Player-Accessible content/Talents/Tier 3/Share Pain.md",
     "Player-Accessible content/Talents/Tier 3/Sense Advantage.md",
     "Player-Accessible content/Talents/Tier 3/Seize the Initiative.md",
-    "Player-Accessible content/Talents/Tier 3/Scything Strike.md",
     "Custom",
     "Player-Accessible content/Talents/Tier 1/Custom Spells",
     "No touchy",
