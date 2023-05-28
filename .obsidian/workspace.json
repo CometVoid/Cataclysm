@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player-Accessible content/Trees/Untitled.md",
+                "file": "Player-Accessible content/Talents/Trees/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Accessible content/Trees/Untitled.md",
+                "file": "Player-Accessible content/Talents/Trees/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Accessible content/Trees/Untitled.md",
+                "file": "Player-Accessible content/Talents/Trees/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Accessible content/Trees/Untitled.md"
+                "file": "Player-Accessible content/Talents/Trees/Untitled.md"
               }
             }
           },
@@ -202,10 +202,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68966716de19fcbc",
+  "active": "3e5df91b2fc72f09",
   "lastOpenFiles": [
-    "Player-Accessible content/Trees/Test.canvas",
-    "Player-Accessible content/Trees/Untitled.md",
+    "Player-Accessible content/Talents/Trees/Test.canvas",
+    "Player-Accessible content/Talents/Trees/Untitled.md",
     "Player-Accessible content/Trees/Untitled",
     "ad.md",
     "Talents-Expanded.pdf",
@@ -235,7 +235,7 @@
     "Custom",
     "Player-Accessible content/Talents/Tier 1/Custom Spells",
     "No touchy",
-    "Player-Accessible content/Trees",
+    "Player-Accessible content/Talents/Trees",
     "Player-Accessible content/Talents/Tier 5",
     "Player-Accessible content/Talents/Tier 4",
     "Player-Accessible content/Talents/Tier 3",
