@@ -29,7 +29,7 @@
 - [[Hamstring Shot]]
 - [[Hand On The Throttle]]
 - [[Hidden Storage]]
-- [[Interception Parry]]
+- [[Intercept]]
 - [[Jump Up]]
 - [[Knack For It]]
 - [[Knockout Punch]]

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"bb07477715999eb1","x":387,"y":126,"width":400,"height":400,"type":"group","label":"5 xp"},
+		{"type":"group","id":"56af52057350f0d9","x":880,"y":126,"width":400,"height":400,"label":"5 xp"},
+		{"type":"group","id":"42f4878b1def17a5","x":1360,"y":126,"width":400,"height":400,"label":"5 xp"},
+		{"type":"group","id":"72d1a5ca3571af7f","x":1840,"y":126,"width":400,"height":400,"label":"5 xp"}
+	],
+	"edges":[]
+}

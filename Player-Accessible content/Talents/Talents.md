@@ -7,7 +7,6 @@
 - **[[Tier 4]]**
 - **[[Tier 5]]**
 - **Trees**
-	- [[Untitled]]
 
 %% End Waypoint %%
 
