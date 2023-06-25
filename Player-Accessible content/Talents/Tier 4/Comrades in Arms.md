@@ -7,4 +7,3 @@ plus one ally per **Success** within medium range
 gains +1 defense for the remainder of the
 encounter. Effects end if affected targets
 move beyond medium range.
-So

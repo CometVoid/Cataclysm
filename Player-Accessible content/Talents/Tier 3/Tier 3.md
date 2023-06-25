@@ -40,6 +40,7 @@
 - [[Exhaustive Questioning]]
 - [[Extended Reach]]
 - [[Eye for Detail]]
+- [[Familiar]]
 - [[Fear the Shadows]]
 - [[Fearsome Rep]]
 - [[Feint]]

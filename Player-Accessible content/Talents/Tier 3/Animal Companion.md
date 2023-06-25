@@ -36,3 +36,9 @@ companion may make sense in many
 settings, in a futuristic setting it may make
 more sense for the “animal” to be a robot or
 drone, for example.
+
+### Extra GM ruling funsies
+If your Animal Companion is a nemesis, you may
+spend your xp on the nemesis to let it buy talents and skills as if it were a PC.
+It cannot take ranks in animal companion however, and instead skips over them as if
+it had already unlocked them in trees.

@@ -4,31 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "2d4607f7c27a46aa",
+        "id": "39a1f7064efe509b",
         "type": "tabs",
         "children": [
           {
-            "id": "68966716de19fcbc",
+            "id": "eb8841ed8e076711",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Player-Accessible content/Talents/Tier 3/Scathing Tirade (Improved).md",
-                "mode": "source",
-                "source": false
+                "file": "Player-Accessible content/Talents/Trees/Juggernaught.canvas",
+                "viewState": {
+                  "x": 748.8648346596242,
+                  "y": 826.1833190660598,
+                  "zoom": -1.4903004436049798
+                }
               }
             }
-          },
-          {
-            "id": "8ccbadef4bae5d40",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,12 +76,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d8c0e2d32c2f2491",
@@ -103,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Player-Accessible content/Talents/Trees/Juggernaught.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Player-Accessible content/Talents/Trees/Juggernaught.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Player-Accessible content/Talents/Trees/Juggernaught.canvas"
+              }
             }
           },
           {
@@ -169,36 +167,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8ccbadef4bae5d40",
+  "active": "eb8841ed8e076711",
   "lastOpenFiles": [
-    "Player-Accessible content/Talents/Tier 3/Scathing Tirade (Improved).md",
-    "Player-Accessible content/Talents/Tier 3/Animal Companion.md",
+    "Player-Accessible content/Talents/Trees/Warlock.canvas",
+    "Player-Accessible content/Talents/Trees/Warlock.png",
+    "Player-Accessible content/Talents/Tier 3/Center of Being.md",
+    "Player-Accessible content/Talents/Tier 5/Drone Master.md",
+    "Player-Accessible content/Talents/Tier 2/Magical Aptitude.md",
+    "Player-Accessible content/Talents/Tier 4/Burn Through.md",
+    "Player-Accessible content/Talents/Tier 4/Overcharge.md",
+    "Player-Accessible content/Talents/Tier 4/Conduit.md",
+    "Player-Accessible content/Rules/core rulebook.pdf",
+    "Player-Accessible content/Talents/Tier 2/Bulwark.md",
+    "Player-Accessible content/Talents/Tier 5/Familiar (Supreme).md",
+    "Player-Accessible content/Rules/Cataclysm setting Sheet.png",
+    "Player-Accessible content/Talents/Tier 4/Familiar (Improved).md",
     "Talents-Expanded.pdf",
-    "Player-Accessible content/Talents/Tier 5/Power of Darkness.md",
-    "Player-Accessible content/Talents/Tier 3/Tier 3.md",
-    "Player-Accessible content/Talents/Tier 5/Zealous Fire.md",
-    "Player-Accessible content/Talents/Tier 5/Whirlwind.md",
-    "Player-Accessible content/Talents/Tier 5/Web Of Knowledge.md",
-    "Player-Accessible content/Talents/Tier 5/Unrelenting Skeptic (Improved).md",
-    "Player-Accessible content/Talents/Tier 5/Trick Of The Light.md",
-    "Player-Accessible content/Talents/Tier 5/Thorough Assessment.md",
-    "Player-Accessible content/Talents/Tier 5/Superhuman Reflexes.md",
-    "Player-Accessible content/Talents/Tier 5/Spur (Supreme).md",
+    "Player-Accessible content/Talents/Tier 3/Familiar.md",
+    "Player-Accessible content/Rules/Rules.md",
+    "Player-Accessible content/Talents/Tier 5/Spirit Speak (Supreme).md",
     "Player-Accessible content/Talents/Tier 5/Speaks Binary (Supreme).md",
-    "Player-Accessible content/Talents/Tier 5/Ruinious Repartee.md",
-    "Player-Accessible content/Talents/Tier 5/Retribution.md",
-    "Player-Accessible content/Talents/Tier 5/Prepare to be Boarded.md",
-    "Player-Accessible content/Talents/Tier 5/Overcharge.md",
-    "Player-Accessible content/Talents/Tier 5/Most Impressive.md",
-    "Player-Accessible content/Talents/Tier 5/Master Plan.md",
-    "Player-Accessible content/Talents/Tier 5/Master Merchant.md",
-    "Player-Accessible content/Talents/Tier 5/Master Instructor.md",
-    "Player-Accessible content/Talents/Tier 5/Master.md",
-    "Player-Accessible content/Talents/Tier 5/Master Grenadier.md",
-    "Player-Accessible content/Talents/Tier 5/Master Pilot.md",
-    "Player-Accessible content/Talents/Tier 5/Master Demolitionist.md",
-    "Player-Accessible content/Talents/Tier 5/Let's Talk This Over.md",
+    "Player-Accessible content/Talents/Tier 4/Spirit Speak(Improved).md",
+    "Player-Accessible content/Talents/Talents.md",
+    "Player-Accessible content/Talents/Tier 2/Speaks Binary.md",
+    "Player-Accessible content/Talents/Tier 4/Speaks Binary (Improved).md",
+    "Player-Accessible content/Talents/Tier 4/Comrades in Arms.md",
+    "Player-Accessible content/Talents/Tier 2/Dirty Tricks.md",
+    "Player-Accessible content/Talents/Tier 2/Containment.md",
+    "Player-Accessible content/Talents/Tier 3/No Escape.md",
+    "Player-Accessible content/Talents/Tier 3/Battle Casting.md",
+    "Player-Accessible content/Talents/Tier 3/Opportunist.md",
+    "Player-Accessible content/Talents/Tier 3/Sense Advantage.md",
+    "Player-Accessible content/Talents/Tier 2/Confidence.md",
     "Player-Accessible content/Talents/Trees/Juggernaught.canvas",
+    "Player-Accessible content/Talents/Trees/Juggernaught.png",
     "Player-Accessible content/Talents/Untitled",
     "Player-Accessible content/Talents/Trees/Test.canvas",
     "Player-Accessible content/Trees/Untitled",
@@ -207,7 +209,6 @@
     "No touchy",
     "Player-Accessible content/Talents/Trees",
     "Player-Accessible content/Talents/Tier 5",
-    "Player-Accessible content/Talents/Tier 4",
-    "Player-Accessible content/Talents/Tier 3"
+    "Player-Accessible content/Talents/Tier 4"
   ]
 }

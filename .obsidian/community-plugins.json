@@ -1,9 +1,9 @@
 [
   "obsidian-git",
   "surfing",
-  "obsidian-style-settings",
   "folder-note-plugin",
   "table-editor-obsidian",
   "waypoint",
-  "persistent-graph"
+  "persistent-graph",
+  "obsidian-style-settings"
 ]
