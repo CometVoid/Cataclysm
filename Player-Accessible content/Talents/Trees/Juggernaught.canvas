@@ -7,7 +7,6 @@
 		{"type":"file","file":"Player-Accessible content/Talents/Tier 1/Challenge.md","id":"6403537609dd2453","x":720,"y":240,"width":400,"height":400},
 		{"type":"file","file":"Player-Accessible content/Talents/Tier 1/Challenge.md","id":"76bf2218b33eed0c","x":720,"y":-200,"width":400,"height":400},
 		{"type":"file","file":"Player-Accessible content/Talents/Tier 3/Body Guard.md","id":"d4ec51be3959ac4d","x":1160,"y":-200,"width":400,"height":400},
-		{"type":"file","file":"Player-Accessible content/Talents/Tier 3/Pin.md","id":"82e554972e7c346c","x":720,"y":1120,"width":400,"height":400},
 		{"type":"file","file":"Player-Accessible content/Talents/Tier 3/Heroic Resilience.md","id":"18b1db109c725134","x":720,"y":1560,"width":400,"height":400},
 		{"type":"file","file":"Player-Accessible content/Talents/Tier 3/Heroic Resilience.md","id":"1fc76c3213ec2c3f","x":2040,"y":1560,"width":400,"height":400},
 		{"type":"file","file":"Player-Accessible content/Talents/Tier 1/Durable.md","id":"cf2ba2b10c5f9265","x":1600,"y":-200,"width":400,"height":400},
@@ -21,7 +20,8 @@
 		{"type":"file","file":"Player-Accessible content/Talents/Tier 5/Dedication.md","id":"2fd7ec7ef4e5ecf8","x":1160,"y":1560,"width":400,"height":400},
 		{"type":"file","file":"Player-Accessible content/Talents/Tier 3/Toughened (Improved).md","id":"c748a5219780b068","x":1600,"y":1120,"width":400,"height":400},
 		{"type":"file","file":"Player-Accessible content/Talents/Tier 5/Zealous Fire.md","id":"cba44d9039e9f694","x":1160,"y":1120,"width":400,"height":400},
-		{"type":"file","file":"Player-Accessible content/Talents/Tier 1/Challenge.md","id":"ad2d728a081c2291","x":280,"y":-520,"width":400,"height":480}
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 1/Challenge.md","id":"ad2d728a081c2291","x":280,"y":-520,"width":400,"height":480},
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 1/Durable.md","id":"2a438cfceb38fb48","x":720,"y":1120,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"1a6ea43ebdec864b","fromNode":"c9fda7a3759ce411","fromSide":"bottom","toNode":"364729b2f94a53d1","toSide":"top"},
@@ -34,16 +34,16 @@
 		{"id":"0838edd276e8156d","fromNode":"d4ec51be3959ac4d","fromSide":"bottom","toNode":"bca965c672f0f9f6","toSide":"top"},
 		{"id":"08575e9065f78f33","fromNode":"76bf2218b33eed0c","fromSide":"bottom","toNode":"6403537609dd2453","toSide":"top"},
 		{"id":"6ebe40f0d5e79ce7","fromNode":"6403537609dd2453","fromSide":"bottom","toNode":"3a9a79753654ca8d","toSide":"top"},
-		{"id":"ca1ea57df9d42319","fromNode":"3a9a79753654ca8d","fromSide":"bottom","toNode":"82e554972e7c346c","toSide":"top"},
-		{"id":"305632d38b98c854","fromNode":"82e554972e7c346c","fromSide":"bottom","toNode":"18b1db109c725134","toSide":"top"},
 		{"id":"00ee1f3e7a7c137c","fromNode":"18b1db109c725134","fromSide":"right","toNode":"2fd7ec7ef4e5ecf8","toSide":"left"},
 		{"id":"b144aa8742975fed","fromNode":"2fd7ec7ef4e5ecf8","fromSide":"top","toNode":"cba44d9039e9f694","toSide":"bottom"},
 		{"id":"d7999c19551481e3","fromNode":"740f977455740eff","fromSide":"left","toNode":"c748a5219780b068","toSide":"right","toEnd":"none"},
 		{"id":"9793b7b5c5504126","fromNode":"bca965c672f0f9f6","fromSide":"left","toNode":"6403537609dd2453","toSide":"right","toEnd":"none"},
-		{"id":"491a7a563c8d82ea","fromNode":"c748a5219780b068","fromSide":"bottom","toNode":"bda250a3acd91345","toSide":"top"},
+		{"id":"491a7a563c8d82ea","fromNode":"c748a5219780b068","fromSide":"bottom","toNode":"bda250a3acd91345","toSide":"top","toEnd":"none"},
 		{"id":"b02f8b65494031af","fromNode":"2fd7ec7ef4e5ecf8","fromSide":"right","toNode":"bda250a3acd91345","toSide":"left","toEnd":"none"},
 		{"id":"2ee9e65e4cc2f08d","fromNode":"7c3fc8d2e7d02981","fromSide":"right","toNode":"e2c4c10fe3b4185a","toSide":"left","toEnd":"none"},
 		{"id":"115f3213f1a1f135","fromNode":"7c3fc8d2e7d02981","fromSide":"left","toNode":"3a9a79753654ca8d","toSide":"right","toEnd":"none"},
-		{"id":"c918b6c7b4b3ff5e","fromNode":"e2c4c10fe3b4185a","fromSide":"right","toNode":"f076cafc6fdfcc15","toSide":"left","toEnd":"none"}
+		{"id":"c918b6c7b4b3ff5e","fromNode":"e2c4c10fe3b4185a","fromSide":"right","toNode":"f076cafc6fdfcc15","toSide":"left","toEnd":"none"},
+		{"id":"c82e650287eb3c4c","fromNode":"3a9a79753654ca8d","fromSide":"bottom","toNode":"2a438cfceb38fb48","toSide":"top"},
+		{"id":"69111b4956c9d50f","fromNode":"2a438cfceb38fb48","fromSide":"bottom","toNode":"18b1db109c725134","toSide":"top"}
 	]
 }

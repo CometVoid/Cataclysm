@@ -11,15 +11,8 @@
             "id": "eb8841ed8e076711",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Player-Accessible content/Talents/Trees/Juggernaught.canvas",
-                "viewState": {
-                  "x": 748.8648346596242,
-                  "y": 826.1833190660598,
-                  "zoom": -1.4903004436049798
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -80,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d8c0e2d32c2f2491",
@@ -97,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Accessible content/Talents/Trees/Juggernaught.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Accessible content/Talents/Trees/Juggernaught.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Player-Accessible content/Talents/Trees/Juggernaught.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -169,38 +157,40 @@
   },
   "active": "eb8841ed8e076711",
   "lastOpenFiles": [
-    "Player-Accessible content/Talents/Trees/Warlock.canvas",
-    "Player-Accessible content/Talents/Trees/Warlock.png",
-    "Player-Accessible content/Talents/Tier 3/Center of Being.md",
-    "Player-Accessible content/Talents/Tier 5/Drone Master.md",
-    "Player-Accessible content/Talents/Tier 2/Magical Aptitude.md",
-    "Player-Accessible content/Talents/Tier 4/Burn Through.md",
-    "Player-Accessible content/Talents/Tier 4/Overcharge.md",
-    "Player-Accessible content/Talents/Tier 4/Conduit.md",
-    "Player-Accessible content/Rules/core rulebook.pdf",
-    "Player-Accessible content/Talents/Tier 2/Bulwark.md",
-    "Player-Accessible content/Talents/Tier 5/Familiar (Supreme).md",
-    "Player-Accessible content/Rules/Cataclysm setting Sheet.png",
-    "Player-Accessible content/Talents/Tier 4/Familiar (Improved).md",
-    "Talents-Expanded.pdf",
-    "Player-Accessible content/Talents/Tier 3/Familiar.md",
-    "Player-Accessible content/Rules/Rules.md",
-    "Player-Accessible content/Talents/Tier 5/Spirit Speak (Supreme).md",
-    "Player-Accessible content/Talents/Tier 5/Speaks Binary (Supreme).md",
-    "Player-Accessible content/Talents/Tier 4/Spirit Speak(Improved).md",
-    "Player-Accessible content/Talents/Talents.md",
-    "Player-Accessible content/Talents/Tier 2/Speaks Binary.md",
-    "Player-Accessible content/Talents/Tier 4/Speaks Binary (Improved).md",
-    "Player-Accessible content/Talents/Tier 4/Comrades in Arms.md",
-    "Player-Accessible content/Talents/Tier 2/Dirty Tricks.md",
-    "Player-Accessible content/Talents/Tier 2/Containment.md",
-    "Player-Accessible content/Talents/Tier 3/No Escape.md",
-    "Player-Accessible content/Talents/Tier 3/Battle Casting.md",
+    "Player-Accessible content/Talents/Tier 4/Tier 4.md",
+    "Player-Accessible content/Talents/Tier 3/Tier 3.md",
+    "Player-Accessible content/Talents/Trees/Blademaster.canvas",
+    "Player-Accessible content/Talents/Tier 4/Prophetic Aim.md",
+    "Player-Accessible content/Talents/Tier 3/Formation Tactics.md",
+    "Player-Accessible content/Talents/Tier 3/Feint.md",
     "Player-Accessible content/Talents/Tier 3/Opportunist.md",
+    "Player-Accessible content/Talents/Tier 3/Scything Strike.md",
+    "Player-Accessible content/Talents/Tier 4/Unrelenting.md",
+    "Player-Accessible content/Talents/Tier 4/Overbalance.md",
+    "Player-Accessible content/Talents/Tier 3/Lethal Blows.md",
     "Player-Accessible content/Talents/Tier 3/Sense Advantage.md",
-    "Player-Accessible content/Talents/Tier 2/Confidence.md",
-    "Player-Accessible content/Talents/Trees/Juggernaught.canvas",
+    "Player-Accessible content/Talents/Tier 3/Dual Strike.md",
+    "Player-Accessible content/Talents/Tier 3/Tricky Target.md",
+    "Player-Accessible content/Talents/Tier 5/Whirlwind.md",
+    "Player-Accessible content/Talents/Tier 5/Master.md",
+    "Player-Accessible content/Talents/Tier 2/Dirty Tricks.md",
+    "Player-Accessible content/Talents/Tier 5/Coordination Dodge.md",
+    "Player-Accessible content/Talents/Tier 4/Deflection.md",
+    "Player-Accessible content/Talents/Tier 3/Pressure Point.md",
+    "Player-Accessible content/Talents/Tier 3/Creative Killer.md",
+    "Player-Accessible content/Talents/Tier 4/Center of Being (Improved).md",
+    "Player-Accessible content/Talents/Tier 4/Brilliant Evasion.md",
+    "Player-Accessible content/Talents/Tier 4/By the Book.md",
+    "Player-Accessible content/Talents/Tier 5/Intense Focus.md",
+    "Player-Accessible content/Talents/Tier 5/Indomitable.md",
+    "Player-Accessible content/Talents/Tier 1/Call 'Em.md",
+    "Player-Accessible content/Talents/Trees/Warlock.canvas",
     "Player-Accessible content/Talents/Trees/Juggernaught.png",
+    "Player-Accessible content/Talents/Trees/Juggernaught.canvas",
+    "Player-Accessible content/Talents/Trees/Warlock.png",
+    "Player-Accessible content/Rules/core rulebook.pdf",
+    "Player-Accessible content/Rules/Cataclysm setting Sheet.png",
+    "Talents-Expanded.pdf",
     "Player-Accessible content/Talents/Untitled",
     "Player-Accessible content/Talents/Trees/Test.canvas",
     "Player-Accessible content/Trees/Untitled",
