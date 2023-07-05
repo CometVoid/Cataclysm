@@ -2,7 +2,8 @@
   "accentColor": "",
   "cssTheme": "",
   "enabledCssSnippets": [
-    "S-Callouts"
+    "S-Callouts",
+    "obsidian-workspace-background(Shiba Uni Theme)"
   ],
   "theme": "obsidian"
 }

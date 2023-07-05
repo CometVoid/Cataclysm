@@ -25,6 +25,7 @@
 - [[Intense Focus]]
 - [[Just Kidding!]]
 - [[Let's Talk This Over]]
+- [[Master (Melee Light)]]
 - [[Master Demolitionist]]
 - [[Master Grenadier]]
 - [[Master Instructor]]

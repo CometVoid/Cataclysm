@@ -1,4 +1,4 @@
-Activation: Action
+Activation: Incidental
 Ranked: No
 ##### effect
 Your character must have purchased the

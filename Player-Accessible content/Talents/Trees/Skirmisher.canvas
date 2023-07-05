@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Skirmisher\n\n## extra skills\n- Melee Light\n- Coordination\n- Athletics\n- Vigilence\n","id":"1fc7ce5a2c89dac5","x":720,"y":-520,"width":1720,"height":240},
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 1/Finesse.md","id":"b8d68c69fa0bf8d5","x":1160,"y":-220,"width":400,"height":400},
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 1/Grit.md","id":"b5d65ec3678ec4b7","x":720,"y":-220,"width":400,"height":400},
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 1/Quick Strike.md","id":"ab8c5fa5b163a142","x":1160,"y":220,"width":400,"height":400},
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 1/Reflect.md","id":"2c8fe6408c2d1d88","x":1600,"y":220,"width":400,"height":400},
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 1/Parry.md","id":"7004c012e42a6e1d","x":720,"y":220,"width":400,"height":400},
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 1/Tumble.md","id":"da69dead5caff1bd","x":1600,"y":-220,"width":400,"height":400},
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 1/Parry.md","id":"4dedf33fe0d850d9","x":2040,"y":-220,"width":400,"height":400},
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 5/Dedication.md","id":"6bffc8f6858b631a","x":1600,"y":1540,"width":400,"height":400},
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 3/Dodge.md","id":"a5e60dfe10fe3e79","x":2040,"y":1540,"width":400,"height":400},
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 3/Dodge.md","id":"83bb9028f5e493be","x":720,"y":1100,"width":400,"height":400},
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 3/Dodge.md","id":"63c5e8588c2dde29","x":2040,"y":660,"width":400,"height":400},
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 3/Constant Vigilance.md","id":"fd4e1f4445dbbdbb","x":1600,"y":660,"width":400,"height":400},
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 1/Grit.md","id":"eb28f6f8b9fc81f2","x":2040,"y":220,"width":400,"height":400},
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 3/Moving Target.md","id":"20c65f5e12920907","x":720,"y":660,"width":400,"height":400},
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 2/Freerunner.md","id":"8509767b3c215339","x":1600,"y":1100,"width":400,"height":400},
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 3/Martial Weapons Master.md","id":"51af1b24b8f81911","x":1160,"y":1100,"width":400,"height":400},
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 3/Nimble.md","id":"468174683547490e","x":1160,"y":660,"width":400,"height":400},
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 4/Freerunner (Improved).md","id":"54aad4c66324feee","x":2040,"y":1100,"width":400,"height":400},
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 5/Master.md","id":"3cf8868ec0ef1d69","x":720,"y":1540,"width":400,"height":400},
+		{"type":"file","file":"Player-Accessible content/Talents/Tier 4/Deadly Accuracy.md","id":"d491caf7f67e87b7","x":1160,"y":1540,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"d1aa15378b641ad7","fromNode":"b5d65ec3678ec4b7","fromSide":"bottom","toNode":"7004c012e42a6e1d","toSide":"top"},
+		{"id":"ad97956409c8cb91","fromNode":"4dedf33fe0d850d9","fromSide":"bottom","toNode":"eb28f6f8b9fc81f2","toSide":"top"},
+		{"id":"3d3026d548a95d72","fromNode":"da69dead5caff1bd","fromSide":"bottom","toNode":"2c8fe6408c2d1d88","toSide":"top"},
+		{"id":"3aa31e2da69ff7a2","fromNode":"b8d68c69fa0bf8d5","fromSide":"bottom","toNode":"ab8c5fa5b163a142","toSide":"top"},
+		{"id":"cd77bb197fd1d8ba","fromNode":"8509767b3c215339","fromSide":"right","toNode":"54aad4c66324feee","toSide":"left","toEnd":"none"},
+		{"id":"42f4ab084ee91399","fromNode":"2c8fe6408c2d1d88","fromSide":"right","toNode":"eb28f6f8b9fc81f2","toSide":"left","toEnd":"none"},
+		{"id":"727bce203bd7e756","fromNode":"ab8c5fa5b163a142","fromSide":"right","toNode":"2c8fe6408c2d1d88","toSide":"left","toEnd":"none"},
+		{"id":"1c2adbd85a8e39bc","fromNode":"7004c012e42a6e1d","fromSide":"right","toNode":"ab8c5fa5b163a142","toSide":"left","toEnd":"none"},
+		{"id":"6e41e12eeb023bc7","fromNode":"6bffc8f6858b631a","fromSide":"left","toNode":"d491caf7f67e87b7","toSide":"right","toEnd":"none"},
+		{"id":"bdcfb44e09b42be4","fromNode":"d491caf7f67e87b7","fromSide":"left","toNode":"3cf8868ec0ef1d69","toSide":"right"},
+		{"id":"95343122aeb257bd","fromNode":"51af1b24b8f81911","fromSide":"bottom","toNode":"d491caf7f67e87b7","toSide":"top"},
+		{"id":"6f7f0e5974861508","fromNode":"54aad4c66324feee","fromSide":"bottom","toNode":"a5e60dfe10fe3e79","toSide":"top"},
+		{"id":"8763b6ac31006c02","fromNode":"8509767b3c215339","fromSide":"bottom","toNode":"6bffc8f6858b631a","toSide":"top"},
+		{"id":"5dbb82234f63752d","fromNode":"6bffc8f6858b631a","fromSide":"right","toNode":"a5e60dfe10fe3e79","toSide":"left","toEnd":"none"},
+		{"id":"8c307e6669c4ae37","fromNode":"fd4e1f4445dbbdbb","fromSide":"bottom","toNode":"8509767b3c215339","toSide":"top"},
+		{"id":"0fa683047981ea70","fromNode":"468174683547490e","fromSide":"bottom","toNode":"51af1b24b8f81911","toSide":"top"}
+	]
+}
