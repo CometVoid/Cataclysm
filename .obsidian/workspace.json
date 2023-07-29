@@ -6,7 +6,6 @@
       {
         "id": "302ef67ca134cf9b",
         "type": "tabs",
-        "dimension": 24.428934010152282,
         "children": [
           {
             "id": "b0be83f51c821eac",
@@ -16,9 +15,9 @@
               "state": {
                 "file": "Player-Accessible content/Talents/Trees/Skirmisher.canvas",
                 "viewState": {
-                  "x": 1558.21802611793,
-                  "y": 93.2771662516297,
-                  "zoom": -1.263644553883019
+                  "x": 1466.2531457318714,
+                  "y": 831.1442121053024,
+                  "zoom": -1.7799372740719386
                 }
               }
             }
@@ -37,46 +36,24 @@
             "id": "7dd51b06abd5d04c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Player-Accessible content/Talents/Trees/Skirmisher.canvas",
-                "viewState": {
-                  "x": 1579.7423819499709,
-                  "y": 1155.2715710859939,
-                  "zoom": -1.263644553883019
-                }
+                "file": "Player-Accessible content/Talents/Tier 4/Precise Aim.md",
+                "mode": "source",
+                "source": false
               }
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "cd44de5e02bf2cc8",
-        "type": "tabs",
-        "dimension": 75.57106598984772,
-        "children": [
+          },
           {
-            "id": "518a30477d73cd18",
+            "id": "86b6012520d700ed",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "1330f42e7387f2da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Accessible content/Talents/Tier 4/Defensive.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,8 +82,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "lethal",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -130,7 +107,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,12 +194,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "518a30477d73cd18",
+  "active": "86b6012520d700ed",
   "lastOpenFiles": [
     "Player-Accessible content/Talents/Trees/Skirmisher.canvas",
+    "Player-Accessible content/Talents/Tier 1/Brace.md",
+    "Player-Accessible content/Talents/Tier 1/Painful Blow.md",
+    "Player-Accessible content/Talents/Tier 1/Resourceful Mechanic.md",
+    "Player-Accessible content/Talents/Tier 1/Surgeon.md",
+    "Talents-Expanded.pdf",
+    "Player-Accessible content/Talents/Tier 4/Precise Aim.md",
+    "Player-Accessible content/Talents/Trees/Skirmisher.png",
+    "Pasted image 20230713202859.png",
+    "Player-Accessible content/Talents/Tier 5/Tier 5.md",
+    "Player-Accessible content/Talents/Tier 5/Momentum.md",
+    "Player-Accessible content/Talents/Tier 2/Defensive Stance.md",
+    "Player-Accessible content/Talents/Tier 4/Unrelenting.md",
+    "Player-Accessible content/Talents/Tier 5/Most Impressive.md",
+    "Player-Accessible content/Talents/Tier 2/Confidence.md",
+    "Player-Accessible content/Talents/Tier 3/Lethal Blows.md",
+    "Player-Accessible content/Talents/Tier 4/Defensive.md",
+    "Player-Accessible content/Talents/Tier 2/Stalker.md",
+    "Player-Accessible content/Talents/Trees/Blademaster.canvas",
+    "Player-Accessible content/Talents/Tier 3/Eagle Eyes.md",
+    "Player-Accessible content/Talents/Tier 1/Bullrush.md",
     "Player-Accessible content/Talents/Tier 4/Prophetic Aim.md",
     "Player-Accessible content/Talents/Tier 4/Deadly Accuracy.md",
-    "Player-Accessible content/Talents/Tier 4/Defensive.md",
     "Player-Accessible content/Talents/Tier 4/Elementary.md",
     "Player-Accessible content/Talents/Tier 2/Disorient.md",
     "Player-Accessible content/Talents/Tier 3/Scything Strike.md",
@@ -229,23 +226,6 @@
     "Player-Accessible content/Talents/Tier 3/Constant Vigilance.md",
     "Player-Accessible content/Talents/Tier 5/Master (Melee Light).md",
     "Player-Accessible content/Talents/Tier 5/Master.md",
-    "Player-Accessible content/Talents/Tier 3/Moving Target.md",
-    "Player-Accessible content/Talents/Tier 2/Heightened Awareness.md",
-    "Player-Accessible content/Talents/Tier 3/Creative Killer.md",
-    "Player-Accessible content/Talents/Tier 4/Rain of Death.md",
-    "Player-Accessible content/Talents/Tier 3/Seize the Initiative.md",
-    "Player-Accessible content/Talents/Tier 3/Combat Veteran.md",
-    "Player-Accessible content/Talents/Tier 3/Overwhelm Defences.md",
-    "Player-Accessible content/Talents/Tier 3/Nimble.md",
-    "Player-Accessible content/Talents/Trees/Blademaster.canvas",
-    "Player-Accessible content/Talents/Tier 3/Parry (Improved).md",
-    "Player-Accessible content/Talents/Tier 2/Hard Headed.md",
-    "Player-Accessible content/Talents/Tier 3/Natural.md",
-    "Player-Accessible content/Talents/Tier 2/Barrage.md",
-    "Player-Accessible content/Talents/Tier 2/Grapple.md",
-    "Player-Accessible content/Talents/Tier 2/Defensive Stance.md",
-    "Player-Accessible content/Talents/Tier 1/Painful Blow.md",
-    "Talents-Expanded.pdf",
     "Player-Accessible content/Talents/Trees/Warlock.canvas",
     "Player-Accessible content/Talents/Trees/Juggernaught.png",
     "Player-Accessible content/Talents/Trees/Juggernaught.canvas",
