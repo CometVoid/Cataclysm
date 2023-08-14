@@ -1,12 +1,18 @@
 # Talents Overview
 
 %% Begin Waypoint %%
+- **Removed**
+	- [[Animal Companion (old)]]
+	- [[Familiar (old)]]
+	- [[Familiar (Supreme) (old)]]
+	- [[Harass (old)]]
+	- [[Menace]]
 - **[[Tier 1]]**
 - **[[Tier 2]]**
 - **[[Tier 3]]**
 - **[[Tier 4]]**
 - **[[Tier 5]]**
-- **Trees**
+- **[[Trees]]**
 
 %% End Waypoint %%
 

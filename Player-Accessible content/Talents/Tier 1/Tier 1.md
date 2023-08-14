@@ -10,6 +10,7 @@
 - [[Call 'Em]]
 - [[Challenge]]
 - [[Clever Retort]]
+- [[Companion]]
 - [[Construction Specialist]]
 - [[Creative Design]]
 - [[Custom Focus]]

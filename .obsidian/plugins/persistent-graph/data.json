@@ -2,2158 +2,2163 @@
   "nodePositions": [
     {
       "id": "No touchy/Characters/Characters.md",
-      "x": -3412.036376953125,
-      "y": 1565.873779296875
+      "x": -1531.826416015625,
+      "y": 1311.6273193359375
     },
     {
       "id": "No touchy/Characters/Nemesis/Vernon Alfred Victor Celestia.md",
-      "x": -3544.8017578125,
-      "y": 1326.125732421875
+      "x": -1675.187255859375,
+      "y": 1100.3404541015625
     },
     {
       "id": "No touchy/Characters/Rivals/Baro.md",
-      "x": -3531.532470703125,
-      "y": 1802.2740478515625
+      "x": -1386.0411376953125,
+      "y": 1521.09716796875
     },
     {
       "id": "No touchy/Characters/Rivals/Esky.md",
-      "x": -3201.563232421875,
-      "y": 1730.8486328125
+      "x": -1283.707763671875,
+      "y": 1316.5675048828125
     },
     {
       "id": "No touchy/Characters/Rivals/Sprocket.md",
-      "x": -3333.000732421875,
-      "y": 1822.4442138671875
+      "x": -1302.3499755859375,
+      "y": 1435.108642578125
     },
     {
       "id": "Player-Accessible content/Royal Families/Bouvardia.md",
-      "x": -3802.55029296875,
-      "y": 557.1328735351562
+      "x": -1789.990234375,
+      "y": 887.9346313476562
     },
     {
       "id": "Player-Accessible content/Royal Families/Celestia.md",
-      "x": -3653.903564453125,
-      "y": 1072.362548828125
+      "x": -1447.2650146484375,
+      "y": 1207.876708984375
     },
     {
       "id": "Player-Accessible content/Royal Families/Royal Families.md",
-      "x": -3745.202392578125,
-      "y": 816.5640869140625
+      "x": -1575.8424072265625,
+      "y": 1005.8840942382812
     },
     {
       "id": "Player-Accessible content/Rules/Embeds.md",
-      "x": -2926.524658203125,
-      "y": -2683.17138671875
+      "x": -1575.6209716796875,
+      "y": -1274.4813232421875
     },
     {
       "id": "Player-Accessible content/Rules/Rules.md",
-      "x": -3095.20947265625,
-      "y": -2477.89208984375
+      "x": -1741.7255859375,
+      "y": -1084.9971923828125
     },
     {
       "id": "Player-Accessible content/Talents/Talents.md",
-      "x": 263.4160461425781,
-      "y": -530.1110229492188
+      "x": 112.24026489257812,
+      "y": -341.78289794921875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/All-Terrain Driver.md",
-      "x": 152.50338745117188,
-      "y": -1521.3348388671875
+      "x": 10.092011451721191,
+      "y": -1058.145751953125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Apothecary.md",
-      "x": -436.3466796875,
-      "y": -1391.3944091796875
+      "x": -559.7694702148438,
+      "y": -980.72216796875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Black Market Contacts.md",
-      "x": -44.47260665893555,
-      "y": -1658.5472412109375
+      "x": -120.23843383789062,
+      "y": -1218.3673095703125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Bought Info.md",
-      "x": -251.60263061523438,
-      "y": -1328.412109375
+      "x": -322.41937255859375,
+      "y": -958.518798828125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Brace.md",
-      "x": -64.45742797851562,
-      "y": -1419.649658203125
+      "x": -213.76954650878906,
+      "y": -1057.926513671875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Bullrush.md",
-      "x": -142.78411865234375,
-      "y": -1727.6861572265625
+      "x": -488.80157470703125,
+      "y": -1574.0294189453125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Call 'Em.md",
-      "x": -545.5689697265625,
-      "y": -1900.1226806640625
+      "x": -464.8822021484375,
+      "y": -1333.9559326171875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Challenge.md",
-      "x": -615.9052734375,
-      "y": -1549.969482421875
+      "x": -792.3294677734375,
+      "y": -1287.678466796875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Clever Retort.md",
-      "x": -408.2768249511719,
-      "y": -1508.0799560546875
+      "x": -499.6177062988281,
+      "y": -1084.5994873046875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Construction Specialist.md",
-      "x": -683.1552124023438,
-      "y": -1738.302978515625
+      "x": -802.7962646484375,
+      "y": -1406.9176025390625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Creative Design.md",
-      "x": 44.033660888671875,
-      "y": -1470.4796142578125
+      "x": -92.70350646972656,
+      "y": -981.711669921875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Custom Focus.md",
-      "x": -132.12278747558594,
-      "y": -1320.8370361328125
+      "x": -204.4485321044922,
+      "y": -938.3438720703125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Custom Spells.md",
-      "x": 64.2067642211914,
-      "y": -1709.2720947265625
+      "x": -26.86687660217285,
+      "y": -1294.6392822265625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Customer Service Experience.md",
-      "x": -131.7802276611328,
-      "y": -1847.0272216796875
+      "x": -157.9145965576172,
+      "y": -1452.6551513671875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Dark Insight.md",
-      "x": -471.78924560546875,
-      "y": -1276.76025390625
+      "x": -680.5731811523438,
+      "y": -941.7330932617188
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Deep Pockets.md",
-      "x": 53.99837112426758,
-      "y": -1589.9334716796875
+      "x": -7.8584184646606445,
+      "y": -1176.535888671875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Defensive Weaver.md",
-      "x": -339.318359375,
-      "y": -1870.104248046875
+      "x": -368.0579528808594,
+      "y": -1404.4859619140625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Desperate Recovery.md",
-      "x": -468.33563232421875,
-      "y": -1707.2138671875
+      "x": -683.6427612304688,
+      "y": -1237.4664306640625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Duelist.md",
-      "x": 74.88175201416016,
-      "y": -1828.556884765625
+      "x": -46.30946350097656,
+      "y": -1412.525634765625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Dungeoneer.md",
-      "x": -11.869969367980957,
-      "y": -2017.4794921875
+      "x": -270.8647155761719,
+      "y": -1484.7047119140625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Durable.md",
-      "x": -528.8762817382812,
-      "y": -2018.5950927734375
+      "x": -704.6780395507812,
+      "y": -1475.004638671875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Extra Ammo.md",
-      "x": -321.38751220703125,
-      "y": -1425.7000732421875
+      "x": -440.02508544921875,
+      "y": -980.6939697265625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Finesse.md",
-      "x": -54.56395721435547,
-      "y": -1539.0985107421875
+      "x": -101.78551483154297,
+      "y": -1100.9271240234375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Forager.md",
-      "x": -228.96853637695312,
-      "y": -1916.7447509765625
+      "x": -477.6927795410156,
+      "y": -1453.030029296875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Grit.md",
-      "x": -308.89544677734375,
-      "y": -2112.8876953125
+      "x": -382.7241516113281,
+      "y": -1523.6588134765625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Hamstring Shot.md",
-      "x": 162.57423400878906,
-      "y": -1640.648681640625
+      "x": 85.02223205566406,
+      "y": -1252.4549560546875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Hand On The Throttle.md",
-      "x": 172.97251892089844,
-      "y": -1759.9427490234375
+      "x": 65.91588592529297,
+      "y": -1370.869873046875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Hidden Storage.md",
-      "x": -651.096923828125,
-      "y": -1435.88525390625
+      "x": -854.1656494140625,
+      "y": -1185.650390625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Intercept.md",
-      "x": -21.614213943481445,
-      "y": -1274.154541015625
+      "x": -110.78020477294922,
+      "y": -863.3432006835938
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Jump Up.md",
-      "x": -523.2759399414062,
-      "y": -1473.9427490234375
+      "x": -651.3058471679688,
+      "y": -1057.9752197265625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Knack For It.md",
-      "x": -656.7427368164062,
-      "y": -1855.195556640625
+      "x": -584.8937377929688,
+      "y": -1402.74560546875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Knockout Punch.md",
-      "x": -120.13832092285156,
-      "y": -1966.4637451171875
+      "x": -208.40118408203125,
+      "y": -1686.5716552734375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Knowledge Specialization.md",
-      "x": -495.1429138183594,
-      "y": -1590.328125
+      "x": -743.598388671875,
+      "y": -1134.6339111328125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Let's Ride.md",
-      "x": 85.56175994873047,
-      "y": -1948.0982666015625
+      "x": -95.38457489013672,
+      "y": -1647.4510498046875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/One with Nature.md",
-      "x": -33.90602493286133,
-      "y": -1777.9287109375
+      "x": -138.86151123046875,
+      "y": -1335.4556884765625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Painful Blow.md",
-      "x": -215.42005920410156,
-      "y": -2038.34130859375
+      "x": -431.90960693359375,
+      "y": -1678.609375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Parry.md",
-      "x": -352.5728759765625,
-      "y": -1263.8563232421875
+      "x": -414.6891174316406,
+      "y": -863.4291381835938
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Precision.md",
-      "x": -380.5970153808594,
-      "y": -1625.517333984375
+      "x": -591.217529296875,
+      "y": -1161.589599609375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Proper Upbringing.md",
-      "x": -107.41917419433594,
-      "y": -2089.63623046875
+      "x": -321.6864013671875,
+      "y": -1725.3968505859375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Quick Draw.md",
-      "x": -558.5728149414062,
-      "y": -1359.427978515625
+      "x": -772.6801147460938,
+      "y": -1018.4453125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Quick Strike.md",
-      "x": -418.05938720703125,
-      "y": -2063.45849609375
+      "x": -582.7368774414062,
+      "y": -1647.137451171875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Rapid Reaction.md",
-      "x": -434.771240234375,
-      "y": -1944.3922119140625
+      "x": -690.13720703125,
+      "y": -1593.8773193359375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Rapid Recovery.md",
-      "x": -243.44749450683594,
-      "y": -1797.8878173828125
+      "x": -185.70542907714844,
+      "y": -1568.6309814453125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Redundant Systems.md",
-      "x": 183.61343383789062,
-      "y": -1879.2889404296875
+      "x": 44.615509033203125,
+      "y": -1490.70556640625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Reflect.md",
-      "x": 197.51182556152344,
-      "y": -812.330810546875
+      "x": 55.58098220825195,
+      "y": -492.0237731933594
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Resourceful Mechanic.md",
-      "x": -356.6150817871094,
-      "y": -1751.3553466796875
+      "x": -594.6192626953125,
+      "y": -1521.5946044921875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Second Wind.md",
-      "x": -561.9696655273438,
-      "y": -1782.1903076171875
+      "x": -480.6911315917969,
+      "y": -1208.050537109375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Shapeshifter.md",
-      "x": -671.0665283203125,
-      "y": -1317.70654296875
+      "x": -881.4653930664062,
+      "y": -1068.999267578125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Shield Slam.md",
-      "x": -22.911880493164062,
-      "y": -1897.28857421875
+      "x": -68.22127532958984,
+      "y": -1530.902099609375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Signature Vehicle.md",
-      "x": 355.63275146484375,
-      "y": -432.39141845703125
+      "x": 163.58216857910156,
+      "y": -194.32351684570312
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Smooth Talker.md",
-      "x": -450.5619812011719,
-      "y": -1825.784423828125
+      "x": -254.55908203125,
+      "y": -1366.3741455078125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Surgeon.md",
-      "x": -323.9790344238281,
-      "y": -1989.134765625
+      "x": -298.791015625,
+      "y": -1607.926513671875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Swift.md",
-      "x": -587.921875,
-      "y": -1665.7012939453125
+      "x": -573.5232543945312,
+      "y": -1283.788330078125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Tier 1.md",
-      "x": -231.59397888183594,
-      "y": -1618.280517578125
+      "x": -337.8962707519531,
+      "y": -1217.789306640625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Toughened.md",
-      "x": -201.7931365966797,
-      "y": -978.782470703125
+      "x": -318.49725341796875,
+      "y": -620.87548828125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Tumble.md",
-      "x": -639.9261474609375,
-      "y": -1973.8662109375
+      "x": -694.5536499023438,
+      "y": -1355.8935546875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 1/Unremarkable.md",
-      "x": -88.37379455566406,
-      "y": -1017.9261474609375
+      "x": -206.47158813476562,
+      "y": -663.8088989257812
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Adventurer.md",
-      "x": -771.33837890625,
-      "y": -211.23779296875
+      "x": -890.8785400390625,
+      "y": 20.78919792175293
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Alchemical Aptitude.md",
-      "x": -1198.0311279296875,
-      "y": -926.6672973632812
+      "x": -1329.8929443359375,
+      "y": -487.3309631347656
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Animal Expertise.md",
-      "x": -843.74658203125,
-      "y": -681.3551635742188
+      "x": -885.1503295898438,
+      "y": -510.46356201171875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Bad Cop.md",
-      "x": -618.1011352539062,
-      "y": -601.277587890625
+      "x": -725.2882690429688,
+      "y": -333.36083984375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Bard.md",
-      "x": -637.4111328125,
-      "y": -718.87060546875
+      "x": -807.3464965820312,
+      "y": -419.2926330566406
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Barrage.md",
-      "x": -1086.4012451171875,
-      "y": -883.6827392578125
+      "x": -998.4496459960938,
+      "y": -480.68426513671875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Basic Military Training.md",
-      "x": -1048.6903076171875,
-      "y": -648.3370361328125
+      "x": -1149.44775390625,
+      "y": -344.0750427246094
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Berserk.md",
-      "x": -564.830078125,
-      "y": -913.485107421875
+      "x": -915.3388061523438,
+      "y": -626.3865356445312
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Big Guns.md",
-      "x": -1290.9620361328125,
-      "y": -851.4545288085938
+      "x": -1349.296630859375,
+      "y": -604.0240478515625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Blackmail.md",
-      "x": -413.1002197265625,
-      "y": -635.4420776367188
+      "x": -585.4019165039062,
+      "y": -384.8280334472656
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Blood Sacrifice.md",
-      "x": -677.3250732421875,
-      "y": -954.5248413085938
+      "x": -941.19140625,
+      "y": -756.58203125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Blooded.md",
-      "x": -436.1632080078125,
-      "y": -85.65061950683594
+      "x": -644.606689453125,
+      "y": 291.9504699707031
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Bulwark.md",
-      "x": -393.81060791015625,
-      "y": -517.3330078125
+      "x": -639.5288696289062,
+      "y": -252.38609313964844
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Burly.md",
-      "x": -790.19287109375,
-      "y": -993.1549072265625
+      "x": -1049.7158203125,
+      "y": -707.8275146484375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Combat Medicine.md",
-      "x": -1104.9608154296875,
-      "y": -1001.7807006835938
+      "x": -1140.4822998046875,
+      "y": -629.703369140625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Command.md",
-      "x": -432.66278076171875,
-      "y": -753.6309814453125
+      "x": -652.9014282226562,
+      "y": -560.4417724609375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Confidence.md",
-      "x": -528.8944702148438,
-      "y": -9.65269947052002
+      "x": -761.186279296875,
+      "y": 319.6094665527344
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Containment.md",
-      "x": -567.6517944335938,
-      "y": -246.01841735839844
+      "x": -655.3169555664062,
+      "y": -20.663625717163086
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Coordinated Assault.md",
-      "x": -548.205810546875,
-      "y": -127.73407745361328
+      "x": -690.3448486328125,
+      "y": 91.9772720336914
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Counteroffer.md",
-      "x": -640.7747192382812,
-      "y": -51.58848571777344
+      "x": -878.8660278320312,
+      "y": 338.6875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Cutting Question.md",
-      "x": -544.9056396484375,
-      "y": -795.4551391601562
+      "x": -797.8799438476562,
+      "y": -646.5247192382812
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Daring Aviator.md",
-      "x": -475.6080322265625,
-      "y": -322.1519775390625
+      "x": -670.8152465820312,
+      "y": -137.41775512695312
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Debilitating Shot.md",
-      "x": -770.1389770507812,
-      "y": -875.1942749023438
+      "x": -769.2577514648438,
+      "y": -531.74755859375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Deceptive Taunt.md",
-      "x": -975.4569091796875,
-      "y": -177.58447265625
+      "x": -1006.9502563476562,
+      "y": 49.88800811767578
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Defensive Stance.md",
-      "x": -974.7230224609375,
-      "y": -841.0936279296875
+      "x": -1361.6702880859375,
+      "y": -257.7668762207031
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Defensive Weaver (Improved).md",
-      "x": -937.64111328125,
-      "y": 58.42985534667969
+      "x": -1109.89501953125,
+      "y": 398.16021728515625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Determined Driver.md",
-      "x": -375.76495361328125,
-      "y": -399.0239562988281
+      "x": -555.139404296875,
+      "y": -167.21226501464844
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Dirty Tricks.md",
-      "x": -657.0844116210938,
-      "y": -836.6437377929688
+      "x": -1028.6614990234375,
+      "y": -591.22509765625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Disorient.md",
-      "x": -881.8292236328125,
-      "y": -916.795166015625
+      "x": -1118.0889892578125,
+      "y": -496.4898986816406
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Distracting Behavior.md",
-      "x": -247.15419006347656,
-      "y": -253.29949951171875
+      "x": -311.9825439453125,
+      "y": -49.62947463989258
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Dual wielder.md",
-      "x": -1272.2852783203125,
-      "y": -733.482666015625
+      "x": -1441.4246826171875,
+      "y": -527.4466552734375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Dynamic Fire.md",
-      "x": -1384.214599609375,
-      "y": -776.07373046875
+      "x": -1627.142578125,
+      "y": -88.2232437133789
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Encouraging Song.md",
-      "x": -1216.2222900390625,
-      "y": -380.28363037109375
+      "x": -1428.9232177734375,
+      "y": -30.322240829467773
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Exploit.md",
-      "x": -1346.58935546875,
-      "y": -540.2595825195312
+      "x": -1593.104736328125,
+      "y": -204.0214385986328
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Fan the Hammer.md",
-      "x": -1160.3726806640625,
-      "y": -690.7308349609375
+      "x": -1438.5064697265625,
+      "y": -347.8394775390625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Fancy Paint Job.md",
-      "x": -1068.2686767578125,
-      "y": -102.08452606201172
+      "x": -1293.7845458984375,
+      "y": 369.9299621582031
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Fearsome.md",
-      "x": -1365.2967529296875,
-      "y": -658.0779418945312
+      "x": -1518.7213134765625,
+      "y": -436.0451965332031
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Fine Tuning.md",
-      "x": -1253.5494384765625,
-      "y": -615.7286376953125
+      "x": -1246.05419921875,
+      "y": -283.1206970214844
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Flash of Insight.md",
-      "x": -731.8950805664062,
-      "y": -638.7584228515625
+      "x": -921.63525390625,
+      "y": -389.779052734375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Freerunner.md",
-      "x": -137.24705505371094,
-      "y": -300.85345458984375
+      "x": -304.44647216796875,
+      "y": -169.3705596923828
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Go Without.md",
-      "x": -1197.7435302734375,
-      "y": -262.6220703125
+      "x": -1229.1766357421875,
+      "y": 25.322486877441406
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Good Cop.md",
-      "x": -456.0106506347656,
-      "y": -203.8092803955078
+      "x": -573.61376953125,
+      "y": 66.48450469970703
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Grapple.md",
-      "x": -864.192626953125,
-      "y": -135.58038330078125
+      "x": -1291.15234375,
+      "y": 251.25975036621094
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Hard Headed.md",
-      "x": -937.079833984375,
-      "y": -606.01953125
+      "x": -947.467529296875,
+      "y": -254.65789794921875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Haughty Demeanor.md",
-      "x": -1011.5733642578125,
-      "y": -1077.1627197265625
+      "x": -1232.6639404296875,
+      "y": -554.9683227539062
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Headbutt.md",
-      "x": -1049.4642333984375,
-      "y": 16.07083511352539
+      "x": -1189.7086181640625,
+      "y": 310.51507568359375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Heightened Awareness.md",
-      "x": -882.5946044921875,
-      "y": -252.75994873046875
+      "x": -1157.6422119140625,
+      "y": 194.99635314941406
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Heroic Recovery.md",
-      "x": -752.505615234375,
-      "y": -93.68653106689453
+      "x": -959.6044311523438,
+      "y": 251.05178833007812
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Hexslinger.md",
-      "x": -862.7112426757812,
-      "y": -798.9798583984375
+      "x": -1322.6998291015625,
+      "y": -371.1840515136719
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Hidden Storage (Improved).md",
-      "x": -771.9306640625,
-      "y": -1111.3436279296875
+      "x": -1064.7015380859375,
+      "y": -825.6121826171875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Hold Together.md",
-      "x": -587.5039672851562,
-      "y": -364.3414611816406
+      "x": -773.4298095703125,
+      "y": -3.1877853870391846
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Hunter.md",
-      "x": -1291.660888671875,
-      "y": -186.22308349609375
+      "x": -1405.0399169921875,
+      "y": 284.6512451171875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Impaling Strike.md",
-      "x": -1179.16015625,
-      "y": -808.577392578125
+      "x": -1476.75927734375,
+      "y": -231.535888671875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Improvised Defences.md",
-      "x": -660.0789184570312,
-      "y": -169.6931915283203
+      "x": -726.7003173828125,
+      "y": 205.29347229003906
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Inspiring Rhetoric.md",
-      "x": -211.57740783691406,
-      "y": -138.84481811523438
+      "x": -365.3626708984375,
+      "y": 117.20323181152344
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Inventor.md",
-      "x": -487.59552001953125,
-      "y": -441.11993408203125
+      "x": -523.761474609375,
+      "y": -282.6927490234375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Know-It-All.md",
-      "x": -1012.0425415039062,
-      "y": -413.35150146484375
+      "x": -1164.2640380859375,
+      "y": -198.77374267578125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Known Schematic.md",
-      "x": -733.6724243164062,
-      "y": 24.475332260131836
+      "x": -994.7073364257812,
+      "y": 365.6831359863281
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Knows the Ropes.md",
-      "x": -901.283203125,
-      "y": -370.7915344238281
+      "x": -808.4930419921875,
+      "y": 110.40701293945312
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Loom.md",
-      "x": -678.8760986328125,
-      "y": -287.6540222167969
+      "x": -816.092529296875,
+      "y": -114.4542465209961
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Lucky Strike.md",
-      "x": -1141.8856201171875,
-      "y": -573.4583129882812
+      "x": -1313.2099609375,
+      "y": -58.07472229003906
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Magical Aptitude.md",
-      "x": -1327.715576171875,
-      "y": -422.5569763183594
+      "x": -1395.4287109375,
+      "y": -144.52561950683594
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Mechanical Aptitude.md",
-      "x": -1161.39501953125,
-      "y": -26.34221076965332
+      "x": -1260.43701171875,
+      "y": 137.33047485351562
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Multiple Opponents.md",
-      "x": -1439.75927734375,
-      "y": -465.0903015136719
+      "x": -1497.891845703125,
+      "y": 198.27696228027344
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Mystic Theurge.md",
-      "x": -505.99896240234375,
-      "y": -559.3529052734375
+      "x": -757.3533325195312,
+      "y": -218.49559020996094
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Natural Communion.md",
-      "x": -1308.885009765625,
-      "y": -304.3482971191406
+      "x": -1461.53076171875,
+      "y": 84.2579116821289
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Overstocked Ammo.md",
-      "x": -235.72242736816406,
-      "y": -502.55914306640625
+      "x": -398.341064453125,
+      "y": -244.10525512695312
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Physical Training.md",
-      "x": -1234.7899169921875,
-      "y": -497.7496643066406
+      "x": -1376.787109375,
+      "y": 168.91314697265625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Probing Question.md",
-      "x": -1067.4412841796875,
-      "y": -765.9309692382812
+      "x": -1554.9588623046875,
+      "y": -321.7290344238281
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Quick Draw (Improved).md",
-      "x": -585.8159790039062,
-      "y": -1031.6075439453125
+      "x": -821.9497680664062,
+      "y": -763.0866088867188
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Quick Fix.md",
-      "x": -956.9193115234375,
-      "y": -59.8702392578125
+      "x": -1041.232421875,
+      "y": 164.50320434570312
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Reckless Charge.md",
-      "x": -807.234619140625,
-      "y": -445.96185302734375
+      "x": -1197.2825927734375,
+      "y": -86.2349853515625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Reconstruct the Scene.md",
-      "x": -1420.758056640625,
-      "y": -346.7768249511719
+      "x": -1544.593017578125,
+      "y": -1.527245283126831
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Researcher.md",
-      "x": -750.7025146484375,
-      "y": -756.9601440429688
+      "x": -1222.1859130859375,
+      "y": -436.4209899902344
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Resist Disarm.md",
-      "x": -1123.1241455078125,
-      "y": -455.56951904296875
+      "x": -1345.501953125,
+      "y": 54.01692581176758
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Scathing Tirade.md",
-      "x": -258.71673583984375,
-      "y": -373.28558349609375
+      "x": -423.6026611328125,
+      "y": -5.687746047973633
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Selective Detonation.md",
-      "x": -993.4464721679688,
-      "y": -958.8548583984375
+      "x": -1251.6885986328125,
+      "y": -672.7030639648438
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Sense Emotion.md",
-      "x": -1105.1800537109375,
-      "y": -337.9525451660156
+      "x": -925.3102416992188,
+      "y": 136.13070678710938
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Shapeshifter (Improved).md",
-      "x": -894.1864013671875,
-      "y": -1052.6383056640625
+      "x": -1161.0087890625,
+      "y": -750.9590454101562
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Shortcut.md",
-      "x": -510.0608215332031,
-      "y": 108.65602111816406
+      "x": -806.044921875,
+      "y": 433.0417175292969
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Side Step.md",
-      "x": -525.36181640625,
-      "y": -677.4995727539062
+      "x": -687.41162109375,
+      "y": -445.3970031738281
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Signature Spell.md",
-      "x": -148.35580444335938,
-      "y": -420.30499267578125
+      "x": -416.072021484375,
+      "y": -125.43675231933594
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Speaks Binary.md",
-      "x": 21.883481979370117,
-      "y": -553.199462890625
+      "x": -167.86109924316406,
+      "y": -328.7132568359375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Spirit Speak.md",
-      "x": -46.149497985839844,
-      "y": -652.0354614257812
+      "x": -227.9315185546875,
+      "y": -432.5797424316406
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Stalker.md",
-      "x": -955.5340576171875,
-      "y": -723.4562377929688
+      "x": -1065.219482421875,
+      "y": -259.9568786621094
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Strong Arm.md",
-      "x": -993.5383911132812,
-      "y": -295.38055419921875
+      "x": -1091.7371826171875,
+      "y": -32.419708251953125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Stunning Blow.md",
-      "x": -825.8302612304688,
-      "y": 101.2079849243164
+      "x": -1038.1015625,
+      "y": 493.64471435546875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Threaten.md",
-      "x": -790.407470703125,
-      "y": -328.4669494628906
+      "x": -844.4806518554688,
+      "y": 224.52268981933594
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Tier 2.md",
-      "x": -713.59375,
-      "y": -520.3760375976562
+      "x": -933.8204956054688,
+      "y": -135.80172729492188
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Time to Go.md",
-      "x": -622.2197875976562,
-      "y": 66.67640686035156
+      "x": -922.7824096679688,
+      "y": 460.5534973144531
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Tinkerer.md",
-      "x": -825.2694091796875,
-      "y": -563.79736328125
+      "x": -1037.9520263671875,
+      "y": -373.5285339355469
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Touch of Fate.md",
-      "x": -845.1210327148438,
-      "y": -17.506675720214844
+      "x": -1075.4652099609375,
+      "y": 278.7906494140625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Two-Handed Stance.md",
-      "x": -1086.346435546875,
-      "y": -219.7572784423828
+      "x": -1125.1165771484375,
+      "y": 80.8373031616211
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Unarmed Parry.md",
-      "x": -346.5033874511719,
-      "y": -837.005859375
+      "x": -488.1160888671875,
+      "y": -488.4913635253906
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Unstoppable.md",
-      "x": -599.6298217773438,
-      "y": -483.3923034667969
+      "x": -840.031005859375,
+      "y": -304.260009765625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Vehicle Combat Training.md",
-      "x": -1179.67822265625,
-      "y": -144.56973266601562
+      "x": -1511.1673583984375,
+      "y": -116.66686248779297
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Weavehunter.md",
-      "x": -918.566162109375,
-      "y": -488.6051025390625
+      "x": -1053.28173828125,
+      "y": -143.90692138671875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Well Read.md",
-      "x": -1030.2894287109375,
-      "y": -531.0128784179688
+      "x": -1279.717529296875,
+      "y": -171.4761962890625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 2/Wraithbane.md",
-      "x": -363.7101135253906,
-      "y": -280.03729248046875
+      "x": -539.3582763671875,
+      "y": -48.62379837036133
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Ambush.md",
-      "x": 173.10757446289062,
-      "y": 641.190673828125
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 3/Animal Companion.md",
-      "x": 903.5034790039062,
-      "y": 751.334716796875
+      "x": 155.85369873046875,
+      "y": 1524.02783203125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Applied Research.md",
-      "x": 495.3133544921875,
-      "y": 660.4486083984375
+      "x": 300.3575134277344,
+      "y": 1028.6263427734375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Armor Master.md",
-      "x": 702.791259765625,
-      "y": 636.9454345703125
+      "x": 692.9496459960938,
+      "y": 897.0730590820312
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Backstab.md",
-      "x": 282.24200439453125,
-      "y": 691.7994995117188
+      "x": 222.3480682373047,
+      "y": 805.4960327148438
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Bad Habit.md",
-      "x": 204.38162231445312,
-      "y": 840.8283081054688
+      "x": -2.146317958831787,
+      "y": 1392.3914794921875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Barrel Roll.md",
-      "x": -499.8376770019531,
-      "y": 689.1312866210938
+      "x": -393.22344970703125,
+      "y": 634.88671875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Battle Casting.md",
-      "x": -173.88824462890625,
-      "y": 1034.7537841796875
+      "x": -192.4886932373047,
+      "y": 1468.46142578125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Blind Spot.md",
-      "x": -276.04400634765625,
-      "y": 318.87225341796875
+      "x": -383.44354248046875,
+      "y": 847.5453491210938
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Blooded (Improved).md",
-      "x": -241.67311096191406,
-      "y": 204.20574951171875
+      "x": -499.5627746582031,
+      "y": 581.570068359375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Body Guard.md",
-      "x": 478.2724304199219,
-      "y": 75.88770294189453
+      "x": 217.6197052001953,
+      "y": 270.3384094238281
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Capital Sendoff.md",
-      "x": 735.8361206054688,
-      "y": 752.1824951171875
+      "x": 705.3656005859375,
+      "y": 1063.6690673828125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Cavalier.md",
-      "x": -243.53724670410156,
-      "y": 1262.979248046875
+      "x": 263.7763977050781,
+      "y": 1230.2017822265625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Center of Being.md",
-      "x": 571.1654663085938,
-      "y": 471.0519104003906
+      "x": 535.916015625,
+      "y": 759.9871826171875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Combat Veteran.md",
-      "x": -371.7052917480469,
-      "y": 974.85400390625
+      "x": -320.6336364746094,
+      "y": 1138.92041015625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Confidence (Improved).md",
-      "x": -358.2884216308594,
-      "y": 232.18002319335938
+      "x": -548.0406494140625,
+      "y": 691.2349243164062
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Congenial.md",
-      "x": -228.90806579589844,
-      "y": 519.4751586914062
+      "x": -275.6398620605469,
+      "y": 638.51416015625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Constant Vigilance.md",
-      "x": 546.3945922851562,
-      "y": 890.7885131835938
+      "x": 538.1909790039062,
+      "y": 1386.62060546875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Counterattack.md",
-      "x": 154.1423797607422,
-      "y": 1383.5050048828125
+      "x": -385.77960205078125,
+      "y": 1576.5025634765625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Creative Killer.md",
-      "x": -345.0221862792969,
-      "y": 547.2470092773438
+      "x": -44.3174934387207,
+      "y": 607.4558715820312
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Cunning Persona.md",
-      "x": -112.52352905273438,
-      "y": 492.3412170410156
+      "x": -578.6659545898438,
+      "y": 1143.8695068359375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Cunning Snare.md",
-      "x": 53.19906997680664,
-      "y": 193.23443603515625
+      "x": -123.40745544433594,
+      "y": 517.7220458984375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Customized Systems.md",
-      "x": 320.7528381347656,
-      "y": 135.57949829101562
+      "x": 177.1666259765625,
+      "y": 401.50201416015625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Daring Turn.md",
-      "x": -10.869314193725586,
-      "y": 1209.276611328125
+      "x": -459.1143493652344,
+      "y": 1135.9130859375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Disarm.md",
-      "x": -453.7151794433594,
-      "y": 888.2324829101562
+      "x": -440.1819152832031,
+      "y": 742.6349487304688
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Disarming Smile.md",
-      "x": -264.0373229980469,
-      "y": 633.2894897460938
+      "x": -321.4882507324219,
+      "y": 747.6826782226562
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Distinctive Style.md",
-      "x": -325.4353332519531,
-      "y": 1175.4608154296875
+      "x": -12.353458404541016,
+      "y": 1075.2515869140625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Dockyard Expertise.md",
-      "x": -31.55354881286621,
-      "y": 578.8079223632812
+      "x": 72.93648529052734,
+      "y": 586.6630249023438
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Dodge.md",
-      "x": 558.1259155273438,
-      "y": 352.656005859375
+      "x": 495.2949523925781,
+      "y": 647.2546997070312
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Double or Nothing.md",
-      "x": 686.1879272460938,
-      "y": 518.7324829101562
+      "x": 613.9514770507812,
+      "y": 986.2496337890625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Dual Strike.md",
-      "x": 461.4848937988281,
-      "y": 966.8185424804688
+      "x": 64.25614166259766,
+      "y": 984.0249633789062
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Dumb Luck.md",
-      "x": 56.111534118652344,
-      "y": 980.5952758789062
+      "x": 339.18402099609375,
+      "y": 827.5921020507812
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Eagle Eyes.md",
-      "x": -77.91283416748047,
-      "y": 378.8348083496094
+      "x": -254.7045135498047,
+      "y": 847.42529296875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Easy Prey.md",
-      "x": 447.7784729003906,
-      "y": 307.1111145019531
+      "x": 376.0150451660156,
+      "y": 624.4231567382812
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Encoded Communique.md",
-      "x": -103.00715637207031,
-      "y": 806.5582275390625
+      "x": -504.73968505859375,
+      "y": 841.1759643554688
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Encouraging Words.md",
-      "x": 605.9695434570312,
-      "y": 705.7816772460938
+      "x": 535.2881469726562,
+      "y": 1074.6409912109375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Exhaustive Questioning.md",
-      "x": -461.8225402832031,
-      "y": 575.6629028320312
+      "x": -318.10565185546875,
+      "y": 946.09130859375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Extended Reach.md",
-      "x": 135.62193298339844,
-      "y": 1067.639892578125
+      "x": -276.5065612792969,
+      "y": 1246.736083984375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Eye for Detail.md",
-      "x": 170.82936096191406,
-      "y": 952.981689453125
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 3/Familiar.md",
-      "x": 654.6761474609375,
-      "y": 281.67095947265625
+      "x": -233.80259704589844,
+      "y": 1357.6986083984375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Fear the Shadows.md",
-      "x": 589.1709594726562,
-      "y": 588.2816162109375
+      "x": 456.98321533203125,
+      "y": 849.4956665039062
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Fearsome Rep.md",
-      "x": 435.80078125,
-      "y": 1205.7178955078125
+      "x": 347.31951904296875,
+      "y": 1455.34912109375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Feint.md",
-      "x": -127.0245361328125,
-      "y": 1236.1968994140625
+      "x": -130.53271484375,
+      "y": 1057.3828125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Feral Strength.md",
-      "x": -23.682621002197266,
-      "y": 893.611572265625
+      "x": 105.10848236083984,
+      "y": 1096.1126708984375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Field Commander.md",
-      "x": 667.8526611328125,
-      "y": 400.7027893066406
+      "x": 575.37353515625,
+      "y": 872.9696655273438
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Fire Control.md",
-      "x": -310.67999267578125,
-      "y": 433.0588073730469
+      "x": -202.66294860839844,
+      "y": 742.2052001953125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Forgot to Count?.md",
-      "x": 558.429931640625,
-      "y": 1149.0421142578125
+      "x": 230.37530517578125,
+      "y": 1433.65576171875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Form On Me.md",
-      "x": 512.1812133789062,
-      "y": 778.0626831054688
+      "x": 304.49652099609375,
+      "y": 1342.386962890625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Formation Tactics.md",
-      "x": -93.25598907470703,
-      "y": 1122.1295166015625
+      "x": 30.657466888427734,
+      "y": 1187.4111328125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Fortified Structure.md",
-      "x": 82.556884765625,
-      "y": 25.416553497314453
+      "x": -47.7509880065918,
+      "y": 340.187255859375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Frenzies Attack.md",
-      "x": -159.51971435546875,
-      "y": 291.142333984375
+      "x": -158.55311584472656,
+      "y": 631.5494995117188
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Full Throttle.md",
-      "x": 369.12530517578125,
-      "y": 26.04988670349121
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 3/Harass.md",
-      "x": 744.9783935546875,
-      "y": 876.1602172851562
+      "x": 290.932373046875,
+      "y": 365.1254577636719
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Hard-Boiled.md",
-      "x": -416.8277587890625,
-      "y": 774.5509643554688
+      "x": -449.8621520996094,
+      "y": 944.682373046875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Healing Potion Specialisation.md",
-      "x": 402.9527282714844,
-      "y": 732.7367553710938
+      "x": 499.9635925292969,
+      "y": 1273.2652587890625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Heroic Resilience.md",
-      "x": 338.58721923828125,
-      "y": 1136.4530029296875
+      "x": 421.8153076171875,
+      "y": 1363.59765625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Heroic Will.md",
-      "x": -45.0562744140625,
-      "y": 1323.410400390625
+      "x": -467.7171936035156,
+      "y": 1352.368408203125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Hex Warrior.md",
-      "x": -290.1551818847656,
-      "y": 1061.4007568359375
+      "x": -511.46630859375,
+      "y": 1242.166259765625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Hindering Shot.md",
-      "x": 240.45298767089844,
-      "y": 334.0685119628906
+      "x": 254.2773895263672,
+      "y": 606.3983154296875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Hold It Steady.md",
-      "x": 37.90207290649414,
-      "y": 352.2026062011719
+      "x": -84.67379760742188,
+      "y": 726.029541015625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Inspiring Rhetoric (Improved).md",
-      "x": -124.7310791015625,
-      "y": 176.51731872558594
+      "x": -362.7689514160156,
+      "y": 519.6698608398438
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Interjection.md",
-      "x": -147.94400024414062,
-      "y": 605.6967163085938
+      "x": -524.0880737304688,
+      "y": 1038.368896484375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Intimidating.md",
-      "x": 560.5481567382812,
-      "y": 1029.12646484375
+      "x": 223.1183319091797,
+      "y": 1118.344482421875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Iron Body.md",
-      "x": 71.32110595703125,
-      "y": 1296.7630615234375
+      "x": -427.5504455566406,
+      "y": 1464.4345703125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Justice of the Theocracy.md",
-      "x": 129.71290588378906,
-      "y": 751.9867553710938
+      "x": 189.287841796875,
+      "y": 1320.4737548828125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Larger Project.md",
-      "x": 150.35740661621094,
-      "y": 123.5066146850586
+      "x": 58.06788635253906,
+      "y": 396.4225769042969
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Laugh It Off.md",
-      "x": 649.8579711914062,
-      "y": 949.0372924804688
+      "x": 113.71967315673828,
+      "y": 1411.64111328125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Lethal Blows.md",
-      "x": 104.6357650756836,
-      "y": 1182.123046875
+      "x": 183.02847290039062,
+      "y": 1007.7216186523438
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Made You Talk.md",
-      "x": -299.5841369628906,
-      "y": 747.470458984375
+      "x": -393.4941101074219,
+      "y": 1232.3009033203125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Martial Grace.md",
-      "x": 254.37783813476562,
-      "y": 453.0605163574219
+      "x": 155.3100128173828,
+      "y": 674.338623046875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Martial Weapons Master.md",
-      "x": -138.56761169433594,
-      "y": 920.8276977539062
+      "x": -85.91118621826172,
+      "y": 1168.7110595703125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Moving Target.md",
-      "x": 187.68739318847656,
-      "y": 1269.0726318359375
+      "x": -150.2326202392578,
+      "y": 1579.630615234375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Natural.md",
-      "x": -183.27804565429688,
-      "y": 719.9713745117188
+      "x": -386.0495300292969,
+      "y": 1044.052978515625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Nimble.md",
-      "x": 460.6725158691406,
-      "y": 425.6451416015625
+      "x": 417.0369873046875,
+      "y": 737.201171875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/No Escape.md",
-      "x": 639.2487182617188,
-      "y": 820.0409545898438
+      "x": 147.1077117919922,
+      "y": 1208.2783203125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Nobody's Fool.md",
-      "x": -254.6532745361328,
-      "y": 948.2061767578125
+      "x": -629.7901611328125,
+      "y": 1252.24658203125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Opportunist.md",
-      "x": 5.126779556274414,
-      "y": 466.379638671875
+      "x": 30.137075424194336,
+      "y": 696.7650146484375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Outside the Box.md",
-      "x": 421.668701171875,
-      "y": 855.8790283203125
+      "x": 417.49639892578125,
+      "y": 1051.0809326171875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Overwhelm Defences.md",
-      "x": -208.7682647705078,
-      "y": 1148.690185546875
+      "x": -76.5168228149414,
+      "y": 1485.865234375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Parry (Improved).md",
-      "x": -161.6404266357422,
-      "y": 1350.5572509765625
+      "x": -574.7154541015625,
+      "y": 1404.317626953125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Pin.md",
-      "x": 133.07472229003906,
-      "y": 282.20855712890625
+      "x": 171.84909057617188,
+      "y": 520.6324462890625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Plausible Deniability.md",
-      "x": 49.572044372558594,
-      "y": 664.527099609375
+      "x": 339.2831726074219,
+      "y": 1140.0816650390625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Point Blank.md",
-      "x": 380.9169921875,
-      "y": 617.0812377929688
+      "x": 457.26519775390625,
+      "y": 1162.4765625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Poison Specialist.md",
-      "x": 220.87380981445312,
-      "y": 1155.291259765625
+      "x": -308.79144287109375,
+      "y": 1451.628173828125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Potent Concoctions.md",
-      "x": 270.016845703125,
-      "y": 571.7899780273438
+      "x": 261.5000915527344,
+      "y": 917.3635864257812
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Powerful Blast.md",
-      "x": 287.6424255371094,
-      "y": 924.7921142578125
+      "x": 72.26886749267578,
+      "y": 1300.219482421875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Precise Archery.md",
-      "x": 360.9041442871094,
-      "y": 1019.2412719726562
+      "x": -33.62444305419922,
+      "y": 1597.9710693359375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Pressure Point.md",
-      "x": -42.86187744140625,
-      "y": 264.12042236328125
+      "x": -242.9274444580078,
+      "y": 523.8358764648438
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Rapid Archery.md",
-      "x": 306.35052490234375,
-      "y": 1251.1025390625
+      "x": -117.55654907226562,
+      "y": 1374.809814453125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Reflect (Improved).md",
-      "x": 162.5105743408203,
-      "y": -63.95628356933594
+      "x": -6.456340789794922,
+      "y": 227.16250610351562
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Resist Questioning.md",
-      "x": 818.6978149414062,
-      "y": 666.6670532226562
+      "x": 625.45654296875,
+      "y": 1153.14404296875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Resourceful Refit.md",
-      "x": 141.4888916015625,
-      "y": 413.0303955078125
+      "x": -5.996555805206299,
+      "y": 496.51763916015625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Scathing Tirade (Improved).md",
-      "x": 22.4960994720459,
-      "y": 1095.3592529296875
+      "x": -160.53546142578125,
+      "y": 1263.32177734375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Scything Strike.md",
-      "x": 12.87783145904541,
-      "y": 778.9109497070312
+      "x": 40.447628021240234,
+      "y": 1504.3184814453125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Seize the Initiative.md",
-      "x": -427.0638122558594,
-      "y": 461.558349609375
+      "x": -129.29611206054688,
+      "y": 836.941650390625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Sense Advantage.md",
-      "x": 229.45103454589844,
-      "y": 212.5413055419922
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 3/Share Pain.md",
-      "x": 674.08935546875,
-      "y": 1066.516845703125
+      "x": 107.38773345947266,
+      "y": 783.9248657226562
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Shockwave.md",
-      "x": -58.63447952270508,
-      "y": 1007.7377319335938
+      "x": -203.55038452148438,
+      "y": 1152.9381103515625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Shortcut (Improved).md",
-      "x": -393.5345764160156,
-      "y": 346.5250549316406
+      "x": -618.3497924804688,
+      "y": 806.5377807617188
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Skilled Teacher.md",
-      "x": -194.2270965576172,
-      "y": 405.57904052734375
+      "x": -249.77903747558594,
+      "y": 1043.232177734375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Smart Handling.md",
-      "x": 91.5525894165039,
-      "y": 866.691650390625
+      "x": 84.16642761230469,
+      "y": 1618.312255859375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Snaring Wards.md",
-      "x": -219.0531005859375,
-      "y": 833.7532958984375
+      "x": -267.260986328125,
+      "y": 1562.3665771484375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Spur.md",
-      "x": 429.82916259765625,
-      "y": 185.4930877685547
+      "x": 390.68414306640625,
+      "y": 431.55072021484375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Studious Plotting.md",
-      "x": 475.9163513183594,
-      "y": 543.8682861328125
+      "x": 496.2869567871094,
+      "y": 962.219970703125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Stunning Blow (Improved).md",
-      "x": -549.6576538085938,
-      "y": 495.0137939453125
+      "x": -695.072998046875,
+      "y": 898.5800170898438
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Sunder Expertise.md",
-      "x": 312.90283203125,
-      "y": 807.9398193359375
+      "x": 380.5377502441406,
+      "y": 1252.582763671875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Suppressing Fire.md",
-      "x": 365.0078430175781,
-      "y": 498.9684143066406
+      "x": 12.33779525756836,
+      "y": 857.1532592773438
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Takedown.md",
-      "x": -67.32147979736328,
-      "y": 692.4544677734375
+      "x": -183.4625701904297,
+      "y": 943.667236328125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Tier 3.md",
-      "x": 92.5222396850586,
-      "y": 552.5645141601562
+      "x": -52.61085510253906,
+      "y": 958.0552368164062
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Time to Go (Improved).md",
-      "x": -514.8345947265625,
-      "y": 380.1988525390625
+      "x": -667.635009765625,
+      "y": 697.4918823242188
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Toughened (Improved).md",
-      "x": -80.31095123291016,
-      "y": 25.279159545898438
+      "x": -214.4605255126953,
+      "y": 332.521240234375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Tricky Target.md",
-      "x": 337.68121337890625,
-      "y": 261.9141540527344
+      "x": 378.6726989746094,
+      "y": 939.3235473632812
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Trust the Captain.md",
-      "x": -335.7605285644531,
-      "y": 861.0272827148438
+      "x": -349.7127380371094,
+      "y": 1341.0902099609375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Tuned Handling.md",
-      "x": 241.42295837402344,
-      "y": 45.51900100708008
+      "x": 98.80664825439453,
+      "y": 284.57373046875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Twisted Words.md",
-      "x": 349.9849548339844,
-      "y": 380.7999267578125
+      "x": 299.21063232421875,
+      "y": 716.2858276367188
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Unremarkable (Improved).md",
-      "x": 1.4581722021102905,
-      "y": -62.53379440307617
+      "x": -127.05237579345703,
+      "y": 250.3431396484375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Up the Ante.md",
-      "x": 247.3596649169922,
-      "y": 1040.45849609375
+      "x": 271.9404296875,
+      "y": 1547.49853515625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Valuable Facts.md",
-      "x": 456.40936279296875,
-      "y": 1087.712158203125
+      "x": 144.56028747558594,
+      "y": 896.1858520507812
     },
     {
       "id": "Player-Accessible content/Talents/Tier 3/Well-Rounded.md",
-      "x": -380.0511779785156,
-      "y": 660.9408569335938
+      "x": -580.6033935546875,
+      "y": 933.689697265625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/A Step Ahead.md",
-      "x": 969.6757202148438,
-      "y": 190.1574249267578
+      "x": 735.6490478515625,
+      "y": 198.46640014648438
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Analyze Data.md",
-      "x": 910.5900268554688,
-      "y": -91.97945404052734
+      "x": 965.9970703125,
+      "y": -50.16143798828125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Armor Master (Improved).md",
-      "x": 928.1829223632812,
-      "y": 525.27001953125
+      "x": 1006.5226440429688,
+      "y": 657.4862670898438
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Back-to-Back.md",
-      "x": 1267.9554443359375,
-      "y": 198.2515869140625
+      "x": 1030.00390625,
+      "y": 404.868408203125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Better Luck Next Time.md",
-      "x": 1777.4921875,
-      "y": 93.4986572265625
+      "x": 1303.14208984375,
+      "y": 218.44578552246094
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Body Guard (Improved).md",
-      "x": 1809.5372314453125,
-      "y": -116.04009246826172
+      "x": 1334.303955078125,
+      "y": 417.6760559082031
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Bolstered Armor.md",
-      "x": 792.4644165039062,
-      "y": -109.67643737792969
+      "x": 616.4000854492188,
+      "y": 45.853172302246094
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Brilliant Evasion.md",
-      "x": 1816.61376953125,
-      "y": 206.90016174316406
+      "x": 1377.649658203125,
+      "y": 310.6163024902344
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Burn Through.md",
-      "x": 1379.9290771484375,
-      "y": -83.32445526123047
+      "x": 1412.4263916015625,
+      "y": -316.37115478515625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/By the Book.md",
-      "x": 1062.3489990234375,
-      "y": 111.3035659790039
+      "x": 752.6012573242188,
+      "y": 78.29594421386719
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Can't We Talk About This.md",
-      "x": 1540.1156005859375,
-      "y": 365.479736328125
+      "x": 1274.1650390625,
+      "y": 16.179576873779297
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Capital Sendoff (Improved).md",
-      "x": 1080.5633544921875,
-      "y": 673.5902709960938
+      "x": 1103.4910888671875,
+      "y": 727.7503051757812
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Careful Planning.md",
-      "x": 1387.2601318359375,
-      "y": 227.23046875
+      "x": 834.4263916015625,
+      "y": 269.28961181640625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Center of Being (Improved).md",
-      "x": 793.8285522460938,
-      "y": 353.1187438964844
+      "x": 811.8204956054688,
+      "y": 506.7138366699219
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Commanding Presence.md",
-      "x": 1376.6998291015625,
-      "y": 540.6912231445312
+      "x": 1042.6641845703125,
+      "y": 285.7491455078125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Comrades in Arms.md",
-      "x": 1336.712158203125,
-      "y": -513.5482788085938
+      "x": 1294.8778076171875,
+      "y": -489.04534912109375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Conduit.md",
-      "x": 1657.4913330078125,
-      "y": 389.0672302246094
+      "x": 1517.8829345703125,
+      "y": 503.9578857421875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Deadeye.md",
-      "x": 1493.5982666015625,
-      "y": 567.8702392578125
+      "x": 1328.880615234375,
+      "y": 652.9727172851562
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Deadly Accuracy.md",
-      "x": 1293.5279541015625,
-      "y": 626.8123779296875
+      "x": 1211.890869140625,
+      "y": 677.9743041992188
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Death Rage.md",
-      "x": 1582.5885009765625,
-      "y": 161.5370635986328
+      "x": 1130.10107421875,
+      "y": -173.77488708496094
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Defensive Driving.md",
-      "x": 1734.2288818359375,
-      "y": -23.112424850463867
+      "x": 1224.8238525390625,
+      "y": 559.671875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Defensive.md",
-      "x": 1257.7296142578125,
-      "y": 512.9439697265625
+      "x": 921.3678588867188,
+      "y": 455.5155334472656
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Deflection.md",
-      "x": 827.9415283203125,
-      "y": -434.17718505859375
+      "x": 661.54345703125,
+      "y": -298.31732177734375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Discredit.md",
-      "x": 1660.2286376953125,
-      "y": 70.85149383544922
+      "x": 1348.1724853515625,
+      "y": 109.01124572753906
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Distracting Behaviour (Improved).md",
-      "x": 590.6432495117188,
-      "y": -70.85035705566406
+      "x": 520.4931030273438,
+      "y": 117.7815170288086
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Dodge (Improved).md",
-      "x": 856.3613891601562,
-      "y": 151.13076782226562
+      "x": 714.2731323242188,
+      "y": 437.2800598144531
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Don't Shoot!.md",
-      "x": 1123.4146728515625,
-      "y": -429.4010925292969
+      "x": 939.1482543945312,
+      "y": -254.90846252441406
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Double or Nothing (Improved).md",
-      "x": 907.0061645507812,
-      "y": 392.1894836425781
+      "x": 897.5476684570312,
+      "y": 707.2948608398438
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Double-Talk.md",
-      "x": 1575.7637939453125,
-      "y": 479.64306640625
+      "x": 1442.970947265625,
+      "y": 597.2998046875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Elementary.md",
-      "x": 1172.1114501953125,
-      "y": -320.50311279296875
+      "x": 1057.7987060546875,
+      "y": -269.26483154296875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Enduring.md",
-      "x": 1851.48828125,
-      "y": -0.724233865737915
+      "x": 1569.47021484375,
+      "y": 391.52325439453125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Familiar (Improved).md",
-      "x": 1165.2908935546875,
-      "y": 588.9229125976562
+      "x": 839.9872436523438,
+      "y": -321.93084716796875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Field Commander (Improved).md",
-      "x": 879.0624389648438,
-      "y": 268.8275146484375
+      "x": 899.254638671875,
+      "y": 587.801025390625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Formation Tactics (Improved).md",
-      "x": 1766.896728515625,
-      "y": -230.37857055664062
+      "x": 1393.6260986328125,
+      "y": -0.6070237159729004
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Fortune Favors the Bold.md",
-      "x": 1648.7603759765625,
-      "y": -250.7680206298828
+      "x": 1614.97412109375,
+      "y": 280.97125244140625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Freerunner (Improved).md",
-      "x": 703.3220825195312,
-      "y": -29.604459762573242
+      "x": 506.03277587890625,
+      "y": -1.2285983562469482
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Full Throttle (Improved).md",
-      "x": 1340.543212890625,
-      "y": 426.7159729003906
+      "x": 1221.8338623046875,
+      "y": 440.88934326171875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Holistic Navigation.md",
-      "x": 846.9937744140625,
-      "y": 9.439251899719238
+      "x": 898.7357177734375,
+      "y": 46.16555404663086
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/How Convenient!.md",
-      "x": 1425.655029296875,
-      "y": 25.895004272460938
+      "x": 1202.2652587890625,
+      "y": -78.42005157470703
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Improvised Position.md",
-      "x": 1014.9846801757812,
-      "y": 443.5043640136719
+      "x": 823.3355102539062,
+      "y": 387.4657287597656
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/In the Know.md",
-      "x": 1455.0301513671875,
-      "y": -175.8834991455078
+      "x": 1484.9337158203125,
+      "y": -221.91555786132812
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Incite Distraction.md",
-      "x": 1604.7886962890625,
-      "y": -362.2831726074219
+      "x": 1631.489013671875,
+      "y": -33.54016876220703
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Incite Rebellion.md",
-      "x": 1486.212158203125,
-      "y": -380.59283447265625
+      "x": 1558.1500244140625,
+      "y": -128.0041961669922
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Inspiring Rhetoric (Supreme).md",
-      "x": 611.3375244140625,
-      "y": 47.36334228515625
+      "x": 424.2762756347656,
+      "y": 189.38648986816406
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/It's Not that Bad.md",
-      "x": 1738.35595703125,
-      "y": 297.885498046875
+      "x": 1450.66650390625,
+      "y": 405.4991455078125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Jury Rigged.md",
-      "x": 1098.486083984375,
-      "y": -220.0274658203125
+      "x": 1294.6544189453125,
+      "y": -299.0440979003906
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Lose Them.md",
-      "x": 1039.529296875,
-      "y": -6.396826267242432
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 4/Menace.md",
-      "x": 1201.036376953125,
-      "y": 703.08837890625
+      "x": 707.3629760742188,
+      "y": -32.054927825927734
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Not Today.md",
-      "x": 877.4657592773438,
-      "y": -324.8896789550781
+      "x": 688.1904296875,
+      "y": -156.32513427734375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Offensive Driving.md",
-      "x": 1411.676513671875,
-      "y": -287.06884765625
+      "x": 1439.370361328125,
+      "y": -110.94681549072266
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Overbalance.md",
-      "x": 1223.3299560546875,
-      "y": 398.8253173828125
+      "x": 1138.8865966796875,
+      "y": 354.81561279296875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Overcharge.md",
-      "x": 1131.4234619140625,
-      "y": 474.59136962890625
+      "x": 1007.1091918945312,
+      "y": 538.1688232421875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Precise Aim.md",
-      "x": 1617.1239013671875,
-      "y": -45.047264099121094
+      "x": 1541.4637451171875,
+      "y": 186.35792541503906
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Prey on the Weak.md",
-      "x": 949.03857421875,
-      "y": 72.26663208007812
+      "x": 825.301513671875,
+      "y": -47.41068649291992
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Prime Positions.md",
-      "x": 1543.1697998046875,
-      "y": 47.89674758911133
+      "x": 1659.861328125,
+      "y": 170.05970764160156
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Prophetic Aim.md",
-      "x": 1336.7589111328125,
-      "y": -194.32723999023438
+      "x": 1366.7265625,
+      "y": -204.92369079589844
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Push the Specs.md",
-      "x": 1305.325439453125,
-      "y": 312.1658935546875
+      "x": 1115.0931396484375,
+      "y": 607.1958618164062
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Quick Witted.md",
-      "x": 979.82763671875,
-      "y": -236.17433166503906
+      "x": 893.7277221679688,
+      "y": -144.9266357421875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Rain of Death.md",
-      "x": 1024.8419189453125,
-      "y": -125.35314178466797
+      "x": 1083.73486328125,
+      "y": -63.66407775878906
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Reflect (Supreme).md",
-      "x": 729.8347778320312,
-      "y": -365.1486511230469
+      "x": 580.7769775390625,
+      "y": -209.63671875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Reinforced Frame.md",
-      "x": 864.0523681640625,
-      "y": -205.64382934570312
+      "x": 597.4839477539062,
+      "y": -78.28010559082031
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Reroute Processors.md",
-      "x": 1366.687255859375,
-      "y": -397.8223876953125
+      "x": 1104.0994873046875,
+      "y": -379.4611511230469
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Resist Questioning (Improved).md",
-      "x": 1046.4825439453125,
-      "y": 558.8610229492188
+      "x": 994.6842651367188,
+      "y": 777.361328125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Resolve.md",
-      "x": 1423.150146484375,
-      "y": 339.89593505859375
+      "x": 1173.1685791015625,
+      "y": 239.90196228027344
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Savvy Negotiator.md",
-      "x": 1529.9307861328125,
-      "y": -268.9403991699219
+      "x": 1222.7652587890625,
+      "y": -393.8922424316406
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Scathing Tirade (Supreme).md",
-      "x": 566.4217529296875,
-      "y": -189.17483520507812
+      "x": 409.9480895996094,
+      "y": 70.31571197509766
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Scavenger.md",
-      "x": 1621.0472412109375,
-      "y": 275.0115966796875
+      "x": 1255.5975341796875,
+      "y": 326.95660400390625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Second Chances.md",
-      "x": 1142.7608642578125,
-      "y": -108.425048828125
+      "x": 1175.98876953125,
+      "y": -283.7437438964844
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Seen a Lot of Things.md",
-      "x": 1691.81298828125,
-      "y": -137.66473388671875
+      "x": 1341.511474609375,
+      "y": 534.2801513671875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Showboat.md",
-      "x": 1082.7540283203125,
-      "y": 229.28076171875
+      "x": 945.6387329101562,
+      "y": 217.29275512695312
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Signature Spell (Improved).md",
-      "x": 680.0233154296875,
-      "y": -150.9041290283203
+      "x": 395.9154968261719,
+      "y": -48.8016357421875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Skilled Slicer.md",
-      "x": 1261.896240234375,
-      "y": -101.69563293457031
+      "x": 1512.4312744140625,
+      "y": -17.95164680480957
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Sorry About the Mess.md",
-      "x": 1466.2960205078125,
-      "y": 138.683349609375
+      "x": 933.00146484375,
+      "y": 336.3642883300781
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Speaks Binary (Improved).md",
-      "x": 751.6126098632812,
-      "y": -247.1865997314453
+      "x": 487.6955261230469,
+      "y": -125.92347717285156
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Spirit Speak(Improved).md",
-      "x": 638.513916015625,
-      "y": -287.1004638671875
+      "x": 465.7445068359375,
+      "y": -243.7718963623047
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Split fire.md",
-      "x": 1573.9818115234375,
-      "y": -157.8553466796875
+      "x": 1496.3934326171875,
+      "y": 296.099853515625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Spur (Improved).md",
-      "x": 1053.00146484375,
-      "y": -330.9647216796875
+      "x": 794.477783203125,
+      "y": -211.11741638183594
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Steady Aim.md",
-      "x": 1503.892822265625,
-      "y": 251.92726135253906
+      "x": 1227.7166748046875,
+      "y": 126.80654907226562
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Street Smarts.md",
-      "x": 992.0188598632812,
-      "y": 307.7353515625
+      "x": 725.4468994140625,
+      "y": 317.8851623535156
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Supporting Evidence.md",
-      "x": 1245.2347412109375,
-      "y": -415.21966552734375
+      "x": 1012.1011352539062,
+      "y": -159.47607421875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Targeted Firepower.md",
-      "x": 1699.4056396484375,
-      "y": 184.34886169433594
+      "x": 1467.51123046875,
+      "y": 92.03516387939453
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/That's How It's Done.md",
-      "x": 1189.577392578125,
-      "y": 283.8504638671875
+      "x": 1114.658447265625,
+      "y": 487.7666320800781
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Tier 4.md",
-      "x": 1212.8087158203125,
-      "y": 88.24440002441406
+      "x": 1076.1270751953125,
+      "y": 127.10974884033203
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Trust No One.md",
-      "x": 1499.145751953125,
-      "y": -65.12677764892578
+      "x": 1155.300537109375,
+      "y": 31.70823860168457
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Unrelenting Skeptic.md",
-      "x": 1099.036865234375,
-      "y": 360.1293029785156
+      "x": 845.6290283203125,
+      "y": 152.0808563232422
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Unrelenting.md",
-      "x": 1217.295654296875,
-      "y": -210.80154418945312
+      "x": 1248.066162109375,
+      "y": -188.6599578857422
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Urban Combatant.md",
-      "x": 1291.40283203125,
-      "y": -304.7874450683594
+      "x": 985.5632934570312,
+      "y": -364.8152770996094
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Venom Soaked Blade.md",
-      "x": 1302.342529296875,
-      "y": 8.00175666809082
+      "x": 1586.02099609375,
+      "y": 76.3644027709961
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Weak Foundation.md",
-      "x": 1349.8221435546875,
-      "y": 116.40026092529297
+      "x": 1320.797119140625,
+      "y": -94.03760528564453
     },
     {
       "id": "Player-Accessible content/Talents/Tier 4/Your Owe Me One (Improved).md",
-      "x": 1458.8914794921875,
-      "y": 453.6845397949219
+      "x": 1422.635498046875,
+      "y": 202.0079345703125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Altered Deal.md",
-      "x": 1064.3795166015625,
-      "y": -946.9201049804688
+      "x": 855.415283203125,
+      "y": -782.2919921875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Armor Master (Supreme).md",
-      "x": 677.689453125,
-      "y": -1208.6922607421875
+      "x": 458.0336608886719,
+      "y": -1054.1759033203125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Baleful Gaze.md",
-      "x": 1151.42822265625,
-      "y": -1379.217041015625
+      "x": 1041.2957763671875,
+      "y": -1115.3375244140625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Biggest Fan.md",
-      "x": 1143.6312255859375,
-      "y": -1141.7470703125
+      "x": 956.4767456054688,
+      "y": -1009.5054931640625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Body Guard (Supreme).md",
-      "x": 847.2547607421875,
-      "y": -706.9300537109375
+      "x": 636.0343627929688,
+      "y": -594.5149536132812
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Comrades in Arms (Improved).md",
-      "x": 1339.4434814453125,
-      "y": -887.4493408203125
+      "x": 1232.0313720703125,
+      "y": -820.70263671875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Coordination Dodge.md",
-      "x": 793.430419921875,
-      "y": -1382.1041259765625
+      "x": 580.2657470703125,
+      "y": -1251.0794677734375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Crucial Point.md",
-      "x": 1044.2818603515625,
-      "y": -1591.7568359375
+      "x": 869.004150390625,
+      "y": -1381.36865234375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Crushing Blow.md",
-      "x": 1180.8856201171875,
-      "y": -905.6663208007812
+      "x": 975.2860717773438,
+      "y": -783.9715576171875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Custom Loadout.md",
-      "x": 766.284912109375,
-      "y": -929.1195678710938
+      "x": 537.44775390625,
+      "y": -662.7913818359375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Dedication.md",
-      "x": 1270.5269775390625,
-      "y": -985.4528198242188
+      "x": 1094.8680419921875,
+      "y": -794.6229858398438
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Double or Nothing (Supreme).md",
-      "x": 787.4930419921875,
-      "y": -810.9913940429688
+      "x": 418.696044921875,
+      "y": -679.4553833007812
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Drone Master.md",
-      "x": 686.4251098632812,
-      "y": -1328.20361328125
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 5/Familiar (Supreme).md",
-      "x": 955.1116333007812,
-      "y": -417.824462890625
+      "x": 493.1653747558594,
+      "y": -1168.691162109375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Full Throttle (Supreme).md",
-      "x": 718.818603515625,
-      "y": -712.6170043945312
+      "x": 566.1259765625,
+      "y": -497.0403747558594
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Ghost In The Machine.md",
-      "x": 1256.82177734375,
-      "y": -1244.8316650390625
+      "x": 1075.7406005859375,
+      "y": -1000.9012451171875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Heavy Hitter.md",
-      "x": 1156.78515625,
-      "y": -1023.1097412109375
+      "x": 906.0724487304688,
+      "y": -890.9808959960938
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Indomitable.md",
-      "x": 772.1959228515625,
-      "y": -1134.8692626953125
+      "x": 573.153076171875,
+      "y": -1020.41650390625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Inside Knowledge.md",
-      "x": 1367.302978515625,
-      "y": -1056.075927734375
+      "x": 1145.322509765625,
+      "y": -903.35400390625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Inside Person.md",
-      "x": 1439.53515625,
-      "y": -1388.9169921875
+      "x": 1098.4898681640625,
+      "y": -1314.5579833984375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Inspiring Leadership.md",
-      "x": 924.859619140625,
-      "y": -1584.95703125
+      "x": 782.3006591796875,
+      "y": -1299.0416259765625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Intense Focus.md",
-      "x": 1464.1024169921875,
-      "y": -1126.966796875
+      "x": 1213.4561767578125,
+      "y": -1282.1595458984375
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Just Kidding!.md",
-      "x": 805.5291137695312,
-      "y": -1595.1834716796875
+      "x": 754.26318359375,
+      "y": -1415.3321533203125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Let's Talk This Over.md",
-      "x": 745.11669921875,
-      "y": -1491.70166015625
+      "x": 552.2566528320312,
+      "y": -1367.5184326171875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Master (Melee Light).md",
-      "x": 653.4810180664062,
-      "y": -970.0757446289062
+      "x": 486.70703125,
+      "y": -937.5894165039062
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Master Demolitionist.md",
-      "x": 786.6417846679688,
-      "y": -1262.3421630859375
+      "x": 608.0652465820312,
+      "y": -1134.72900390625
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Master Grenadier.md",
-      "x": 945.1094970703125,
-      "y": -959.389892578125
+      "x": 740.1468505859375,
+      "y": -815.378173828125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Master Instructor.md",
-      "x": 1366.24365234375,
-      "y": -1294.21240234375
+      "x": 1127.4139404296875,
+      "y": -1198.7060546875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Master Merchant.md",
-      "x": 1032.3447265625,
-      "y": -1371.068359375
+      "x": 925.9794921875,
+      "y": -1148.340576171875
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Master Pilot.md",
-      "x": 1104.261962890625,
-      "y": -1488.4847412109375
+      "x": 1012.3184814453125,
+      "y": -1231.4063720703125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Master Plan.md",
-      "x": 1223.4105224609375,
-      "y": -1474.691650390625
+      "x": 897.1624755859375,
+      "y": -1264.89501953125
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Master.md",
-      "x": 1354.447265625,
-      "y": -1175.216552734375
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 5/Most Impressive.md",
-      "x": 864.53759765625,
-      "y": -1481.351806640625
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 5/Overcharge.md",
-      "x": 1296.2496337890625,
-      "y": -1569.906494140625
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 5/Power of Darkness.md",
-      "x": 1475.8248291015625,
-      "y": -1246.3177490234375
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 5/Prepare to be Boarded.md",
-      "x": 1257.55419921875,
-      "y": -1104.7069091796875
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 5/Retribution.md",
-      "x": 978.7813720703125,
-      "y": -1691.955078125
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 5/Ruinious Repartee.md",
-      "x": 1115.3590087890625,
-      "y": -1688.1221923828125
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 5/Speaks Binary (Supreme).md",
-      "x": 536.6651611328125,
-      "y": -999.3598022460938
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 5/Spirit Speak (Supreme).md",
-      "x": 469.6448669433594,
-      "y": -1098.88330078125
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 5/Spur (Supreme).md",
-      "x": 778.5593872070312,
-      "y": -608.56201171875
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 5/Superhuman Reflexes.md",
-      "x": 1269.55224609375,
-      "y": -1364.106689453125
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 5/Thorough Assessment.md",
-      "x": 638.0167236328125,
-      "y": -1437.8780517578125
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 5/Tier 5.md",
-      "x": 996.4386596679688,
-      "y": -1201.6533203125
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 5/Trick Of The Light.md",
-      "x": 1175.91943359375,
-      "y": -1584.6409912109375
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 5/Unrelenting Skeptic (Improved).md",
-      "x": 984.5572509765625,
-      "y": -1481.0975341796875
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 5/Web Of Knowledge.md",
-      "x": 912.5831298828125,
-      "y": -1371.4993896484375
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 5/Whirlwind.md",
-      "x": 1342.43896484375,
-      "y": -1459.2420654296875
-    },
-    {
-      "id": "Player-Accessible content/Talents/Tier 5/Zealous Fire.md",
-      "x": 1137.99072265625,
-      "y": -1261.0059814453125
-    },
-    {
-      "id": "Player-Accessible content/Talents/Trees/Trees.md",
-      "x": 3193.621826171875,
-      "y": -2477.362060546875
-    },
-    {
-      "id": "README.md",
-      "x": -3849.581298828125,
-      "y": -591.3473510742188
-    },
-    {
-      "id": "Talent Template.md",
-      "x": 1231.8829345703125,
-      "y": -3865.9765625
-    },
-    {
-      "id": "Untitled.md",
-      "x": -1895.4588623046875,
-      "y": 1963.505615234375
-    },
-    {
-      "id": "ad.md",
-      "x": 3697.838134765625,
-      "y": -1598.1649169921875
+      "x": 1231.2313232421875,
+      "y": -986.9600219726562
     },
     {
       "id": "Player-Accessible content/Talents/Tier 5/Momentum.md",
-      "x": 674.6721801757812,
-      "y": -851.8262329101562
+      "x": 604.9952392578125,
+      "y": -904.8712158203125
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 5/Most Impressive.md",
+      "x": 667.2291870117188,
+      "y": -1333.2041015625
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 5/Overcharge.md",
+      "x": 955.5882568359375,
+      "y": -1464.2095947265625
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 5/Power of Darkness.md",
+      "x": 1246.9437255859375,
+      "y": -1167.1859130859375
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 5/Prepare to be Boarded.md",
+      "x": 1025.884765625,
+      "y": -892.447265625
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 5/Retribution.md",
+      "x": 639.2804565429688,
+      "y": -1449.60546875
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 5/Ruinious Repartee.md",
+      "x": 726.1736450195312,
+      "y": -1531.98193359375
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 5/Speaks Binary (Supreme).md",
+      "x": 381.8413391113281,
+      "y": -793.626708984375
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 5/Spirit Speak (Supreme).md",
+      "x": 305.5058898925781,
+      "y": -886.1870727539062
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 5/Spur (Supreme).md",
+      "x": 695.1414184570312,
+      "y": -490.1142272949219
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 5/Superhuman Reflexes.md",
+      "x": 983.6339111328125,
+      "y": -1347.719970703125
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 5/Thorough Assessment.md",
+      "x": 465.2965087890625,
+      "y": -1285.2154541015625
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 5/Tier 5.md",
+      "x": 793.9501342773438,
+      "y": -1048.119140625
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 5/Trick Of The Light.md",
+      "x": 840.9947509765625,
+      "y": -1497.8446044921875
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 5/Unrelenting Skeptic (Improved).md",
+      "x": 810.2322387695312,
+      "y": -1182.5006103515625
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 5/Web Of Knowledge.md",
+      "x": 695.2667236328125,
+      "y": -1216.789306640625
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 5/Whirlwind.md",
+      "x": 1070.4090576171875,
+      "y": -1430.5916748046875
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 5/Zealous Fire.md",
+      "x": 1160.98388671875,
+      "y": -1083.9398193359375
+    },
+    {
+      "id": "Player-Accessible content/Talents/Trees/Trees.md",
+      "x": -50.81846618652344,
+      "y": -549.1682739257812
+    },
+    {
+      "id": "README.md",
+      "x": -1853.435546875,
+      "y": 729.864990234375
+    },
+    {
+      "id": "Talent Template.md",
+      "x": 430.1474914550781,
+      "y": -1997.3465576171875
+    },
+    {
+      "id": "Untitled.md",
+      "x": -1042.0653076171875,
+      "y": 1699.1314697265625
+    },
+    {
+      "id": "ad.md",
+      "x": 1894.82080078125,
+      "y": -755.1990356445312
+    },
+    {
+      "id": "Player-Accessible content/Talents/Tier 3/Animal Companion (old) 1.md",
+      "x": -43.58274459838867,
+      "y": 1280.32568359375
+    },
+    {
+      "id": "Player-Accessible content/Talents/Removed/Animal Companion (old).md",
+      "x": 279.4547424316406,
+      "y": -731.0510864257812
+    },
+    {
+      "id": "Player-Accessible content/Talents/Removed/Harass (old).md",
+      "x": 114.05780792236328,
+      "y": -596.7989501953125
+    },
+    {
+      "id": "Player-Accessible content/Talents/Removed/Familiar (old).md",
+      "x": 437.58306884765625,
+      "y": -477.9206848144531
+    },
+    {
+      "id": "Player-Accessible content/Talents/Removed/Share Pain (old).md",
+      "x": 8.308947563171387,
+      "y": -653.5458984375
+    },
+    {
+      "id": "Player-Accessible content/Talents/Removed/Familiar (Supreme) (old).md",
+      "x": 110.26420593261719,
+      "y": -716.7373657226562
+    },
+    {
+      "id": "Player-Accessible content/Talents/Removed/Menace.md",
+      "x": 295.95819091796875,
+      "y": -511.267333984375
     }
   ],
   "automaticallyRestoreNodePositions": true
