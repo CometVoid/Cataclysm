@@ -1,5 +1,5 @@
 Activation: Passive
-Ranked: Yes
+Ranked: No
 ##### effect
 Choose one vehicle with a  
 silhouette of 3 or lower that your character  
