@@ -3,6 +3,7 @@
 %% Begin Waypoint %%
 - [[All-Terrain Driver]]
 - [[Apothecary]]
+- [[Attack Magic]]
 - [[Black Market Contacts]]
 - [[Bought Info]]
 - [[Brace]]
@@ -10,8 +11,10 @@
 - [[Call 'Em]]
 - [[Challenge]]
 - [[Clever Retort]]
+- [[Commander]]
 - [[Companion]]
 - [[Construction Specialist]]
+- [[Contractor]]
 - [[Creative Design]]
 - [[Custom Focus]]
 - [[Custom Spells]]

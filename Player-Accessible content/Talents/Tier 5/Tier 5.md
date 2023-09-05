@@ -33,6 +33,7 @@
 - [[Master Plan]]
 - [[Master]]
 - [[Momentum]]
+- [[Monstrous Companion]]
 - [[Most Impressive]]
 - [[Overcharge]]
 - [[Power of Darkness]]

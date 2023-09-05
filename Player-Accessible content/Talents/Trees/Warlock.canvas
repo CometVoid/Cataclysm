@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Warlock\n\n## extra skills\n- 1 magic skill of your choice.\n- Arcane\n- Cool\n","id":"1fc7ce5a2c89dac5","x":720,"y":-560,"width":1720,"height":280},
+		{"id":"cadf15d8625bb8ee","type":"file","file":"Player-Accessible content/Talents/Tier 1/Attack Magic.md","x":1600,"y":-200,"width":400,"height":400},
+		{"id":"300949e3529b06f3","type":"file","file":"Player-Accessible content/Talents/Tier 1/Brace.md","x":1600,"y":240,"width":400,"height":400},
+		{"id":"c480ddda16210249","type":"file","file":"Player-Accessible content/Talents/Tier 1/Second Wind.md","x":1160,"y":240,"width":400,"height":400},
+		{"id":"dab910f957a4b8c6","type":"file","file":"Player-Accessible content/Talents/Tier 2/Signature Spell.md","x":2040,"y":240,"width":400,"height":400},
+		{"id":"a9e9d4487b316cd3","type":"file","file":"Player-Accessible content/Talents/Tier 1/Contractor.md","x":2040,"y":-200,"width":400,"height":400},
+		{"id":"00fac7a084029207","type":"file","file":"Player-Accessible content/Talents/Tier 2/Companion (Improved).md","x":720,"y":240,"width":400,"height":400},
+		{"id":"eb25a179309a00ea","type":"file","file":"Player-Accessible content/Talents/Tier 1/Companion.md","x":720,"y":-200,"width":400,"height":400},
+		{"id":"ad6a88f2c956c817","type":"file","file":"Player-Accessible content/Talents/Tier 1/Brace.md","x":1160,"y":-200,"width":400,"height":400},
+		{"id":"9bfe81f30954bd79","type":"file","file":"Player-Accessible content/Talents/Tier 2/Spirit Speak.md","x":1160,"y":680,"width":400,"height":400},
+		{"id":"534b0ba24bebada1","type":"file","file":"Player-Accessible content/Talents/Tier 1/Commander.md","x":1600,"y":680,"width":400,"height":400},
+		{"id":"57b990fd4611f9ee","x":1600,"y":1560,"width":400,"height":400,"type":"file","file":"Player-Accessible content/Talents/Tier 5/Dedication.md"},
+		{"id":"182faaf1eb8d4bbf","type":"file","file":"Player-Accessible content/Talents/Tier 5/Monstrous Companion.md","x":720,"y":680,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"159e6ec13b56b2f4","fromNode":"ad6a88f2c956c817","fromSide":"bottom","toNode":"c480ddda16210249","toSide":"top"},
+		{"id":"dcbf284801408746","fromNode":"eb25a179309a00ea","fromSide":"bottom","toNode":"00fac7a084029207","toSide":"top"},
+		{"id":"d8248a2f34ed15c2","fromNode":"cadf15d8625bb8ee","fromSide":"bottom","toNode":"300949e3529b06f3","toSide":"top"},
+		{"id":"e7296b99089a215f","fromNode":"c480ddda16210249","fromSide":"right","toNode":"300949e3529b06f3","toSide":"left","toEnd":"none"}
+	]
+}
