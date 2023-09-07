@@ -6,7 +6,7 @@
       {
         "id": "302ef67ca134cf9b",
         "type": "tabs",
-        "dimension": 51.776649746192895,
+        "dimension": 58.64611260053619,
         "children": [
           {
             "id": "a90b5a19ffd4df14",
@@ -28,10 +28,22 @@
               "state": {
                 "file": "Player-Accessible content/Talents/Trees/Warlock.canvas",
                 "viewState": {
-                  "x": 1739.9356882698005,
-                  "y": 645.9599613831729,
-                  "zoom": -1.1514230880322047
+                  "x": 1845.3262272161364,
+                  "y": 995.7114313705454,
+                  "zoom": -1.6526837894414315
                 }
+              }
+            }
+          },
+          {
+            "id": "aea41294326c0dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player-Accessible content/Talents/Tier 5/Overchannel.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -46,25 +58,15 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "53d79214f145c955",
         "type": "tabs",
-        "dimension": 48.223350253807105,
+        "dimension": 41.35388739946381,
         "children": [
           {
-            "id": "18845108ece9e67b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Player-Accessible content/Rules/core rulebook.pdf"
-              }
-            }
-          },
-          {
-            "id": "f8a55bbfa88598c7",
+            "id": "e8890b35030fce77",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -145,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player-Accessible content/Talents/Trees/Warlock.canvas",
+                "file": "Player-Accessible content/Talents/Tier 5/Overchannel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Player-Accessible content/Talents/Trees/Warlock.canvas",
+                "file": "Player-Accessible content/Talents/Tier 5/Overchannel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player-Accessible content/Talents/Trees/Warlock.canvas"
+                "file": "Player-Accessible content/Talents/Tier 5/Overchannel.md"
               }
             }
           },
@@ -215,11 +217,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6051c235534d8b43",
+  "active": "aea41294326c0dc7",
   "lastOpenFiles": [
-    "Player-Accessible content/Talents/Tier 1/Commander.md",
-    "Player-Accessible content/Talents/Tier 1/Attack Magic.md",
     "Player-Accessible content/Talents/Trees/Warlock.canvas",
+    "Player-Accessible content/Talents/Tier 5/Overchannel.md",
+    "Player-Accessible content/Talents/Tier 1/Attack Magic.md",
+    "Player-Accessible content/Talents/Tier 5/Master Merchant.md",
+    "Player-Accessible content/Talents/Tier 1/Commander.md",
     "Player-Accessible content/Talents/Tier 3/Larger Companion.md",
     "Player-Accessible content/Rules/core rulebook.pdf",
     "Player-Accessible content/Talents/Tier 1/All-Terrain Driver.md",
@@ -234,7 +238,6 @@
     "Player-Accessible content/Talents/Tier 2/Advanced Attack magic.md",
     "Player-Accessible content/Talents/Tier 2/Tier 2.md",
     "Base Sheet.md",
-    "Untitled.md",
     "Untitled 1.md",
     "Untitled 2.md",
     "Player-Accessible content/Talents/Talents.md",
@@ -247,7 +250,6 @@
     "Player-Accessible content/Talents/Trees/Untitled.md",
     "Player-Accessible content/Talents/Tier 1/Tier 1.md",
     "conflict-files-obsidian-git.md",
-    "Player-Accessible content/Talents/Tier 5/Monstrous Companion.md",
     "Player-Accessible content/Talents/Removed",
     "Player-Accessible content/Talents/Trees/Skirmisher.png",
     "Pasted image 20230713202859.png",
