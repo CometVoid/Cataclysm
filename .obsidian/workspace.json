@@ -6,78 +6,33 @@
       {
         "id": "302ef67ca134cf9b",
         "type": "tabs",
-        "dimension": 58.64611260053619,
         "children": [
-          {
-            "id": "a90b5a19ffd4df14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Accessible content/Talents/Tier 1/Attack Magic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6051c235534d8b43",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Player-Accessible content/Talents/Trees/Warlock.canvas",
-                "viewState": {
-                  "x": 1845.3262272161364,
-                  "y": 995.7114313705454,
-                  "zoom": -1.6526837894414315
-                }
-              }
-            }
-          },
-          {
-            "id": "aea41294326c0dc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player-Accessible content/Talents/Tier 5/Overchannel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "e7177531e0a3362a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Talents-Expanded.pdf"
+                "file": "Talents/Tier 1/Companion.md",
+                "mode": "source",
+                "source": false
               }
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "53d79214f145c955",
-        "type": "tabs",
-        "dimension": 41.35388739946381,
-        "children": [
+          },
           {
-            "id": "cf590caac79f57b2",
+            "id": "936ca9eded512f8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Rules/Embeds.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Rules/Embeds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Rules/Embeds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Rules/Embeds.md"
               }
             }
           },
@@ -231,53 +186,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf590caac79f57b2",
+  "active": "936ca9eded512f8c",
   "lastOpenFiles": [
-    "Player-Accessible content/Talents/Tier 5/Overchannel.md",
-    "Player-Accessible content/Talents/Trees/Warlock.canvas",
-    "Player-Accessible content/Talents/Tier 1/Attack Magic.md",
-    "Player-Accessible content/Talents/Tier 5/Master Merchant.md",
-    "Player-Accessible content/Talents/Tier 1/Commander.md",
-    "Player-Accessible content/Talents/Tier 3/Larger Companion.md",
-    "Player-Accessible content/Rules/core rulebook.pdf",
-    "Player-Accessible content/Talents/Tier 1/All-Terrain Driver.md",
-    "Player-Accessible content/Talents/Tier 1/Contractor.md",
-    "Talents-Expanded.pdf",
-    "Player-Accessible content/Talents/Tier 1/Utility.md",
-    "Player-Accessible content/Talents/Tier 1/Second Wind.md",
-    "Player-Accessible content/Talents/Tier 1/Custom Focus.md",
-    "Player-Accessible content/Talents/Tier 1/Custom Spells.md",
-    "Player-Accessible content/Talents/Tier 1/Apothecary.md",
-    "Player-Accessible content/Talents/Tier 2/Alchemical Aptitude.md",
-    "Player-Accessible content/Talents/Tier 2/Advanced Attack magic.md",
-    "Player-Accessible content/Talents/Tier 2/Tier 2.md",
+    "Rules/form-fillable setting sheet.pdf",
+    "Rules/Cataclysm setting Sheet.png",
+    "Rules/Embeds.md",
+    "Rules/core rulebook.pdf",
+    "Talents/Talents.md",
+    "Locations",
+    "Factions",
+    "Adversaries/Adversaries.md",
+    "Bouvardia.md",
+    "Adversaries",
+    "Player-Accessible content/Royal Families/Royal Families.md",
+    "Celestia.md",
+    "Rules/Rules.md",
+    "Talents/Tier 1/Tier 1.md",
+    "Talents/Tier 1/Companion.md",
+    "Talents/Tier 1/Signature Vehicle.md",
+    "Talents/Talent Template.md",
+    "README.md",
+    "Talents/Talents-Expanded.pdf",
     "Base Sheet.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "Player-Accessible content/Talents/Talents.md",
-    "Player-Accessible content/Rules/Rules.md",
-    "Player-Accessible content/Talents/Tier 5/Tier 5.md",
-    "Player-Accessible content/Talents/Tier 4/Tier 4.md",
-    "Player-Accessible content/Talents/Trees/Skirmisher.canvas",
-    "Player-Accessible content/Talents/Trees/Warlock.png",
-    "Player-Accessible content/Talents/Trees/Warlock old.canvas",
-    "Player-Accessible content/Talents/Trees/Untitled.md",
-    "Player-Accessible content/Talents/Tier 1/Tier 1.md",
-    "conflict-files-obsidian-git.md",
-    "Player-Accessible content/Talents/Removed",
-    "Player-Accessible content/Talents/Trees/Skirmisher.png",
+    "ad.md",
+    "Talents/Trees/Warlock.canvas",
+    "Talents/Tier 5/Overchannel.md",
+    "Talents/Tier 1/Attack Magic.md",
+    "Talents/Tier 5/Master Merchant.md",
+    "Talents/Tier 1/Commander.md",
+    "Talents/Tier 3/Larger Companion.md",
+    "Talents/Tier 1/All-Terrain Driver.md",
+    "Talents/Tier 1/Contractor.md",
+    "Player-Accessible content/Talents/Tier 1/Utility.md",
+    "Talents/Tier 1/Second Wind.md",
+    "Talents/Tier 1/Custom Focus.md",
+    "Talents/Tier 1/Custom Spells.md",
+    "Talents/Trees/Skirmisher.canvas",
+    "Talents/Trees/Warlock.png",
+    "Talents/Trees/Warlock old.canvas",
+    "Talents/Removed",
+    "Talents/Trees/Skirmisher.png",
     "Pasted image 20230713202859.png",
-    "Player-Accessible content/Talents/Trees/Blademaster.canvas",
-    "Player-Accessible content/Talents/Trees/Juggernaught.png",
-    "Player-Accessible content/Talents/Trees/Juggernaught.canvas",
-    "Player-Accessible content/Rules/Cataclysm setting Sheet.png",
+    "Talents/Trees/Blademaster.canvas",
+    "Talents/Trees/Juggernaught.png",
+    "Talents/Trees/Juggernaught.canvas",
     "Player-Accessible content/Talents/Untitled",
     "Player-Accessible content/Talents/Trees/Test.canvas",
     "Player-Accessible content/Trees/Untitled",
-    "Custom",
-    "Player-Accessible content/Talents/Tier 1/Custom Spells",
-    "No touchy",
-    "Player-Accessible content/Talents/Trees",
-    "Player-Accessible content/Talents/Tier 5"
+    "Custom"
   ]
 }

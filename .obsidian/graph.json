@@ -8,52 +8,38 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Player-Accessible content/Talents/Tier 5\"  ",
+      "query": "path:\"Talents/Tier 5\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"Player-Accessible content/Talents/Tier 4\"  ",
+      "query": "path:\"Talents/Tier 4\"  ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:\"Player-Accessible content/Talents/Tier 3\"  ",
+      "query": "path:\"Talents/Tier 3\"  ",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "path:\"Player-Accessible content/Talents/Tier 2\"  ",
+      "query": "path:\"Talents/Tier 2\"  ",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "path:\"Player-Accessible content/Talents/Tier 1\"  ",
+      "query": "path:\"Talents/Tier 1\"  ",
       "color": {
         "a": 1,
         "rgb": 5431473
-      }
-    },
-    {
-      "query": "path:\"Player-Accessible content/Talents/Trees\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:\"Player-Accessible content/Talents/Removed\" path:\"Player-Accessible content/Talents/Removed\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 3355443
       }
     }
   ],
@@ -67,6 +53,6 @@
   "repelStrength": 5.72916666666667,
   "linkStrength": 0.859375,
   "linkDistance": 263,
-  "scale": 0.4063943184934405,
+  "scale": 0.12393260523296556,
   "close": true
 }

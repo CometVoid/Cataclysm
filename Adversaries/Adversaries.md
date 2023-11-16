@@ -1,9 +1,7 @@
 # Characters Overview
 %% Begin Waypoint %%
-- **Minions**
 - **Nemesis**
 	- [[Vernon Alfred Victor Celestia]]
-- **PCs**
 - **Rivals**
 	- [[Baro]]
 	- [[Esky]]

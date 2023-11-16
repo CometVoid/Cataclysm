@@ -1,2 +1,0 @@
-# cataclysm
-[[Talents]]

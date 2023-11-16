@@ -1,10 +1,6 @@
 # Rules Overview
 %% Begin Waypoint %%
-- [[Cataclysm setting Sheet.png]]
-- [[core rulebook.pdf]]
 - [[Embeds]]
-- [[form-fillable setting sheet.pdf]]
-- [[Rules]]
 
 %% End Waypoint %%
  
