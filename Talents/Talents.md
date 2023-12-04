@@ -1,6 +1,7 @@
 # Talents Overview
 
 %% Begin Waypoint %%
+- [[Heal]]
 - **Removed**
 	- [[Animal Companion (old)]]
 	- [[Familiar (old)]]

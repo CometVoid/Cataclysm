@@ -1,4 +1,4 @@
 Activation: Passive
 Ranked: No
 ##### effect
-You may use **Charisma** for casting spells
+You may use **Presence** for casting spells

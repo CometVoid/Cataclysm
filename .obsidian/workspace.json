@@ -6,33 +6,48 @@
       {
         "id": "302ef67ca134cf9b",
         "type": "tabs",
+        "dimension": 22.49269717624148,
         "children": [
           {
-            "id": "e7177531e0a3362a",
+            "id": "48907ae4c93f54ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Talents/Tier 1/Companion.md",
+                "file": "Talents/Heal.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "936ca9eded512f8c",
+            "id": "97b0a818a4486122",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Rules/Embeds.md",
-                "mode": "source",
-                "source": false
+                "file": "Rules/core rulebook.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "e0e9cd5e66c399fb",
+        "type": "tabs",
+        "dimension": 77.50730282375852,
+        "children": [
+          {
+            "id": "f131e91ae520baa6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Rules/core rulebook.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 225.5,
+    "collapsed": true
   },
   "right": {
     "id": "d8c0e2d32c2f2491",
@@ -106,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/Embeds.md",
+                "file": "Talents/Heal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/Embeds.md",
+                "file": "Talents/Heal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Embeds.md"
+                "file": "Talents/Heal.md"
               }
             }
           },
@@ -186,41 +202,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e5df91b2fc72f09",
+  "active": "48907ae4c93f54ef",
   "lastOpenFiles": [
+    "Rules/core rulebook.pdf",
+    "Talents/Heal.md",
+    "Talents/Tier 1/Rapid Reaction.md",
+    "Talents/Tier 1/Quick Strike.md",
+    "Talents/Tier 1/Quick Draw.md",
+    "Talents/Tier 1/Proper Upbringing.md",
+    "Talents/Tier 1/Precision.md",
+    "Talents/Tier 1/Parry.md",
+    "Talents/Tier 1/Painful Blow.md",
+    "Talents/Tier 1/Knockout Punch.md",
+    "Talents/Tier 1/Knowledge Specialization.md",
+    "Talents/Tier 1/Knack For It.md",
+    "Talents/Tier 1/Jump Up.md",
+    "Talents/Tier 1/Intercept.md",
+    "Talents/Tier 1/Spirit Arts.md",
+    "Talents/Tier 1/Construction Specialist.md",
+    "Talents/Tier 1/Challenge.md",
+    "Talents/Tier 2/Grapple.md",
+    "Talents/Tier 2/Fearsome.md",
+    "Talents/Tier 2/Exploit.md",
+    "Talents/Tier 2/Encouraging Song.md",
+    "Talents/Tier 2/Dirty Tricks.md",
+    "Talents/Tier 2/Cutting Question.md",
+    "Talents/Tier 2/Barrage.md",
+    "Talents/Tier 2/Berserk.md",
+    "Talents/Tier 2/Combat Medicine.md",
+    "Talents/Talents-Expanded.pdf",
+    "Rules/Magic",
+    "Adversaries/Minions",
     "Rules/form-fillable setting sheet.pdf",
     "Rules/Cataclysm setting Sheet.png",
-    "Rules/Embeds.md",
-    "Rules/core rulebook.pdf",
-    "Talents/Talents.md",
     "Locations",
     "Factions",
-    "Adversaries/Adversaries.md",
-    "Factions/Bouvardia.md",
     "Adversaries",
-    "Player-Accessible content/Royal Families/Royal Families.md",
-    "Factions/Celestia.md",
-    "Rules/Rules.md",
-    "Talents/Tier 1/Tier 1.md",
-    "Talents/Tier 1/Companion.md",
-    "Talents/Tier 1/Signature Vehicle.md",
-    "Talents/Talent Template.md",
-    "README.md",
-    "Talents/Talents-Expanded.pdf",
-    "Base Sheet.md",
-    "ad.md",
     "Talents/Trees/Warlock.canvas",
-    "Talents/Tier 5/Overchannel.md",
-    "Talents/Tier 1/Attack Magic.md",
-    "Talents/Tier 5/Master Merchant.md",
-    "Talents/Tier 1/Commander.md",
-    "Talents/Tier 3/Larger Companion.md",
-    "Talents/Tier 1/All-Terrain Driver.md",
-    "Talents/Tier 1/Contractor.md",
-    "Player-Accessible content/Talents/Tier 1/Utility.md",
-    "Talents/Tier 1/Second Wind.md",
-    "Talents/Tier 1/Custom Focus.md",
-    "Talents/Tier 1/Custom Spells.md",
     "Talents/Trees/Skirmisher.canvas",
     "Talents/Trees/Warlock.png",
     "Talents/Trees/Warlock old.canvas",
@@ -231,8 +249,6 @@
     "Talents/Trees/Juggernaught.png",
     "Talents/Trees/Juggernaught.canvas",
     "Player-Accessible content/Talents/Untitled",
-    "Player-Accessible content/Talents/Trees/Test.canvas",
-    "Player-Accessible content/Trees/Untitled",
-    "Custom"
+    "Player-Accessible content/Talents/Trees/Test.canvas"
   ]
 }

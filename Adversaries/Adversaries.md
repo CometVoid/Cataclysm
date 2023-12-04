@@ -1,11 +1,12 @@
+# Hey! you! Should you really be looking in here? This is GM Only!
+
+
+
 # Characters Overview
 %% Begin Waypoint %%
-- **Nemesis**
-	- [[Vernon Alfred Victor Celestia]]
-- **Rivals**
-	- [[Baro]]
-	- [[Esky]]
-	- [[Sprocket]]
+- **[[Minions]]**
+- **[[Nemesis]]**
+- **[[Rivals]]**
 
 %% End Waypoint %%
  

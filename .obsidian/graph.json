@@ -41,6 +41,27 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:Adversaries/Nemesis  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Adversaries/Rivals  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725970
+      }
+    },
+    {
+      "query": "path:Adversaries/Minions ",
+      "color": {
+        "a": 1,
+        "rgb": 7921746
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +74,6 @@
   "repelStrength": 5.72916666666667,
   "linkStrength": 0.859375,
   "linkDistance": 263,
-  "scale": 0.12393260523296556,
+  "scale": 0.7684157272024433,
   "close": true
 }
