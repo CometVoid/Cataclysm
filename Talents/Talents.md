@@ -1,7 +1,7 @@
 # Talents Overview
 
 %% Begin Waypoint %%
-- [[Heal]]
+- [[Ranged Spells]]
 - **Removed**
 	- [[Animal Companion (old)]]
 	- [[Familiar (old)]]

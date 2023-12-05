@@ -21,7 +21,6 @@
 - [[Inside Knowledge]]
 - [[Inside Person]]
 - [[Inspiring Leadership]]
-- [[Intense Focus]]
 - [[Just Kidding!]]
 - [[Let's Talk This Over]]
 - [[Master (Melee Light)]]

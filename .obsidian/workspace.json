@@ -6,7 +6,7 @@
       {
         "id": "302ef67ca134cf9b",
         "type": "tabs",
-        "dimension": 22.49269717624148,
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "48907ae4c93f54ef",
@@ -14,7 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Talents/Heal.md",
+                "file": "Talents/Tier 3/Tier 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a48467d7bd7b3bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Talents/Tier 1/Surgeon.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,28 +38,24 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Rules/core rulebook.pdf"
+                "file": "Talents/Talents-Expanded.pdf"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "e0e9cd5e66c399fb",
-        "type": "tabs",
-        "dimension": 77.50730282375852,
-        "children": [
+          },
           {
-            "id": "f131e91ae520baa6",
+            "id": "e13d7624fe4db172",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Rules/core rulebook.pdf"
+                "file": "Talents/Tier 2/Point Blank.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -76,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "point blank",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,12 +109,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "d8c0e2d32c2f2491",
@@ -122,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Talents/Heal.md",
+                "file": "Talents/Tier 2/Point Blank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Talents/Heal.md",
+                "file": "Talents/Tier 2/Point Blank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Talents/Heal.md"
+                "file": "Talents/Tier 2/Point Blank.md"
               }
             }
           },
@@ -202,35 +210,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48907ae4c93f54ef",
+  "active": "e13d7624fe4db172",
   "lastOpenFiles": [
+    "Talents/Tier 3/Tier 3.md",
+    "Talents/Tier 1/Surgeon.md",
+    "Talents/Talents-Expanded.pdf",
     "Rules/core rulebook.pdf",
-    "Talents/Heal.md",
-    "Talents/Tier 1/Rapid Reaction.md",
+    "Talents/Tier 2/Point Blank.md",
+    "Talents/Tier 2/Tier 2.md",
+    "Talents/Tier 2/Multiple Opponents.md",
+    "Talents/Tier 4/Split fire.md",
+    "Talents/Tier 1/Spirit Arts.md",
+    "Talents/Tier 1/Smooth Talker.md",
     "Talents/Tier 1/Quick Strike.md",
     "Talents/Tier 1/Quick Draw.md",
-    "Talents/Tier 1/Proper Upbringing.md",
     "Talents/Tier 1/Precision.md",
     "Talents/Tier 1/Parry.md",
     "Talents/Tier 1/Painful Blow.md",
     "Talents/Tier 1/Knockout Punch.md",
-    "Talents/Tier 1/Knowledge Specialization.md",
-    "Talents/Tier 1/Knack For It.md",
-    "Talents/Tier 1/Jump Up.md",
-    "Talents/Tier 1/Intercept.md",
-    "Talents/Tier 1/Spirit Arts.md",
-    "Talents/Tier 1/Construction Specialist.md",
-    "Talents/Tier 1/Challenge.md",
-    "Talents/Tier 2/Grapple.md",
-    "Talents/Tier 2/Fearsome.md",
-    "Talents/Tier 2/Exploit.md",
-    "Talents/Tier 2/Encouraging Song.md",
-    "Talents/Tier 2/Dirty Tricks.md",
-    "Talents/Tier 2/Cutting Question.md",
-    "Talents/Tier 2/Barrage.md",
-    "Talents/Tier 2/Berserk.md",
-    "Talents/Tier 2/Combat Medicine.md",
-    "Talents/Talents-Expanded.pdf",
+    "Talents/Tier 1/Duelist.md",
+    "Talents/Tier 1/Channel.md",
+    "Talents/Tier 1/True Aim.md",
+    "Talents/Tier 5/Overwhelm.md",
+    "Talents/Tier 5/Overcharge (improved).md",
+    "Talents/Talent Template.md",
+    "Talents/Talents.md",
+    "Talents/Ranged Spells.md",
+    "Talents/Tier 4/Deadly Accuracy.md",
+    "Talents/Tier 4/Steady Aim.md",
+    "Talents/Tier 2/Untitled.md",
     "Rules/Magic",
     "Adversaries/Minions",
     "Rules/form-fillable setting sheet.pdf",

@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"type":"text","text":"# Warlock\n\n## extra skills\n- 1 magic skill of your choice.\n- Arcane\n- Cool\n","id":"1fc7ce5a2c89dac5","x":720,"y":-560,"width":1720,"height":280},
-		{"id":"cadf15d8625bb8ee","type":"file","file":"Talents/Tier 1/Attack Magic.md","x":1600,"y":-200,"width":400,"height":400},
+		{"id":"cadf15d8625bb8ee","type":"file","file":"Talents/Tier 1/Attack Spell.md","x":1600,"y":-200,"width":400,"height":400},
 		{"id":"300949e3529b06f3","type":"file","file":"Talents/Tier 1/Brace.md","x":1600,"y":240,"width":400,"height":400},
 		{"id":"c480ddda16210249","type":"file","file":"Talents/Tier 1/Second Wind.md","x":1160,"y":240,"width":400,"height":400},
 		{"id":"dab910f957a4b8c6","type":"file","file":"Talents/Tier 2/Signature Spell.md","x":2040,"y":240,"width":400,"height":400},
