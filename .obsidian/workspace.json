@@ -48,14 +48,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Talents/Tier 1/Conjure  Spell.md",
+                "file": "Talents/Tier 5/Baleful Gaze.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "a29a127e07c89b21",
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Talents/Tier 1/Conjure  Spell.md",
+                "file": "Talents/Talents-Expanded.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Talents/Tier 1/Conjure  Spell.md",
+                "file": "Talents/Talents-Expanded.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Talents/Tier 1/Conjure  Spell.md"
+                "file": "Talents/Talents-Expanded.pdf"
               }
             }
           },
@@ -226,37 +226,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e5df91b2fc72f09",
+  "active": "97b0a818a4486122",
   "lastOpenFiles": [
-    "Rules/core rulebook.pdf",
-    "Talents/Tier 1/Conjure  Spell.md",
-    "Talents/Talent Template.md",
-    "Talents/Tier 2/Barrier.md",
-    "Talents/Ranged Spells.md",
-    "Talents/Tier 2/Determined Driver.md",
-    "Talents/Tier 3/Pin.md",
-    "Talents/Tier 3/Cavalier.md",
-    "Talents/Tier 3/Ambush.md",
-    "Talents/Tier 2/Augment Spell.md",
-    "Talents/Tier 1/Attack Spell.md",
-    "Talents/Tier 1/Heal Spell.md",
+    "Talents/Tier 5/Baleful Gaze.md",
     "Talents/Talents.md",
-    "Talents/Tier 3/Tier 3.md",
+    "Rules/Rules.md",
+    "Realms/Realms.md",
+    "Factions/Bouvardia.md",
+    "Factions/Factions.md",
+    "Adversaries/Adversaries.md",
+    "Talents/Tier 4/Tier 4.md",
+    "Talents/Tier 1/Tier 1.md",
+    "Talents/Tier 3/Heal Spell.md",
+    "Rules/core rulebook.pdf",
+    "Talents/Tier 1/Attack Spell.md",
+    "Talents/Tier 2/Barrier Spell.md",
+    "Talents/Tier 2/Conjure  Spell.md",
+    "Talents/Tier 2/Bard.md",
+    "Talents/Tier 2/Dirty Tricks.md",
+    "Talents/Tier 2/Confidence.md",
+    "Talents/Tier 3/Augment Spell.md",
+    "Talents/Tier 3/Backstab.md",
+    "Talents/Tier 3/Curse Spell.md",
+    "Talents/Tier 1/Reflect.md",
+    "Talents/Tier 2/Berserk.md",
+    "Talents/Tier 2/Basic Military Training.md",
+    "Talents/Tier 2/Adventurer.md",
+    "Talents/Tier 1/Blood Sacrifice.md",
+    "Talents/Tier 1/Channel.md",
+    "Talents/Talent Template.md",
     "Realms/Untitled",
     "Realms",
-    "Talents/Tier 2/Signature Spell.md",
-    "Talents/Tier 2/Point Blank.md",
-    "Talents/Tier 1/Surgeon.md",
     "Talents/Talents-Expanded.pdf",
-    "Talents/Tier 2/Tier 2.md",
-    "Talents/Tier 2/Multiple Opponents.md",
-    "Talents/Tier 4/Split fire.md",
-    "Talents/Tier 1/Spirit Arts.md",
-    "Talents/Tier 1/Smooth Talker.md",
-    "Talents/Tier 1/Quick Strike.md",
-    "Talents/Tier 1/Quick Draw.md",
-    "Talents/Tier 1/Precision.md",
-    "Talents/Tier 1/Parry.md",
     "Rules/Magic",
     "Adversaries/Minions",
     "Rules/form-fillable setting sheet.pdf",
