@@ -15,6 +15,7 @@
 - [[Clever Retort]]
 - [[Commander]]
 - [[Companion]]
+- [[Conjure  Spell]]
 - [[Construction Specialist]]
 - [[Creative Design]]
 - [[Custom Enchants]]

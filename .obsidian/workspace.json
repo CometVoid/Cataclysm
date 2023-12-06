@@ -6,7 +6,7 @@
       {
         "id": "302ef67ca134cf9b",
         "type": "tabs",
-        "dimension": 99.99999999999999,
+        "dimension": 44.82561463693539,
         "children": [
           {
             "id": "48907ae4c93f54ef",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Talents/Tier 4/Signature Spell (Improved).md",
+                "file": "Talents/Tier 1/Conjure  Spell.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,6 +56,23 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "a29a127e07c89b21",
+        "type": "tabs",
+        "dimension": 55.1743853630646,
+        "children": [
+          {
+            "id": "2accc5ef8578de26",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Rules/core rulebook.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Talents/Tier 4/Signature Spell (Improved).md",
+                "file": "Talents/Tier 1/Conjure  Spell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Talents/Tier 4/Signature Spell (Improved).md",
+                "file": "Talents/Tier 1/Conjure  Spell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Talents/Tier 4/Signature Spell (Improved).md"
+                "file": "Talents/Tier 1/Conjure  Spell.md"
               }
             }
           },
@@ -211,12 +228,26 @@
   },
   "active": "3e5df91b2fc72f09",
   "lastOpenFiles": [
+    "Rules/core rulebook.pdf",
+    "Talents/Tier 1/Conjure  Spell.md",
+    "Talents/Talent Template.md",
+    "Talents/Tier 2/Barrier.md",
+    "Talents/Ranged Spells.md",
+    "Talents/Tier 2/Determined Driver.md",
+    "Talents/Tier 3/Pin.md",
+    "Talents/Tier 3/Cavalier.md",
+    "Talents/Tier 3/Ambush.md",
+    "Talents/Tier 2/Augment Spell.md",
+    "Talents/Tier 1/Attack Spell.md",
+    "Talents/Tier 1/Heal Spell.md",
+    "Talents/Talents.md",
+    "Talents/Tier 3/Tier 3.md",
+    "Realms/Untitled",
+    "Realms",
     "Talents/Tier 2/Signature Spell.md",
     "Talents/Tier 2/Point Blank.md",
-    "Talents/Tier 3/Tier 3.md",
     "Talents/Tier 1/Surgeon.md",
     "Talents/Talents-Expanded.pdf",
-    "Rules/core rulebook.pdf",
     "Talents/Tier 2/Tier 2.md",
     "Talents/Tier 2/Multiple Opponents.md",
     "Talents/Tier 4/Split fire.md",
@@ -226,19 +257,6 @@
     "Talents/Tier 1/Quick Draw.md",
     "Talents/Tier 1/Precision.md",
     "Talents/Tier 1/Parry.md",
-    "Talents/Tier 1/Painful Blow.md",
-    "Talents/Tier 1/Knockout Punch.md",
-    "Talents/Tier 1/Duelist.md",
-    "Talents/Tier 1/Channel.md",
-    "Talents/Tier 1/True Aim.md",
-    "Talents/Tier 5/Overwhelm.md",
-    "Talents/Tier 5/Overcharge (improved).md",
-    "Talents/Talent Template.md",
-    "Talents/Talents.md",
-    "Talents/Ranged Spells.md",
-    "Talents/Tier 4/Deadly Accuracy.md",
-    "Talents/Tier 4/Steady Aim.md",
-    "Talents/Tier 2/Untitled.md",
     "Rules/Magic",
     "Adversaries/Minions",
     "Rules/form-fillable setting sheet.pdf",
@@ -250,13 +268,11 @@
     "Talents/Trees/Skirmisher.canvas",
     "Talents/Trees/Warlock.png",
     "Talents/Trees/Warlock old.canvas",
-    "Talents/Removed",
     "Talents/Trees/Skirmisher.png",
     "Pasted image 20230713202859.png",
     "Talents/Trees/Blademaster.canvas",
     "Talents/Trees/Juggernaught.png",
     "Talents/Trees/Juggernaught.canvas",
-    "Player-Accessible content/Talents/Untitled",
     "Player-Accessible content/Talents/Trees/Test.canvas"
   ]
 }

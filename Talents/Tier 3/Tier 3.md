@@ -83,7 +83,7 @@
 - [[Parry (Improved)]]
 - [[Pin]]
 - [[Plausible Deniability]]
-- [[Talents/Tier 3/Point Blank]]
+- [[Point Blank]]
 - [[Poison Specialist]]
 - [[Potent Concoctions]]
 - [[Powerful Blast]]
