@@ -36,9 +36,11 @@
             "id": "97b0a818a4486122",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Talents/Talents-Expanded.pdf"
+                "file": "Talents/Trees (depricated)/Trees (depricated).md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -146,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Talents/Talents-Expanded.pdf",
+                "file": "Talents/Trees (depricated)/Trees (depricated).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Talents/Talents-Expanded.pdf",
+                "file": "Talents/Trees (depricated)/Trees (depricated).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Talents/Talents-Expanded.pdf"
+                "file": "Talents/Trees (depricated)/Trees (depricated).md"
               }
             }
           },
@@ -226,8 +228,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97b0a818a4486122",
+  "active": "3e5df91b2fc72f09",
   "lastOpenFiles": [
+    "Talents/Talents-Expanded.pdf",
     "Talents/Tier 5/Baleful Gaze.md",
     "Talents/Talents.md",
     "Rules/Rules.md",
@@ -254,10 +257,8 @@
     "Talents/Tier 2/Adventurer.md",
     "Talents/Tier 1/Blood Sacrifice.md",
     "Talents/Tier 1/Channel.md",
-    "Talents/Talent Template.md",
     "Realms/Untitled",
     "Realms",
-    "Talents/Talents-Expanded.pdf",
     "Rules/Magic",
     "Adversaries/Minions",
     "Rules/form-fillable setting sheet.pdf",
@@ -265,15 +266,15 @@
     "Locations",
     "Factions",
     "Adversaries",
-    "Talents/Trees/Warlock.canvas",
-    "Talents/Trees/Skirmisher.canvas",
-    "Talents/Trees/Warlock.png",
-    "Talents/Trees/Warlock old.canvas",
-    "Talents/Trees/Skirmisher.png",
+    "Talents/Trees (depricated)/Warlock.canvas",
+    "Talents/Trees (depricated)/Skirmisher.canvas",
+    "Talents/Trees (depricated)/Warlock.png",
+    "Talents/Trees (depricated)/Warlock old.canvas",
+    "Talents/Trees (depricated)/Skirmisher.png",
     "Pasted image 20230713202859.png",
-    "Talents/Trees/Blademaster.canvas",
-    "Talents/Trees/Juggernaught.png",
-    "Talents/Trees/Juggernaught.canvas",
+    "Talents/Trees (depricated)/Blademaster.canvas",
+    "Talents/Trees (depricated)/Juggernaught.png",
+    "Talents/Trees (depricated)/Juggernaught.canvas",
     "Player-Accessible content/Talents/Trees/Test.canvas"
   ]
 }

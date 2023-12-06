@@ -1,7 +1,6 @@
 # Talents Overview
 
 %% Begin Waypoint %%
-- [[Ranged Spells]]
 - **Removed**
 	- [[Animal Companion (old)]]
 	- [[Familiar (old)]]
@@ -14,7 +13,7 @@
 - **[[Tier 3]]**
 - **[[Tier 4]]**
 - **[[Tier 5]]**
-- **[[Trees]]**
+- **[[Trees (depricated)]]**
 
 %% End Waypoint %%
 
