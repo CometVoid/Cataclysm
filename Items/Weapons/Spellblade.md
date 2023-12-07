@@ -8,4 +8,4 @@ This wand increases the damage of your magic attacks by +3, and allows you to ad
 
 A spellblade counts as a melee(light) or melee(heavy) weapon (chosen when bought), and spells cast at engaged ranged with it count as attacking with the spellblade, and as melee(light) combat checks
 
-![Spellblade](https://github.com/CometVoid/Cataclysm/blob/main/Items/Magical%20Impliments/Spellblade.png)
+![Spellblade](https://github.com/CometVoid/Cataclysm/blob/main/Items/Weapons/Spellblade.png)

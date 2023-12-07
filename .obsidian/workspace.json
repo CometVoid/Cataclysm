@@ -12,9 +12,11 @@
             "id": "48907ae4c93f54ef",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Items/Weapons/Spellblade.png"
+                "file": "Items/Weapons/Spellblade.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -169,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Weapons/Spellblade.png",
+                "file": "Items/Weapons/Spellblade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Weapons/Spellblade.png",
+                "file": "Items/Weapons/Spellblade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Weapons/Spellblade.png"
+                "file": "Items/Weapons/Spellblade.md"
               }
             }
           },
@@ -251,13 +253,13 @@
   },
   "active": "48907ae4c93f54ef",
   "lastOpenFiles": [
+    "Items/Weapons/Spellblade.png",
     "Items/Weapons/Spellblade.md",
     "Items/Weapons",
     "Items/Magical Impliments/Wand.md",
     "Items/Magical Impliments/Ring.md",
     "Rules/core rulebook.pdf",
     "Items/Magical Impliments/Ring.png",
-    "Items/Weapons/Spellblade.png",
     "Items/Magical Impliments",
     "Items/Magical Impliments/Wand.png",
     "Talents/Tier 1/Attack Spell.md",
