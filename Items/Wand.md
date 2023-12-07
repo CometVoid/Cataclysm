@@ -1,7 +1,6 @@
-
- Cost: 400
- Rarity: 5
- Encumbrance: 1
+    Cost: 400
+    Rarity: 5
+    Encumbrance: 1
 
 A Wand is a simple magical implement that allows a caster to add a specific **Easy**(1) additional spell effect to a spell without increasing the spell's difficulty. 
 For example, a wand of fire might allow you to add the **Burn** quality to your attack spells without increasing the difficulty, or a wand  of haste could allow you to add the haste quality to your augment spells.
