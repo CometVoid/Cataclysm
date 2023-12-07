@@ -10,8 +10,9 @@ You can also add additional effects to your magic attacks by increasing the diff
 | Effect                                                                                                                                           | Difficulty |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
 | **Range**: Increase the range of the spell by one range band. This may be added multiple times, increasing the range by one range band each time | +1         |
-| **Close Combat**: May select a target engaged with your character                                                                                | +1         |
-| **Blast**: Attacks gains the blast quality witha rating equal to your character's ranks in Knowledge(arcane)                                     | +1         |
+| **Close Combat**: May select a target engaged with your character.                                                                               | +1         |
+| **Blast**: Attacks gains the blast quality with a rating equal to your character's ranks in Knowledge(arcane)                                    | +1         |
+| **Lethal**: Your spells gain a critical rating of 6, minus 1 per rank of knowledge(arcane) (to a minimum of 1)                                   | +1           |
 | **Burn**: The attack gains the burn quality with a rating equal to your character's ranks in knowledge(arcane)                                   | +1         |
 | **Ensnare**: The attack gains the ensnare quality with a rating equal to your character's ranks in knowledge(arcane)                             | +1         |
 | **Knockdown**: The attack gains the knockdown quality with a rating equal to your character's ranks in knowledge(arcane)                         | +1         |

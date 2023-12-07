@@ -6,7 +6,7 @@
       {
         "id": "302ef67ca134cf9b",
         "type": "tabs",
-        "dimension": 11.435105774728418,
+        "dimension": 35.62035448827901,
         "children": [
           {
             "id": "48907ae4c93f54ef",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Talents/Tier 3/Tier 3.md",
+                "file": "Items/Spellblade(light).md",
                 "mode": "source",
                 "source": false
               }
@@ -56,13 +56,12 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "a29a127e07c89b21",
         "type": "tabs",
-        "dimension": 88.56489422527159,
+        "dimension": 64.37964551172098,
         "children": [
           {
             "id": "2accc5ef8578de26",
@@ -90,15 +89,16 @@
             "id": "a1660e4f8a378579",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Talents/Tier 4/Overbalance.md",
-                "staged": false
+                "file": "Talents/Tier 2/Coordinated Assault.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Multiple",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,8 +152,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,6 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Items/Spellblade(light).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,6 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Items/Spellblade(light).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +211,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Items/Spellblade(light).md"
+              }
             }
           },
           {
@@ -249,36 +252,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a1660e4f8a378579",
+  "active": "3e5df91b2fc72f09",
   "lastOpenFiles": [
+    "Items/Spellblade.png",
+    "Talents/Tier 1/Attack Spell.md",
+    "Rules/core rulebook.pdf",
+    "Items/Spellblade(light).md",
+    "Talents/Tier 5/Tier 5.md",
+    "Talents/Tier 1/Tier 1.md",
+    "Items",
+    "Talents/Tier 3/Tier 3.md",
+    "Talents/Tier 5/Baleful Gaze.md",
+    "Talents/Trees (depricated)/Trees (depricated).md",
+    "Talents/Tier 1/Surgeon.md",
+    "Talents/Tier 2/Coordinated Assault.md",
+    "Talents/Tier 2/Containment.md",
+    "Talents/Tier 1/Construction Specialist.md",
+    "Talents/Tier 3/Combat Veteran.md",
+    "Talents/Tier 2/Combat Medicine.md",
+    "Talents/Tier 1/Challenge.md",
+    "Talents/Tier 1/Call 'Em.md",
+    "Talents/Tier 4/By the Book.md",
+    "Talents/Tier 3/Body Guard.md",
+    "Talents/Tier 3/Blind Spot.md",
+    "Talents/Tier 3/Backstab.md",
     "Talents/Tier 2/Multiple Opponents.md",
     "Talents/Tier 2/Point Blank.md",
     "Talents/Tier 1/Bullrush.md",
-    "Talents/Tier 3/Body Guard.md",
-    "Talents/Tier 3/Blind Spot.md",
     "Talents/Tier 3/Frenzies Attack.md",
     "Talents/Tier 1/Finesse.md",
     "Talents/Tier 3/Feral Strength.md",
-    "Talents/Tier 3/Disarm.md",
-    "Talents/Tier 1/Call 'Em.md",
-    "Talents/Tier 1/Brace.md",
-    "Talents/Tier 1/Bought Info.md",
-    "Talents/Tier 1/Black Market Contacts.md",
-    "Talents/Tier 1/Blood Sacrifice.md",
-    "Talents/Tier 1/Attack Spell.md",
-    "Talents/Tier 1/Apothecary.md",
-    "Talents/Tier 3/Congenial.md",
-    "Talents/Tier 3/Combat Veteran.md",
-    "Talents/Tier 3/Battle Casting.md",
-    "Talents/Tier 3/Backstab.md",
-    "Talents/Tier 3/Applied Research.md",
-    "Talents/Tier 3/Ambush.md",
-    "Talents/Tier 3/Pressure Point.md",
-    "Talents/Tier 3/Powerful Blast.md",
-    "Talents/Tier 3/Pin.md",
-    "Talents/Tier 3/Overwhelm Defences.md",
     "Talents/Talents-Expanded.pdf",
-    "Rules/core rulebook.pdf",
     "Realms/Untitled",
     "Realms",
     "Rules/Magic",
@@ -287,7 +291,6 @@
     "Rules/Cataclysm setting Sheet.png",
     "Locations",
     "Factions",
-    "Adversaries",
     "Talents/Trees (depricated)/Warlock.canvas",
     "Talents/Trees (depricated)/Skirmisher.canvas",
     "Talents/Trees (depricated)/Warlock.png",
