@@ -6,7 +6,7 @@
       {
         "id": "302ef67ca134cf9b",
         "type": "tabs",
-        "dimension": 35.62035448827901,
+        "dimension": 46.82675814751286,
         "children": [
           {
             "id": "48907ae4c93f54ef",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Spellblade.md",
+                "file": "Items/Wand.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
       {
         "id": "a29a127e07c89b21",
         "type": "tabs",
-        "dimension": 64.37964551172098,
+        "dimension": 53.17324185248714,
         "children": [
           {
             "id": "2accc5ef8578de26",
@@ -97,8 +97,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Spellblade.md",
+                "file": "Items/Wand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Spellblade.md",
+                "file": "Items/Wand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Spellblade.md"
+                "file": "Items/Wand.md"
               }
             }
           },
@@ -255,9 +254,11 @@
   "active": "48907ae4c93f54ef",
   "lastOpenFiles": [
     "Items/Spellblade.png",
+    "Items/Wand.png",
+    "Items/Wand.md",
     "Items/Spellblade.md",
-    "Talents/Tier 1/Attack Spell.md",
     "Rules/core rulebook.pdf",
+    "Talents/Tier 1/Attack Spell.md",
     "Talents/Tier 5/Tier 5.md",
     "Talents/Tier 1/Tier 1.md",
     "Items",
@@ -281,7 +282,6 @@
     "Talents/Tier 1/Bullrush.md",
     "Talents/Tier 3/Frenzies Attack.md",
     "Talents/Tier 1/Finesse.md",
-    "Talents/Tier 3/Feral Strength.md",
     "Talents/Talents-Expanded.pdf",
     "Realms/Untitled",
     "Realms",
