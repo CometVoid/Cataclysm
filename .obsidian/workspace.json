@@ -6,7 +6,7 @@
       {
         "id": "302ef67ca134cf9b",
         "type": "tabs",
-        "dimension": 44.82561463693539,
+        "dimension": 11.435105774728418,
         "children": [
           {
             "id": "48907ae4c93f54ef",
@@ -62,7 +62,7 @@
       {
         "id": "a29a127e07c89b21",
         "type": "tabs",
-        "dimension": 55.1743853630646,
+        "dimension": 88.56489422527159,
         "children": [
           {
             "id": "2accc5ef8578de26",
@@ -73,8 +73,33 @@
                 "file": "Rules/core rulebook.pdf"
               }
             }
+          },
+          {
+            "id": "b2b13dd468136b88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Talents/Tier 1/Attack Spell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1660e4f8a378579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Talents/Tier 3/Inspiring Rhetoric (Improved).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Talents/Trees (depricated)/Trees (depricated).md",
+                "file": "Talents/Tier 3/Inspiring Rhetoric (Improved).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Talents/Trees (depricated)/Trees (depricated).md",
+                "file": "Talents/Tier 3/Inspiring Rhetoric (Improved).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Talents/Trees (depricated)/Trees (depricated).md"
+                "file": "Talents/Tier 3/Inspiring Rhetoric (Improved).md"
               }
             }
           },
@@ -228,8 +253,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e5df91b2fc72f09",
+  "active": "a1660e4f8a378579",
   "lastOpenFiles": [
+    "Talents/Tier 3/Hold It Steady.md",
+    "Talents/Tier 3/Hindering Shot.md",
+    "Talents/Tier 3/Hex Warrior.md",
+    "Talents/Tier 3/Heal Spell.md",
+    "Talents/Tier 1/Attack Spell.md",
+    "Talents/Trees (depricated)/Trees (depricated).md",
     "Talents/Talents-Expanded.pdf",
     "Talents/Tier 5/Baleful Gaze.md",
     "Talents/Talents.md",
@@ -240,9 +271,7 @@
     "Adversaries/Adversaries.md",
     "Talents/Tier 4/Tier 4.md",
     "Talents/Tier 1/Tier 1.md",
-    "Talents/Tier 3/Heal Spell.md",
     "Rules/core rulebook.pdf",
-    "Talents/Tier 1/Attack Spell.md",
     "Talents/Tier 2/Barrier Spell.md",
     "Talents/Tier 2/Conjure  Spell.md",
     "Talents/Tier 2/Bard.md",
@@ -254,9 +283,6 @@
     "Talents/Tier 1/Reflect.md",
     "Talents/Tier 2/Berserk.md",
     "Talents/Tier 2/Basic Military Training.md",
-    "Talents/Tier 2/Adventurer.md",
-    "Talents/Tier 1/Blood Sacrifice.md",
-    "Talents/Tier 1/Channel.md",
     "Realms/Untitled",
     "Realms",
     "Rules/Magic",
