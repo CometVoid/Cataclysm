@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Wand.md",
+                "file": "Items/Magical Impliments/Spellblade.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Wand.md",
+                "file": "Items/Magical Impliments/Spellblade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Wand.md",
+                "file": "Items/Magical Impliments/Spellblade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Wand.md"
+                "file": "Items/Magical Impliments/Spellblade.md"
               }
             }
           },
@@ -251,12 +251,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e5df91b2fc72f09",
+  "active": "48907ae4c93f54ef",
   "lastOpenFiles": [
-    "Items/Spellblade.md",
-    "Items/Wand.md",
-    "Items/Spellblade.png",
-    "Items/Wand.png",
+    "Items/Magical Impliments/Spellblade.png",
+    "Items/Magical Impliments/Ring.png",
+    "Items/Magical Impliments/Spellblade.md",
+    "Items/Magical Impliments/Wand.md",
+    "Items/Magical Impliments",
+    "Items/Magical Impliments/Wand.png",
     "Rules/core rulebook.pdf",
     "Talents/Tier 1/Attack Spell.md",
     "Talents/Tier 5/Tier 5.md",
@@ -290,7 +292,6 @@
     "Rules/form-fillable setting sheet.pdf",
     "Rules/Cataclysm setting Sheet.png",
     "Locations",
-    "Factions",
     "Talents/Trees (depricated)/Warlock.canvas",
     "Talents/Trees (depricated)/Skirmisher.canvas",
     "Talents/Trees (depricated)/Warlock.png",
