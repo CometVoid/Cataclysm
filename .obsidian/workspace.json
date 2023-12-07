@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Weapons/Spellblade.md",
+                "file": "Items/Magical Impliments/Ring.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,9 +67,11 @@
             "id": "2accc5ef8578de26",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Rules/core rulebook.pdf"
+                "file": "Items/Magical Impliments/Orb.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -171,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Weapons/Spellblade.md",
+                "file": "Items/Magical Impliments/Ring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Weapons/Spellblade.md",
+                "file": "Items/Magical Impliments/Ring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Weapons/Spellblade.md"
+                "file": "Items/Magical Impliments/Ring.md"
               }
             }
           },
@@ -253,12 +255,13 @@
   },
   "active": "48907ae4c93f54ef",
   "lastOpenFiles": [
-    "Items/Weapons/Spellblade.png",
-    "Items/Weapons/Spellblade.md",
-    "Items/Weapons",
-    "Items/Magical Impliments/Wand.md",
-    "Items/Magical Impliments/Ring.md",
+    "Items/Magical Impliments/Orb.md",
     "Rules/core rulebook.pdf",
+    "Items/Magical Impliments/Ring.md",
+    "Items/Magical Impliments/Wand.md",
+    "Items/Weapons/Spellblade.md",
+    "Items/Weapons/Spellblade.png",
+    "Items/Weapons",
     "Items/Magical Impliments/Ring.png",
     "Items/Magical Impliments",
     "Items/Magical Impliments/Wand.png",
@@ -284,7 +287,6 @@
     "Talents/Tier 2/Multiple Opponents.md",
     "Talents/Tier 2/Point Blank.md",
     "Talents/Tier 1/Bullrush.md",
-    "Talents/Tier 3/Frenzies Attack.md",
     "Talents/Talents-Expanded.pdf",
     "Realms/Untitled",
     "Realms",
