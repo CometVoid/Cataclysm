@@ -67,7 +67,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Items/Rules/core rulebook.pdf"
+                "file": "Rules/core rulebook.pdf"
               }
             }
           },
@@ -255,7 +255,7 @@
     "Items/Spellblade(light).md",
     "Realms/Spellblade.png",
     "Talents/Tier 1/Attack Spell.md",
-    "Items/Rules/core rulebook.pdf",
+    "Rules/core rulebook.pdf",
     "Talents/Tier 5/Tier 5.md",
     "Talents/Tier 1/Tier 1.md",
     "Items",
@@ -283,7 +283,7 @@
     "Talents/Talents-Expanded.pdf",
     "Realms/Untitled",
     "Realms",
-    "Items/Rules/Magic",
+    "Rules/Magic",
     "Adversaries/Minions",
     "Rules/form-fillable setting sheet.pdf",
     "Rules/Cataclysm setting Sheet.png",
