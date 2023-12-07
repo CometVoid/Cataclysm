@@ -14,7 +14,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Realms/Spellblade.png"
+                "file": "Items/Spellblade.png"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Realms/Spellblade.png",
+                "file": "Items/Spellblade.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Realms/Spellblade.png",
+                "file": "Items/Spellblade.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Realms/Spellblade.png"
+                "file": "Items/Spellblade.png"
               }
             }
           },
@@ -253,7 +253,7 @@
   "active": "3e5df91b2fc72f09",
   "lastOpenFiles": [
     "Items/Spellblade(light).md",
-    "Realms/Spellblade.png",
+    "Items/Spellblade.png",
     "Talents/Tier 1/Attack Spell.md",
     "Rules/core rulebook.pdf",
     "Talents/Tier 5/Tier 5.md",
