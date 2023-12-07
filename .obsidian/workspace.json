@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Spellblade(light).md",
+                "file": "Items/Spellblade.md",
                 "mode": "source",
                 "source": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Spellblade(light).md",
+                "file": "Items/Spellblade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Spellblade(light).md",
+                "file": "Items/Spellblade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Spellblade(light).md"
+                "file": "Items/Spellblade.md"
               }
             }
           },
@@ -252,10 +252,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7df4a03a4afb1621",
+  "active": "48907ae4c93f54ef",
   "lastOpenFiles": [
     "Items/Spellblade.png",
-    "Items/Spellblade(light).md",
+    "Items/Spellblade.md",
     "Talents/Tier 1/Attack Spell.md",
     "Rules/core rulebook.pdf",
     "Talents/Tier 5/Tier 5.md",
