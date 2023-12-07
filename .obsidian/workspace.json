@@ -12,11 +12,9 @@
             "id": "48907ae4c93f54ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Items/Spellblade(light).md",
-                "mode": "source",
-                "source": false
+                "file": "Realms/Spellblade.png"
               }
             }
           },
@@ -69,7 +67,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Rules/core rulebook.pdf"
+                "file": "Items/Rules/core rulebook.pdf"
               }
             }
           },
@@ -172,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Spellblade(light).md",
+                "file": "Realms/Spellblade.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Spellblade(light).md",
+                "file": "Realms/Spellblade.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Spellblade(light).md"
+                "file": "Realms/Spellblade.png"
               }
             }
           },
@@ -252,12 +250,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48907ae4c93f54ef",
+  "active": "3e5df91b2fc72f09",
   "lastOpenFiles": [
-    "Items/Spellblade.png",
     "Items/Spellblade(light).md",
+    "Realms/Spellblade.png",
     "Talents/Tier 1/Attack Spell.md",
-    "Rules/core rulebook.pdf",
+    "Items/Rules/core rulebook.pdf",
     "Talents/Tier 5/Tier 5.md",
     "Talents/Tier 1/Tier 1.md",
     "Items",
@@ -285,7 +283,7 @@
     "Talents/Talents-Expanded.pdf",
     "Realms/Untitled",
     "Realms",
-    "Rules/Magic",
+    "Items/Rules/Magic",
     "Adversaries/Minions",
     "Rules/form-fillable setting sheet.pdf",
     "Rules/Cataclysm setting Sheet.png",
