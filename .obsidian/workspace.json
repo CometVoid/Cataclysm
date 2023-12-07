@@ -90,11 +90,10 @@
             "id": "a1660e4f8a378579",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Talents/Tier 3/Inspiring Rhetoric (Improved).md",
-                "mode": "source",
-                "source": false
+                "file": "Talents/Tier 4/Overbalance.md",
+                "staged": false
               }
             }
           }
@@ -128,7 +127,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:Multiple",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +152,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,7 +173,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Talents/Tier 3/Inspiring Rhetoric (Improved).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +189,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Talents/Tier 3/Inspiring Rhetoric (Improved).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,9 +210,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Talents/Tier 3/Inspiring Rhetoric (Improved).md"
-              }
+              "state": {}
             }
           },
           {
@@ -255,34 +251,34 @@
   },
   "active": "a1660e4f8a378579",
   "lastOpenFiles": [
-    "Talents/Tier 3/Hold It Steady.md",
-    "Talents/Tier 3/Hindering Shot.md",
-    "Talents/Tier 3/Hex Warrior.md",
-    "Talents/Tier 3/Heal Spell.md",
+    "Talents/Tier 2/Multiple Opponents.md",
+    "Talents/Tier 2/Point Blank.md",
+    "Talents/Tier 1/Bullrush.md",
+    "Talents/Tier 3/Body Guard.md",
+    "Talents/Tier 3/Blind Spot.md",
+    "Talents/Tier 3/Frenzies Attack.md",
+    "Talents/Tier 1/Finesse.md",
+    "Talents/Tier 3/Feral Strength.md",
+    "Talents/Tier 3/Disarm.md",
+    "Talents/Tier 1/Call 'Em.md",
+    "Talents/Tier 1/Brace.md",
+    "Talents/Tier 1/Bought Info.md",
+    "Talents/Tier 1/Black Market Contacts.md",
+    "Talents/Tier 1/Blood Sacrifice.md",
     "Talents/Tier 1/Attack Spell.md",
-    "Talents/Trees (depricated)/Trees (depricated).md",
-    "Talents/Talents-Expanded.pdf",
-    "Talents/Tier 5/Baleful Gaze.md",
-    "Talents/Talents.md",
-    "Rules/Rules.md",
-    "Realms/Realms.md",
-    "Factions/Bouvardia.md",
-    "Factions/Factions.md",
-    "Adversaries/Adversaries.md",
-    "Talents/Tier 4/Tier 4.md",
-    "Talents/Tier 1/Tier 1.md",
-    "Rules/core rulebook.pdf",
-    "Talents/Tier 2/Barrier Spell.md",
-    "Talents/Tier 2/Conjure  Spell.md",
-    "Talents/Tier 2/Bard.md",
-    "Talents/Tier 2/Dirty Tricks.md",
-    "Talents/Tier 2/Confidence.md",
-    "Talents/Tier 3/Augment Spell.md",
+    "Talents/Tier 1/Apothecary.md",
+    "Talents/Tier 3/Congenial.md",
+    "Talents/Tier 3/Combat Veteran.md",
+    "Talents/Tier 3/Battle Casting.md",
     "Talents/Tier 3/Backstab.md",
-    "Talents/Tier 3/Curse Spell.md",
-    "Talents/Tier 1/Reflect.md",
-    "Talents/Tier 2/Berserk.md",
-    "Talents/Tier 2/Basic Military Training.md",
+    "Talents/Tier 3/Applied Research.md",
+    "Talents/Tier 3/Ambush.md",
+    "Talents/Tier 3/Pressure Point.md",
+    "Talents/Tier 3/Powerful Blast.md",
+    "Talents/Tier 3/Pin.md",
+    "Talents/Tier 3/Overwhelm Defences.md",
+    "Talents/Talents-Expanded.pdf",
+    "Rules/core rulebook.pdf",
     "Realms/Untitled",
     "Realms",
     "Rules/Magic",
