@@ -1,5 +1,6 @@
 Cost: 600(R)
 Rarity: 5
+Encumbrance: (1)
 
 A spellblade is a special type of wand that is designed like a sword that produces a blade of magic. 
 
