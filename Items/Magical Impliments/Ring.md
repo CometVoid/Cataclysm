@@ -5,3 +5,4 @@ A magic ring is a powerful and very rare magical impliment that usually allow a 
 
 Additionally, Casting an [[Attack Spell]] through a magic ring increases the damage it does by 2
 
+![A ring of Fireballs](https://github.com/CometVoid/Cataclysm/blob/main/Items/Magical%20Impliments/Ring.png)

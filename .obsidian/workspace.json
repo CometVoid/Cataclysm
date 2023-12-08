@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Magical Impliments/Ring.md",
+                "file": "Talents/Tier 2/Signature Spell.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,35 +67,9 @@
             "id": "2accc5ef8578de26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Items/Magical Impliments/Orb.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2b13dd468136b88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Talents/Tier 1/Attack Spell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1660e4f8a378579",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Talents/Tier 2/Coordinated Assault.md",
-                "mode": "source",
-                "source": false
+                "file": "Rules/core rulebook.pdf"
               }
             }
           }
@@ -128,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "signature spell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +127,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Magical Impliments/Ring.md",
+                "file": "Rules/core rulebook.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Magical Impliments/Ring.md",
+                "file": "Rules/core rulebook.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Magical Impliments/Ring.md"
+                "file": "Rules/core rulebook.pdf"
               }
             }
           },
@@ -253,19 +228,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48907ae4c93f54ef",
+  "active": "2accc5ef8578de26",
   "lastOpenFiles": [
-    "Items/Magical Impliments/Orb.md",
-    "Rules/core rulebook.pdf",
-    "Items/Magical Impliments/Ring.md",
-    "Items/Magical Impliments/Wand.md",
+    "Talents/Tier 2/Signature Spell.md",
     "Items/Weapons/Spellblade.md",
+    "Items/Potions/Healing Potion.png",
+    "Items/Magical Impliments/Wand.md",
+    "Items/Magical Impliments/Ring.md",
+    "Items/Magical Impliments/Orb.md",
+    "Items/Magical Impliments/Ring.png",
+    "Rules/core rulebook.pdf",
+    "Talents/Tier 1/Attack Spell.md",
+    "Talents/Tier 2/Coordinated Assault.md",
+    "Items/Magical Impliments/Orb.png",
     "Items/Weapons/Spellblade.png",
     "Items/Weapons",
-    "Items/Magical Impliments/Ring.png",
     "Items/Magical Impliments",
     "Items/Magical Impliments/Wand.png",
-    "Talents/Tier 1/Attack Spell.md",
     "Talents/Tier 5/Tier 5.md",
     "Talents/Tier 1/Tier 1.md",
     "Items",
@@ -273,7 +252,6 @@
     "Talents/Tier 5/Baleful Gaze.md",
     "Talents/Trees (depricated)/Trees (depricated).md",
     "Talents/Tier 1/Surgeon.md",
-    "Talents/Tier 2/Coordinated Assault.md",
     "Talents/Tier 2/Containment.md",
     "Talents/Tier 1/Construction Specialist.md",
     "Talents/Tier 3/Combat Veteran.md",
