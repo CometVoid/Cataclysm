@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Talents/Tier 2/Signature Spell.md",
+                "file": "Items/Weapons/Spellblade.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "signature spell",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,8 +127,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,25 +229,28 @@
   },
   "active": "2accc5ef8578de26",
   "lastOpenFiles": [
-    "Talents/Tier 2/Signature Spell.md",
+    "Talents/Tier 2/Conjure  Spell.md",
     "Items/Weapons/Spellblade.md",
+    "Items/Weapons/Spellblade.png",
+    "Talents/Tier 2/Signature Spell.md",
+    "Talents/Tier 3/Augment Spell.md",
+    "Talents/Tier 3/Tier 3.md",
+    "Talents/Tier 2/Tier 2.md",
+    "Items/Magical Impliments/Orb.md",
+    "Talents/Tier 1/Attack Spell.md",
+    "Rules/core rulebook.pdf",
     "Items/Potions/Healing Potion.png",
     "Items/Magical Impliments/Wand.md",
     "Items/Magical Impliments/Ring.md",
-    "Items/Magical Impliments/Orb.md",
     "Items/Magical Impliments/Ring.png",
-    "Rules/core rulebook.pdf",
-    "Talents/Tier 1/Attack Spell.md",
     "Talents/Tier 2/Coordinated Assault.md",
     "Items/Magical Impliments/Orb.png",
-    "Items/Weapons/Spellblade.png",
     "Items/Weapons",
     "Items/Magical Impliments",
     "Items/Magical Impliments/Wand.png",
     "Talents/Tier 5/Tier 5.md",
     "Talents/Tier 1/Tier 1.md",
     "Items",
-    "Talents/Tier 3/Tier 3.md",
     "Talents/Tier 5/Baleful Gaze.md",
     "Talents/Trees (depricated)/Trees (depricated).md",
     "Talents/Tier 1/Surgeon.md",
@@ -261,10 +263,6 @@
     "Talents/Tier 4/By the Book.md",
     "Talents/Tier 3/Body Guard.md",
     "Talents/Tier 3/Blind Spot.md",
-    "Talents/Tier 3/Backstab.md",
-    "Talents/Tier 2/Multiple Opponents.md",
-    "Talents/Tier 2/Point Blank.md",
-    "Talents/Tier 1/Bullrush.md",
     "Talents/Talents-Expanded.pdf",
     "Realms/Untitled",
     "Realms",
