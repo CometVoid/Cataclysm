@@ -67,9 +67,11 @@
             "id": "c5720399baa24ece",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Rules/core rulebook.pdf"
+                "file": "Talents/Tier 2/Freerunner.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -85,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "free",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +141,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -242,6 +244,10 @@
   },
   "active": "48907ae4c93f54ef",
   "lastOpenFiles": [
+    "Items/Weapons/Greatmace.md",
+    "Talents/Tier 2/Freerunner.md",
+    "Rules/core rulebook.pdf",
+    "Items/Weapons/Mace.md",
     "Items/Simple Weapon Profiles.md",
     "Items/Weapons/Crossbow.md",
     "Items/Weapons/Pistol.md",
@@ -254,8 +260,6 @@
     "Items/Weapons/Knife.md",
     "Items/Weapons/Sword.md",
     "Items/Weapons/Shield.md",
-    "Items/Weapons/Greatmace.md",
-    "Items/Weapons/Mace.md",
     "Items/Weapons/Spear.md",
     "Items/Weapons/Halberd.md",
     "Items/Weapons/Greatsword.md",
@@ -268,10 +272,8 @@
     "Items/Magical Impliments/Magical Impliments.md",
     "Items/Gear/Gear.md",
     "Items/Attachments & Hardpoints/Weapon Attachments/Weapon Attachments.md",
-    "Items/Attachments & Hardpoints/Armor Attacments/Armor Attacments.md",
     "Items/Attachments & Hardpoints/Armor Attacments",
     "Items/Attachments & Hardpoints/Weapon Attachments",
-    "Rules/core rulebook.pdf",
     "Items/Attachments & Hardpoints",
     "Items/Magical Impliments/Spellblade.png",
     "Rules/Crafting",
