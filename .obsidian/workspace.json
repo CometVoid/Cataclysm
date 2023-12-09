@@ -6,7 +6,6 @@
       {
         "id": "302ef67ca134cf9b",
         "type": "tabs",
-        "dimension": 46.82675814751286,
         "children": [
           {
             "id": "48907ae4c93f54ef",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Weapons/Spellblade.md",
+                "file": "Items/Simple Weapon Profiles.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,12 +58,11 @@
         ]
       },
       {
-        "id": "a29a127e07c89b21",
+        "id": "eea4d959ea417743",
         "type": "tabs",
-        "dimension": 53.17324185248714,
         "children": [
           {
-            "id": "2accc5ef8578de26",
+            "id": "c5720399baa24ece",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -102,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "critical injury",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +125,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/core rulebook.pdf",
+                "file": "Items/Simple Weapon Profiles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/core rulebook.pdf",
+                "file": "Items/Simple Weapon Profiles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/core rulebook.pdf"
+                "file": "Items/Simple Weapon Profiles.md"
               }
             }
           },
@@ -227,20 +226,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2accc5ef8578de26",
+  "active": "48907ae4c93f54ef",
   "lastOpenFiles": [
+    "Rules/core rulebook.pdf",
+    "Items/Simple Weapon Profiles.md",
+    "Talents/Tier 1/Precision.md",
+    "Talents/Tier 4/Deadeye.md",
+    "Items/Gear/Rope.md",
+    "Items/Gear/Backpack.md",
+    "Items/Gear/Healing Potion.md",
+    "Items/Gear/Healing Potion.png",
+    "Items/Magical Impliments/Wand.md",
+    "Items/Axe",
+    "Items/Items.md",
+    "Items/Magical Impliments/Spellblade(conjure).md",
+    "Items/Weapons/Untitled.md",
+    "Items/Magical Impliments/Spellblade(attack spell).md",
+    "Items/Magical Impliments/Orb.md",
     "Talents/Tier 2/Conjure  Spell.md",
-    "Items/Weapons/Spellblade.md",
-    "Items/Weapons/Spellblade.png",
+    "Items/Magical Impliments/Spellblade.png",
     "Talents/Tier 2/Signature Spell.md",
     "Talents/Tier 3/Augment Spell.md",
     "Talents/Tier 3/Tier 3.md",
     "Talents/Tier 2/Tier 2.md",
-    "Items/Magical Impliments/Orb.md",
     "Talents/Tier 1/Attack Spell.md",
-    "Rules/core rulebook.pdf",
-    "Items/Potions/Healing Potion.png",
-    "Items/Magical Impliments/Wand.md",
     "Items/Magical Impliments/Ring.md",
     "Items/Magical Impliments/Ring.png",
     "Talents/Tier 2/Coordinated Assault.md",
@@ -254,21 +263,11 @@
     "Talents/Tier 5/Baleful Gaze.md",
     "Talents/Trees (depricated)/Trees (depricated).md",
     "Talents/Tier 1/Surgeon.md",
-    "Talents/Tier 2/Containment.md",
-    "Talents/Tier 1/Construction Specialist.md",
-    "Talents/Tier 3/Combat Veteran.md",
-    "Talents/Tier 2/Combat Medicine.md",
-    "Talents/Tier 1/Challenge.md",
-    "Talents/Tier 1/Call 'Em.md",
-    "Talents/Tier 4/By the Book.md",
-    "Talents/Tier 3/Body Guard.md",
-    "Talents/Tier 3/Blind Spot.md",
     "Talents/Talents-Expanded.pdf",
     "Realms/Untitled",
     "Realms",
     "Rules/Magic",
     "Adversaries/Minions",
-    "Rules/form-fillable setting sheet.pdf",
     "Rules/Cataclysm setting Sheet.png",
     "Talents/Trees (depricated)/Warlock.canvas",
     "Talents/Trees (depricated)/Skirmisher.canvas",
