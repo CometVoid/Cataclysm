@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Simple Weapon Profiles.md",
+                "file": "Items/Magical Impliments/Spellblade(conjure).md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "critical injury",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,8 +125,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Simple Weapon Profiles.md",
+                "file": "Items/Magical Impliments/Spellblade(conjure).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Simple Weapon Profiles.md",
+                "file": "Items/Magical Impliments/Spellblade(conjure).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Simple Weapon Profiles.md"
+                "file": "Items/Magical Impliments/Spellblade(conjure).md"
               }
             }
           },
@@ -228,46 +227,47 @@
   },
   "active": "48907ae4c93f54ef",
   "lastOpenFiles": [
-    "Rules/core rulebook.pdf",
-    "Items/Simple Weapon Profiles.md",
-    "Talents/Tier 1/Precision.md",
-    "Talents/Tier 4/Deadeye.md",
-    "Items/Gear/Rope.md",
-    "Items/Gear/Backpack.md",
-    "Items/Gear/Healing Potion.md",
-    "Items/Gear/Healing Potion.png",
-    "Items/Magical Impliments/Wand.md",
-    "Items/Axe",
-    "Items/Items.md",
-    "Items/Magical Impliments/Spellblade(conjure).md",
-    "Items/Weapons/Untitled.md",
+    "Items/Magical Impliments/Magical Circlet.md",
     "Items/Magical Impliments/Spellblade(attack spell).md",
-    "Items/Magical Impliments/Orb.md",
-    "Talents/Tier 2/Conjure  Spell.md",
+    "Items/Magical Impliments/Spellblade(conjure).md",
     "Items/Magical Impliments/Spellblade.png",
-    "Talents/Tier 2/Signature Spell.md",
-    "Talents/Tier 3/Augment Spell.md",
-    "Talents/Tier 3/Tier 3.md",
-    "Talents/Tier 2/Tier 2.md",
-    "Talents/Tier 1/Attack Spell.md",
-    "Items/Magical Impliments/Ring.md",
+    "Items/Magical Impliments/Orb.md",
+    "Rules/core rulebook.pdf",
+    "Items/Magical Impliments/Staff.md",
+    "Items/Magical Impliments/Wand.md",
+    "Items/Gear/Equipment Kit.md",
+    "Rules/Crafting/Crafting Overview.md",
+    "Items/Simple Weapon Profiles.md",
+    "Rules/Crafting/Weapons.md",
+    "Rules/Crafting/Crafting.md",
+    "Items/Armor/Why so little armor?.md",
+    "Items/Armor/Chainmail.md",
+    "Items/Armor/Concealing Robes.md",
+    "Items/Armor/Sturdy Clothes.md",
+    "Items/Gear/Skygear.md",
+    "Items/Gear/Untitled.md",
+    "Items/Gear/Alchemy Kit.md",
+    "Items/Gear/Toolbox.md",
+    "Items/Gear/Flashpowder.md",
+    "Items/Gear/Backpack.md",
+    "Items/Gear/Lantern.md",
+    "Items/Gear/Rope.md",
+    "Rules/Rules.md",
+    "Rules/Crafting",
+    "Realms/Realms.md",
+    "Rules/Untitled.md",
+    "Items/Armor",
+    "Items/Armor",
+    "Items/Gear/Healing Potion.png",
+    "Items/Axe",
     "Items/Magical Impliments/Ring.png",
-    "Talents/Tier 2/Coordinated Assault.md",
     "Items/Magical Impliments/Orb.png",
     "Items/Weapons",
     "Items/Magical Impliments",
     "Items/Magical Impliments/Wand.png",
-    "Talents/Tier 5/Tier 5.md",
-    "Talents/Tier 1/Tier 1.md",
     "Items",
-    "Talents/Tier 5/Baleful Gaze.md",
-    "Talents/Trees (depricated)/Trees (depricated).md",
-    "Talents/Tier 1/Surgeon.md",
     "Talents/Talents-Expanded.pdf",
     "Realms/Untitled",
-    "Realms",
-    "Rules/Magic",
-    "Adversaries/Minions",
     "Rules/Cataclysm setting Sheet.png",
     "Talents/Trees (depricated)/Warlock.canvas",
     "Talents/Trees (depricated)/Skirmisher.canvas",

@@ -6,5 +6,5 @@ A spellblade is a special type of [[Wand]] that is specialized in close combat, 
 
 This wand increases the damage of your magic attacks by +3, and allows you to add the [[Attack Spell|Close Combat]] Additional effect without increasing the difficulty of the spell.
 
-Attack spells made at engaged range using the spell blade turn into melee weapons with the same qualities as the spell, and use the same characteristic and spell that the 
+In addition, If you target a creature at engaged range with an attack spell, casting the spell does not require strain.
 ![Spellblade](https://github.com/CometVoid/Cataclysm/blob/main/Items/Weapons/Spellblade.png)

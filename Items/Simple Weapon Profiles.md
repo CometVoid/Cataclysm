@@ -17,7 +17,7 @@ Because making a full markdown note for every weapon is overkill when they can b
 | Bow                   | Ranged       | +2   | 3    | Medium  | 2     | 100   | 2      | Limited ammo 1,                        |
 | Crossbow              | Ranged       | -  | -    | Long  | 4     | 200   | 3      | Limited ammo 1,            |
 | Grenade               | Ranged       | 8   | 3    | Short   | 1     | 50    | 6      | Blast 5, Burn 1, Limited Ammo 1                    |
-| Clockwork Cannon      | Ranged       | 11  | 3    | Long    | 7     | 1,100 | 6      | Auto-fire, Cumbersome 4, prepare 1                 |
+| Clockwork Autocannon      | Ranged       | 11  | 3    | Long    | 7     | 1,100 | 6      | Auto-fire, Cumbersome 4, prepare 1                 |
 | Hand cannon           | Ranged       | 8   | 2    | Short   | 2     | 600   | 4      | Limited ammo 1                                     |
 | Pistol                | Ranged       | 6   | 3    | Medium  | 1     | 400   | 4      |                                                    |
 | Rifle                 | Ranged       | 7   | 3    | Long    | 2     | 500   | 5      | Accurate 1                                         |
