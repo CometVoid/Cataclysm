@@ -62,6 +62,41 @@
         "a": 1,
         "rgb": 7921746
       }
+    },
+    {
+      "query": "path:\"Items/Magical Impliments\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "path:\"Items/Weapons\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Items/Armor  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Items/Gear  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Items/Attachments & Hardpoints\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
@@ -71,7 +106,7 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.0885416666666667,
-  "repelStrength": 5.72916666666667,
+  "repelStrength": 4.7279843444227,
   "linkStrength": 0.859375,
   "linkDistance": 263,
   "scale": 0.30859644031353006,

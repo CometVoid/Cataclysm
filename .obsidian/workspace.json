@@ -6,6 +6,7 @@
       {
         "id": "302ef67ca134cf9b",
         "type": "tabs",
+        "dimension": 64.43682104059462,
         "children": [
           {
             "id": "48907ae4c93f54ef",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Magical Impliments/Spellblade(conjure).md",
+                "file": "Items/Weapons/Mace.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,6 +61,7 @@
       {
         "id": "eea4d959ea417743",
         "type": "tabs",
+        "dimension": 35.56317895940537,
         "children": [
           {
             "id": "c5720399baa24ece",
@@ -70,8 +72,21 @@
                 "file": "Rules/core rulebook.pdf"
               }
             }
+          },
+          {
+            "id": "e3b3044eeb0e4ca1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Weapons/Crossbow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Magical Impliments/Spellblade(conjure).md",
+                "file": "Items/Weapons/Mace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Magical Impliments/Spellblade(conjure).md",
+                "file": "Items/Weapons/Mace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Magical Impliments/Spellblade(conjure).md"
+                "file": "Items/Weapons/Mace.md"
               }
             }
           },
@@ -227,35 +242,39 @@
   },
   "active": "48907ae4c93f54ef",
   "lastOpenFiles": [
-    "Items/Magical Impliments/Magical Circlet.md",
-    "Items/Magical Impliments/Spellblade(attack spell).md",
-    "Items/Magical Impliments/Spellblade(conjure).md",
-    "Items/Magical Impliments/Spellblade.png",
-    "Items/Magical Impliments/Orb.md",
-    "Rules/core rulebook.pdf",
-    "Items/Magical Impliments/Staff.md",
-    "Items/Magical Impliments/Wand.md",
-    "Items/Gear/Equipment Kit.md",
-    "Rules/Crafting/Crafting Overview.md",
     "Items/Simple Weapon Profiles.md",
-    "Rules/Crafting/Weapons.md",
-    "Rules/Crafting/Crafting.md",
-    "Items/Armor/Why so little armor?.md",
-    "Items/Armor/Chainmail.md",
-    "Items/Armor/Concealing Robes.md",
-    "Items/Armor/Sturdy Clothes.md",
-    "Items/Gear/Skygear.md",
-    "Items/Gear/Untitled.md",
-    "Items/Gear/Alchemy Kit.md",
-    "Items/Gear/Toolbox.md",
-    "Items/Gear/Flashpowder.md",
-    "Items/Gear/Backpack.md",
-    "Items/Gear/Lantern.md",
-    "Items/Gear/Rope.md",
-    "Rules/Rules.md",
+    "Items/Weapons/Crossbow.md",
+    "Items/Weapons/Pistol.md",
+    "Items/Weapons/Rifle.md",
+    "Items/Weapons/Clockwork Minigun.md",
+    "Items/Weapons/Hand Cannon.md",
+    "Items/Weapons/Grenade.md",
+    "Items/Weapons/Bow.md",
+    "Items/Weapons/Weapons.md",
+    "Items/Weapons/Knife.md",
+    "Items/Weapons/Sword.md",
+    "Items/Weapons/Shield.md",
+    "Items/Weapons/Greatmace.md",
+    "Items/Weapons/Mace.md",
+    "Items/Weapons/Spear.md",
+    "Items/Weapons/Halberd.md",
+    "Items/Weapons/Greatsword.md",
+    "Items/Weapons/Greataxe.md",
+    "Items/Weapons/Axe.md",
+    "Items/Items.md",
+    "Items/Weapons",
+    "Items/Armor/Armor.md",
+    "Items/Attachments & Hardpoints/Attachments & Hardpoints.md",
+    "Items/Magical Impliments/Magical Impliments.md",
+    "Items/Gear/Gear.md",
+    "Items/Attachments & Hardpoints/Weapon Attachments/Weapon Attachments.md",
+    "Items/Attachments & Hardpoints/Armor Attacments/Armor Attacments.md",
+    "Items/Attachments & Hardpoints/Armor Attacments",
+    "Items/Attachments & Hardpoints/Weapon Attachments",
+    "Rules/core rulebook.pdf",
+    "Items/Attachments & Hardpoints",
+    "Items/Magical Impliments/Spellblade.png",
     "Rules/Crafting",
-    "Realms/Realms.md",
-    "Rules/Untitled.md",
     "Items/Armor",
     "Items/Armor",
     "Items/Gear/Healing Potion.png",
@@ -263,11 +282,7 @@
     "Items/Magical Impliments/Ring.png",
     "Items/Magical Impliments/Orb.png",
     "Items/Weapons",
-    "Items/Magical Impliments",
     "Items/Magical Impliments/Wand.png",
-    "Items",
-    "Talents/Talents-Expanded.pdf",
-    "Realms/Untitled",
     "Rules/Cataclysm setting Sheet.png",
     "Talents/Trees (depricated)/Warlock.canvas",
     "Talents/Trees (depricated)/Skirmisher.canvas",

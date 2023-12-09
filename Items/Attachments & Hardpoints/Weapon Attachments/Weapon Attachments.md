@@ -1,7 +1,7 @@
-# Crafting Overview
+# Weapon Attachments Overview
 
 %% Begin Waypoint %%
-- [[Crafting Overview]]
+
 
 %% End Waypoint %%
 
