@@ -5,7 +5,7 @@ The core rulebook is used as a base, and any homebrew rules override that.
 
 
 %% Begin Waypoint %%
-- [[Crafting Overview]]
+- [[Crafting]]
 - [[Embeds]]
 
 %% End Waypoint %%

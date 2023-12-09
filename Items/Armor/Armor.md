@@ -4,7 +4,6 @@
 - [[Chainmail]]
 - [[Concealing Robes]]
 - [[Sturdy Clothes]]
-- [[Why so little armor?]]
 
 %% End Waypoint %%
 

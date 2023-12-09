@@ -6,7 +6,7 @@
       {
         "id": "302ef67ca134cf9b",
         "type": "tabs",
-        "dimension": 64.43682104059462,
+        "dimension": 54.83133218982276,
         "children": [
           {
             "id": "48907ae4c93f54ef",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Weapons/Mace.md",
+                "file": "Items/Armor/Sturdy Clothes.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
       {
         "id": "eea4d959ea417743",
         "type": "tabs",
-        "dimension": 35.56317895940537,
+        "dimension": 45.16866781017724,
         "children": [
           {
             "id": "c5720399baa24ece",
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Talents/Tier 2/Freerunner.md",
+                "file": "Rules/Crafting.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "free",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,8 +141,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Weapons/Mace.md",
+                "file": "Rules/Crafting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Weapons/Mace.md",
+                "file": "Rules/Crafting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Weapons/Mace.md"
+                "file": "Rules/Crafting.md"
               }
             }
           },
@@ -242,21 +241,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48907ae4c93f54ef",
+  "active": "c5720399baa24ece",
   "lastOpenFiles": [
-    "Items/Weapons/Greatmace.md",
+    "Items/Weapons/Rifle.md",
+    "Rules/Crafting.md",
+    "Items/Armor/Sturdy Clothes.md",
+    "Items/Weapons/Hand Cannon.md",
+    "Items/Weapons/Weapons.md",
     "Talents/Tier 2/Freerunner.md",
-    "Rules/core rulebook.pdf",
+    "Items/Armor/Why so little armor?.md",
+    "Items/Armor/Concealing Robes.md",
     "Items/Weapons/Mace.md",
+    "Items/Weapons/Greatmace.md",
+    "Rules/core rulebook.pdf",
     "Items/Simple Weapon Profiles.md",
     "Items/Weapons/Crossbow.md",
     "Items/Weapons/Pistol.md",
-    "Items/Weapons/Rifle.md",
     "Items/Weapons/Clockwork Minigun.md",
-    "Items/Weapons/Hand Cannon.md",
     "Items/Weapons/Grenade.md",
     "Items/Weapons/Bow.md",
-    "Items/Weapons/Weapons.md",
     "Items/Weapons/Knife.md",
     "Items/Weapons/Sword.md",
     "Items/Weapons/Shield.md",
@@ -268,10 +271,6 @@
     "Items/Items.md",
     "Items/Weapons",
     "Items/Armor/Armor.md",
-    "Items/Attachments & Hardpoints/Attachments & Hardpoints.md",
-    "Items/Magical Impliments/Magical Impliments.md",
-    "Items/Gear/Gear.md",
-    "Items/Attachments & Hardpoints/Weapon Attachments/Weapon Attachments.md",
     "Items/Attachments & Hardpoints/Armor Attacments",
     "Items/Attachments & Hardpoints/Weapon Attachments",
     "Items/Attachments & Hardpoints",
