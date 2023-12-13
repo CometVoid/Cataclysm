@@ -12,11 +12,9 @@
             "id": "48907ae4c93f54ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Items/Armor/Sturdy Clothes.md",
-                "mode": "source",
-                "source": false
+                "file": "Rules/core rulebook.pdf"
               }
             }
           },
@@ -69,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Crafting.md",
+                "file": "Items/Weapons/Weapons.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/Crafting.md",
+                "file": "Rules/core rulebook.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/Crafting.md",
+                "file": "Rules/core rulebook.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/Crafting.md"
+                "file": "Rules/core rulebook.pdf"
               }
             }
           },
@@ -241,13 +239,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c5720399baa24ece",
+  "active": "48907ae4c93f54ef",
   "lastOpenFiles": [
-    "Items/Weapons/Rifle.md",
-    "Rules/Crafting.md",
     "Items/Armor/Sturdy Clothes.md",
-    "Items/Weapons/Hand Cannon.md",
     "Items/Weapons/Weapons.md",
+    "Rules/Crafting.md",
+    "Items/Weapons/Rifle.md",
+    "Items/Weapons/Hand Cannon.md",
     "Talents/Tier 2/Freerunner.md",
     "Items/Armor/Why so little armor?.md",
     "Items/Armor/Concealing Robes.md",

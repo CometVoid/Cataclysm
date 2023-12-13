@@ -18,7 +18,6 @@
 - [[Shield]]
 - [[Spear]]
 - [[Sword]]
-
 %% End Waypoint %%
 
  
