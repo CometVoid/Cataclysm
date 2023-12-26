@@ -28,29 +28,18 @@
             }
           },
           {
-            "id": "c995745112096a4b",
+            "id": "c2cdb9a877585603",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Talents/Tier 2/Heal Spell.md",
+                "file": "cataclysm.wiki/Home.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c2cdb9a877585603",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Talents/Tier 2/Heal Spell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Talents/Tier 2/Heal Spell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Talents/Tier 2/Heal Spell.md"
-              }
+              "state": {}
             }
           },
           {
@@ -206,59 +191,63 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c2cdb9a877585603",
+  "active": "3e5df91b2fc72f09",
   "lastOpenFiles": [
-    "Talents/Tier 2/Curse Spell.md",
-    "Talents/Tier 3/Tier 3.md",
-    "Talents/Talents.md",
-    "Adversaries/Nemesis/Kirivon Ravanica.md",
-    "Adversaries/Nemesis/Nemesis.md",
-    "Items/Weapons/Weapons.md",
-    "Adversaries/Minions/Slime.md",
-    "Adversaries/Minions/Minions.md",
-    "Adversaries/Rivals/Rivals.md",
-    "Rules/core rulebook.pdf",
-    "Items/Armor/Sturdy Clothes.md",
-    "Rules/Crafting.md",
-    "Items/Weapons/Rifle.md",
-    "Items/Weapons/Hand Cannon.md",
-    "Talents/Tier 2/Freerunner.md",
-    "Items/Armor/Why so little armor?.md",
-    "Items/Armor/Concealing Robes.md",
-    "Items/Weapons/Mace.md",
-    "Items/Weapons/Greatmace.md",
-    "Items/Simple Weapon Profiles.md",
-    "Items/Weapons/Crossbow.md",
-    "Items/Weapons/Pistol.md",
-    "Items/Weapons/Clockwork Minigun.md",
-    "Items/Weapons/Grenade.md",
-    "Items/Weapons/Bow.md",
-    "Items/Weapons/Knife.md",
-    "Items/Weapons/Sword.md",
-    "Items/Weapons",
-    "Items/Attachments & Hardpoints/Armor Attacments",
-    "Items/Attachments & Hardpoints/Weapon Attachments",
-    "Items/Attachments & Hardpoints",
+    "cataclysm.wiki/Home.md",
+    "cataclysm.wiki/Talents/Tier 3/Well-Rounded.md",
+    "cataclysm.wiki/Talents/Tier 3/Valuable Facts.md",
+    "cataclysm.wiki/Talents/Tier 3/Up the Ante.md",
+    "cataclysm.wiki/Talents/Tier 3/Unremarkable (Improved).md",
+    "cataclysm.wiki/Talents/Tier 3/Twisted Words.md",
+    "cataclysm.wiki/Talents/Tier 3/Tuned Handling.md",
+    "cataclysm.wiki/Talents/Tier 3/Trust the Captain.md",
+    "cataclysm.wiki/Talents/Tier 3/Tricky Target.md",
+    "cataclysm.wiki/Talents/Tier 3/Toughened (Improved).md",
+    "cataclysm.wiki/Talents/Tier 3/Time to Go (Improved).md",
+    "cataclysm.wiki/Talents/Tier 3/Tier 3.md",
+    "cataclysm.wiki/Talents/Tier 3/Takedown.md",
+    "cataclysm.wiki/Talents/Tier 3/Suppressing Fire.md",
+    "cataclysm.wiki/Talents/Tier 3/Sunder Expertise.md",
+    "cataclysm.wiki/Talents/Tier 3/Stunning Blow (Improved).md",
+    "cataclysm.wiki/Talents/Tier 3/Studious Plotting.md",
+    "cataclysm.wiki/Talents/Tier 3/Spur.md",
+    "cataclysm.wiki/Talents/Tier 3/Snaring Wards.md",
+    "cataclysm.wiki/Talents/Tier 3/Smart Handling.md",
+    "cataclysm.wiki/Talents/Tier 3/Skilled Teacher.md",
+    "cataclysm.wiki/Talents/Tier 3/Shortcut (Improved).md",
+    "cataclysm.wiki/Talents/Tier 3/Shockwave.md",
+    "cataclysm.wiki/Talents/Tier 3/Sense Advantage.md",
+    "cataclysm.wiki/Talents/Tier 3/Seize the Initiative.md",
+    "cataclysm.wiki/Talents/Tier 3/Scything Strike.md",
+    "cataclysm.wiki/Talents/Trees (depricated)/Warlock.png",
+    "cataclysm.wiki/Talents/Trees (depricated)/Warlock.canvas",
+    "cataclysm.wiki/Talents/Trees (depricated)/Warlock old.canvas",
+    "cataclysm.wiki/Talents/Trees (depricated)/Skirmisher.png",
+    "cataclysm.wiki/Talents/Trees (depricated)/Skirmisher.canvas",
+    "cataclysm.wiki/Talents/Trees (depricated)/Juggernaught.png",
+    "cataclysm.wiki/Talents/Trees (depricated)/Juggernaught.canvas",
+    "cataclysm.wiki/Talents/Trees (depricated)/Blademaster.canvas",
+    "cataclysm.wiki/Talents/Trees (depricated)",
+    "cataclysm.wiki/Talents/Tier 5",
+    "cataclysm.wiki/Talents/Tier 4",
+    "cataclysm.wiki/Talents/Tier 3",
+    "cataclysm.wiki/Talents/Tier 2",
+    "cataclysm.wiki/Talents/Tier 1",
+    "cataclysm.wiki/Talents/Talents-Expanded.pdf",
+    "cataclysm.wiki/Talents/Removed",
+    "cataclysm.wiki/Talents",
+    "cataclysm.wiki/Rules/core rulebook.pdf",
+    "cataclysm.wiki/Items/Magical Impliments/Wand.png",
+    "cataclysm.wiki/Items/Magical Impliments/Spellblade.png",
+    "cataclysm.wiki/Items/Magical Impliments/Ring.png",
+    "cataclysm.wiki/Items/Magical Impliments/Orb.png",
+    "cataclysm.wiki/Items/Gear/Healing Potion.png",
     "Items/Magical Impliments/Spellblade.png",
-    "Rules/Crafting",
-    "Items/Armor",
-    "Items/Armor",
     "Items/Gear/Healing Potion.png",
-    "Items/Axe",
-    "Items/Magical Impliments/Ring.png",
-    "Items/Magical Impliments/Orb.png",
-    "Items/Weapons",
-    "Items/Magical Impliments/Wand.png",
-    "Rules/Cataclysm setting Sheet.png",
     "Talents/Trees (depricated)/Warlock.canvas",
     "Talents/Trees (depricated)/Skirmisher.canvas",
-    "Talents/Trees (depricated)/Warlock.png",
     "Talents/Trees (depricated)/Warlock old.canvas",
-    "Talents/Trees (depricated)/Skirmisher.png",
-    "Pasted image 20230713202859.png",
     "Talents/Trees (depricated)/Blademaster.canvas",
-    "Talents/Trees (depricated)/Juggernaught.png",
-    "Talents/Trees (depricated)/Juggernaught.canvas",
-    "Player-Accessible content/Talents/Trees/Test.canvas"
+    "Talents/Trees (depricated)/Juggernaught.canvas"
   ]
 }

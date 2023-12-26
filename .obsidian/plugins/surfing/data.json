@@ -44,17 +44,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "c995745112096a4b",
-      "parent": 0,
-      "droppable": true,
-      "text": "RPG Sessions - Online RPG Tools | RPG Sessions",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
