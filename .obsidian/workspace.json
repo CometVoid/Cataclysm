@@ -4,88 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "302ef67ca134cf9b",
+        "id": "443c1ac51abf8d84",
         "type": "tabs",
-        "dimension": 54.83133218982276,
         "children": [
           {
-            "id": "48907ae4c93f54ef",
+            "id": "c9a11820a6c83efe",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Rules/core rulebook.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "6a48467d7bd7b3bf",
+            "id": "17526efb87fca9ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Talents/Tier 1/Surgeon.md",
+                "file": "Adversaries/Nemesis/Kirivon Ravanica.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "97b0a818a4486122",
+            "id": "c995745112096a4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Talents/Trees (depricated)/Trees (depricated).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e13d7624fe4db172",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Talents/Tier 5/Baleful Gaze.md",
+                "file": "Talents/Tier 2/Heal Spell.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "eea4d959ea417743",
-        "type": "tabs",
-        "dimension": 45.16866781017724,
-        "children": [
-          {
-            "id": "c5720399baa24ece",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Weapons/Weapons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3b3044eeb0e4ca1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Weapons/Crossbow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +87,7 @@
             }
           },
           {
-            "id": "eb6e7ca0d487d7a9",
+            "id": "cd801abe8031c6b9",
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
@@ -159,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/core rulebook.pdf",
+                "file": "Talents/Tier 2/Heal Spell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/core rulebook.pdf",
+                "file": "Talents/Tier 2/Heal Spell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/core rulebook.pdf"
+                "file": "Talents/Tier 2/Heal Spell.md"
               }
             }
           },
@@ -239,10 +194,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48907ae4c93f54ef",
+  "active": "3e5df91b2fc72f09",
   "lastOpenFiles": [
-    "Items/Armor/Sturdy Clothes.md",
+    "Talents/Tier 2/Curse Spell.md",
+    "Talents/Tier 3/Tier 3.md",
+    "Talents/Talents.md",
+    "Adversaries/Nemesis/Kirivon Ravanica.md",
+    "Adversaries/Nemesis/Nemesis.md",
     "Items/Weapons/Weapons.md",
+    "Adversaries/Minions/Slime.md",
+    "Adversaries/Minions/Minions.md",
+    "Adversaries/Rivals/Rivals.md",
+    "Rules/core rulebook.pdf",
+    "Items/Armor/Sturdy Clothes.md",
     "Rules/Crafting.md",
     "Items/Weapons/Rifle.md",
     "Items/Weapons/Hand Cannon.md",
@@ -251,7 +215,6 @@
     "Items/Armor/Concealing Robes.md",
     "Items/Weapons/Mace.md",
     "Items/Weapons/Greatmace.md",
-    "Rules/core rulebook.pdf",
     "Items/Simple Weapon Profiles.md",
     "Items/Weapons/Crossbow.md",
     "Items/Weapons/Pistol.md",
@@ -260,15 +223,7 @@
     "Items/Weapons/Bow.md",
     "Items/Weapons/Knife.md",
     "Items/Weapons/Sword.md",
-    "Items/Weapons/Shield.md",
-    "Items/Weapons/Spear.md",
-    "Items/Weapons/Halberd.md",
-    "Items/Weapons/Greatsword.md",
-    "Items/Weapons/Greataxe.md",
-    "Items/Weapons/Axe.md",
-    "Items/Items.md",
     "Items/Weapons",
-    "Items/Armor/Armor.md",
     "Items/Attachments & Hardpoints/Armor Attacments",
     "Items/Attachments & Hardpoints/Weapon Attachments",
     "Items/Attachments & Hardpoints",

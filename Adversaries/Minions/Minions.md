@@ -1,7 +1,7 @@
 # Minions Overview
 
 %% Begin Waypoint %%
-
+- [[Slime]]
 
 %% End Waypoint %%
 

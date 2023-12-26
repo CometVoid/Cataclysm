@@ -6,6 +6,7 @@
       "url": "https://duckduckgo.com/?q="
     }
   ],
+  "hoverPopover": true,
   "ignoreList": [
     "notion",
     "craft"
@@ -21,7 +22,7 @@
   "showRefreshButton": false,
   "openInObsidianWeb": false,
   "useCustomIcons": false,
-  "useWebview": false,
+  "useWebview": true,
   "useIconList": true,
   "darkMode": false,
   "bookmarkManager": {
@@ -43,5 +44,17 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "c995745112096a4b",
+      "parent": 0,
+      "droppable": true,
+      "text": "RPG Sessions - Online RPG Tools | RPG Sessions",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }
