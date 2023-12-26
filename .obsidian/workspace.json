@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9a11820a6c83efe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cataclysm.wiki/README 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "17526efb87fca9ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adversaries/Nemesis/Kirivon Ravanica.md",
+                "file": "cataclysm.wiki/home.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cataclysm.wiki/README 1.md",
+                "file": "cataclysm.wiki/home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cataclysm.wiki/README 1.md",
+                "file": "cataclysm.wiki/home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cataclysm.wiki/README 1.md"
+                "file": "cataclysm.wiki/home.md"
               }
             }
           },
@@ -187,11 +175,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e5df91b2fc72f09",
+  "active": "17526efb87fca9ec",
   "lastOpenFiles": [
-    "README.md",
-    "cataclysm.wiki/README 1.md",
     "cataclysm.wiki/Home.md",
+    "README.md",
     "cataclysm.wiki/Talents.md",
     "cataclysm.wiki/Talents/Tier 3/Well-Rounded.md",
     "cataclysm.wiki/Talents/Tier 3/Valuable Facts.md",
