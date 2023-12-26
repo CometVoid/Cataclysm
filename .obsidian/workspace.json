@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cataclysm.wiki/_Sidebar.md",
+                "file": "cataclysm.wiki/home.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cataclysm.wiki/_Sidebar.md",
+                "file": "cataclysm.wiki/home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cataclysm.wiki/_Sidebar.md",
+                "file": "cataclysm.wiki/home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cataclysm.wiki/_Sidebar.md"
+                "file": "cataclysm.wiki/home.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   },
   "active": "17526efb87fca9ec",
   "lastOpenFiles": [
-    "cataclysm.wiki/home.md",
     "cataclysm.wiki/_Sidebar.md",
+    "cataclysm.wiki/home.md",
     "cataclysm.wiki/Talents/Talents.md",
     "cataclysm.wiki/Items/Items.md",
     "cataclysm.wiki/Tier1.md",
