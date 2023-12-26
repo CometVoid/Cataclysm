@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cataclysm.wiki/home.md",
+                "file": "cataclysm.wiki/_Sidebar.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cataclysm.wiki/home.md",
+                "file": "cataclysm.wiki/_Sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cataclysm.wiki/home.md",
+                "file": "cataclysm.wiki/_Sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cataclysm.wiki/home.md"
+                "file": "cataclysm.wiki/_Sidebar.md"
               }
             }
           },
@@ -177,10 +177,11 @@
   },
   "active": "17526efb87fca9ec",
   "lastOpenFiles": [
-    "cataclysm.wiki/Items/Items.md",
     "cataclysm.wiki/home.md",
-    "cataclysm.wiki/Tier1.md",
     "cataclysm.wiki/_Sidebar.md",
+    "cataclysm.wiki/Talents/Talents.md",
+    "cataclysm.wiki/Items/Items.md",
+    "cataclysm.wiki/Tier1.md",
     "cataclysm.wiki/Items/Magical Impliments/Wand.md",
     "cataclysm.wiki/Items/Magical Impliments/Orb.png",
     "cataclysm.wiki/Items/Magical Impliments/Ring.png",
@@ -206,7 +207,6 @@
     "cataclysm.wiki/Talents/Tier 2/Sense Emotion.md",
     "cataclysm.wiki/Talents/Tier 3/Nobody's Fool.md",
     "cataclysm.wiki/Talents/Tier 2/Loom.md",
-    "cataclysm.wiki/Talents/Tier 4/Incite Distraction.md",
     "cataclysm.wiki/Talents/Trees (depricated)/Warlock.png",
     "cataclysm.wiki/Talents/Trees (depricated)/Warlock.canvas",
     "cataclysm.wiki/Talents/Trees (depricated)/Warlock old.canvas",
