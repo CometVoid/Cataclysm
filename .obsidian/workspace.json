@@ -11,8 +11,12 @@
             "id": "c9a11820a6c83efe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -113,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -191,9 +199,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e5df91b2fc72f09",
+  "active": "c9a11820a6c83efe",
   "lastOpenFiles": [
     "cataclysm.wiki/Home.md",
+    "README.md",
+    "cataclysm.wiki/Talents.md",
     "cataclysm.wiki/Talents/Tier 3/Well-Rounded.md",
     "cataclysm.wiki/Talents/Tier 3/Valuable Facts.md",
     "cataclysm.wiki/Talents/Tier 3/Up the Ante.md",
@@ -217,8 +227,6 @@
     "cataclysm.wiki/Talents/Tier 3/Shortcut (Improved).md",
     "cataclysm.wiki/Talents/Tier 3/Shockwave.md",
     "cataclysm.wiki/Talents/Tier 3/Sense Advantage.md",
-    "cataclysm.wiki/Talents/Tier 3/Seize the Initiative.md",
-    "cataclysm.wiki/Talents/Tier 3/Scything Strike.md",
     "cataclysm.wiki/Talents/Trees (depricated)/Warlock.png",
     "cataclysm.wiki/Talents/Trees (depricated)/Warlock.canvas",
     "cataclysm.wiki/Talents/Trees (depricated)/Warlock old.canvas",

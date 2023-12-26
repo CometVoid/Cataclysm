@@ -1,1 +1,3 @@
 [[Talents]]
+[[Rules]]
+[[Items]]
