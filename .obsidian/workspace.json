@@ -21,8 +21,12 @@
             "id": "425cab22372a9b84",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "cataclysm.wiki/Talents/Tier 3/True Aim.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -55,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "upgrade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +84,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cataclysm.wiki/Talents/Tier 3/True Aim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "cataclysm.wiki/Talents/Tier 3/True Aim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,6 +158,16 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "22a701aaafe7eed0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cataclysm.wiki/Talents/Tier 3/True Aim.md"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -172,37 +189,37 @@
   },
   "active": "425cab22372a9b84",
   "lastOpenFiles": [
-    "cataclysm.wiki/Talents/Tier 4/Familiar (Improved).md",
-    "cataclysm.wiki/Talents/README.md",
+    "cataclysm.wiki/Talents/Tier 1/Signature Vehicle.md",
+    "cataclysm.wiki/Talents/Tier 2/Side Step.md",
+    "cataclysm.wiki/Talents/Tier 4/Offensive Driving.md",
+    "cataclysm.wiki/Talents/Tier 3/Nobody's Fool.md",
+    "cataclysm.wiki/Talents/Tier 3/Intimidating.md",
+    "cataclysm.wiki/Talents/Tier 3/Intense Focus.md",
+    "cataclysm.wiki/Talents/Tier 2/Good Cop.md",
+    "cataclysm.wiki/Talents/Tier 3/Frenzied Attack.md",
+    "cataclysm.wiki/Talents/Tier 1/Feint.md",
+    "cataclysm.wiki/Talents/Tier 2/Fancy Paint Job.md",
+    "cataclysm.wiki/Talents/Tier 3/Encoded Communique.md",
+    "cataclysm.wiki/Talents/Tier 3/Dodge.md",
+    "cataclysm.wiki/Talents/Tier 2/Dirty Tricks.md",
+    "cataclysm.wiki/Talents/Tier 4/Discredit.md",
+    "cataclysm.wiki/Talents/Tier 2/Defensive Stance.md",
+    "cataclysm.wiki/Talents/Tier 3/Congenial.md",
+    "cataclysm.wiki/Talents/Tier 3/Channel.md",
+    "cataclysm.wiki/Talents/Tier 3/Overchannel (Improved).md",
+    "cataclysm.wiki/Talents/Tier 1/Overchannel.md",
+    "cataclysm.wiki/Talents/Tier 3/Formation Tactics.md",
+    "cataclysm.wiki/Talents/Tier 3/Body Guard.md",
+    "cataclysm.wiki/Talents/Tier 2/Bad Cop.md",
+    "cataclysm.wiki/Talents/Tier 5/Baleful Gaze.md",
+    "cataclysm.wiki/Talents/Tier 3/True Aim.md",
+    "cataclysm.wiki/Talents/Tier 1/Tier 1.md",
     "cataclysm.wiki/Rules/core rulebook.pdf",
-    "cataclysm.wiki/Talents/Removed/Menace.md",
-    "cataclysm.wiki/Talents/Removed/Harass (old).md",
-    "cataclysm.wiki/Talents/Removed/Familiar (Supreme) (old).md",
-    "cataclysm.wiki/Talents/Removed/Familiar (old).md",
-    "cataclysm.wiki/Talents/Removed/Animal Companion (old).md",
-    "cataclysm.wiki/Rules/Crafting.md",
-    "cataclysm.wiki/home.md",
-    "cataclysm.wiki/_Sidebar.md",
-    "cataclysm.wiki/Talents/Talents.md",
-    "cataclysm.wiki/Items/Items.md",
-    "cataclysm.wiki/Tier1.md",
-    "cataclysm.wiki/Items/Magical Impliments/Wand.md",
+    "cataclysm.wiki/Talents/Tier 5/Thorough Assessment.md",
     "cataclysm.wiki/Items/Magical Impliments/Orb.png",
     "cataclysm.wiki/Items/Magical Impliments/Ring.png",
     "cataclysm.wiki/Items/Magical Impliments/Spellblade.png",
     "cataclysm.wiki/Items/Magical Impliments/Wand.png",
-    "cataclysm.wiki/Items/Magical Impliments/Staff.md",
-    "cataclysm.wiki/Items/Magical Impliments/Orb.md",
-    "cataclysm.wiki/Items/Magical Impliments/Magical Circlet.md",
-    "cataclysm.wiki/Items/Magical Impliments/Magical Impliments.md",
-    "cataclysm.wiki/Items/Gear/Flashpowder.md",
-    "cataclysm.wiki/Items/Gear/Backpack.md",
-    "cataclysm.wiki/Items/Gear/Equipment Kit.md",
-    "cataclysm.wiki/Items/Armor/Chainmail.md",
-    "cataclysm.wiki/Items/Armor/Sturdy Clothes.md",
-    "cataclysm.wiki/Items/Armor/Concealing Robes.md",
-    "cataclysm.wiki/Items/Armor/Armor.md",
-    "cataclysm.wiki/Talents/Tier 2/Bad Cop.md",
     "cataclysm.wiki/Talents/Trees (depricated)/Warlock.png",
     "cataclysm.wiki/Talents/Trees (depricated)/Warlock.canvas",
     "cataclysm.wiki/Talents/Trees (depricated)/Warlock old.canvas",
