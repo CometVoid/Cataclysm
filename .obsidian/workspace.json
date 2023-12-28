@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Species/Chan'on.md",
+                "file": "cataclysm.wiki/Items/Armor/Concealing Cloak.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species/Chan'on.md",
+                "file": "cataclysm.wiki/Items/Armor/Concealing Cloak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Species/Chan'on.md",
+                "file": "cataclysm.wiki/Items/Armor/Concealing Cloak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Species/Chan'on.md"
+                "file": "cataclysm.wiki/Items/Armor/Concealing Cloak.md"
               }
             }
           }
@@ -188,8 +188,14 @@
   },
   "active": "425cab22372a9b84",
   "lastOpenFiles": [
-    "cataclysm.wiki/Talents/Tier 1/Unremarkable.md",
+    "cataclysm.wiki/Items/Magical Impliments/Wand.md",
+    "cataclysm.wiki/Items/Magical Impliments/Spellblade(attack spell).md",
+    "cataclysm.wiki/Items/Magical Impliments/Spellblade.png",
+    "cataclysm.wiki/Items/Armor/Concealing Cloak.md",
+    "cataclysm.wiki/Items/Armor/Sturdy Clothes.md",
+    "cataclysm.wiki/Items/Items.md",
     "Species/Chan'on.md",
+    "cataclysm.wiki/Talents/Tier 1/Unremarkable.md",
     "cataclysm.wiki/Species/Hy'in.md",
     "Adversaries/Minions/Slime.md",
     "Adversaries/Minions/Minions.md",
@@ -212,15 +218,9 @@
     "cataclysm.wiki/Talents/Tier 3/Frenzied Attack.md",
     "cataclysm.wiki/Talents/Tier 1/Feint.md",
     "cataclysm.wiki/Talents/Tier 2/Fancy Paint Job.md",
-    "cataclysm.wiki/Talents/Tier 3/Encoded Communique.md",
-    "cataclysm.wiki/Talents/Tier 3/Dodge.md",
-    "cataclysm.wiki/Talents/Tier 2/Dirty Tricks.md",
-    "cataclysm.wiki/Talents/Tier 4/Discredit.md",
-    "cataclysm.wiki/Talents/Tier 2/Defensive Stance.md",
     "cataclysm.wiki/Rules/core rulebook.pdf",
     "cataclysm.wiki/Items/Magical Impliments/Orb.png",
     "cataclysm.wiki/Items/Magical Impliments/Ring.png",
-    "cataclysm.wiki/Items/Magical Impliments/Spellblade.png",
     "cataclysm.wiki/Items/Magical Impliments/Wand.png",
     "cataclysm.wiki/Talents/Trees (depricated)/Warlock.png",
     "cataclysm.wiki/Talents/Trees (depricated)/Warlock.canvas",
