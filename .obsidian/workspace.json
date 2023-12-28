@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cataclysm.wiki/Talents/Tier 3/True Aim.md",
+                "file": "Species/Chan'on.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "upgrade",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cataclysm.wiki/Talents/Tier 3/True Aim.md",
+                "file": "Species/Chan'on.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cataclysm.wiki/Talents/Tier 3/True Aim.md",
+                "file": "Species/Chan'on.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cataclysm.wiki/Talents/Tier 3/True Aim.md"
+                "file": "Species/Chan'on.md"
               }
             }
           }
@@ -189,6 +188,20 @@
   },
   "active": "425cab22372a9b84",
   "lastOpenFiles": [
+    "cataclysm.wiki/Talents/Tier 1/Unremarkable.md",
+    "Species/Chan'on.md",
+    "cataclysm.wiki/Species/Hy'in.md",
+    "Adversaries/Minions/Slime.md",
+    "Adversaries/Minions/Minions.md",
+    "cataclysm.wiki/_Sidebar.md",
+    "cataclysm.wiki/home.md",
+    "Factions/Factions.md",
+    "cataclysm.wiki/Species/Faun'in.md",
+    "cataclysm.wiki/Talents/Talents.md",
+    "cataclysm.wiki/Talents/Tier 3/True Aim.md",
+    "Species",
+    "Species",
+    "cataclysm.wiki/Species",
     "cataclysm.wiki/Talents/Tier 1/Signature Vehicle.md",
     "cataclysm.wiki/Talents/Tier 2/Side Step.md",
     "cataclysm.wiki/Talents/Tier 4/Offensive Driving.md",
@@ -204,18 +217,7 @@
     "cataclysm.wiki/Talents/Tier 2/Dirty Tricks.md",
     "cataclysm.wiki/Talents/Tier 4/Discredit.md",
     "cataclysm.wiki/Talents/Tier 2/Defensive Stance.md",
-    "cataclysm.wiki/Talents/Tier 3/Congenial.md",
-    "cataclysm.wiki/Talents/Tier 3/Channel.md",
-    "cataclysm.wiki/Talents/Tier 3/Overchannel (Improved).md",
-    "cataclysm.wiki/Talents/Tier 1/Overchannel.md",
-    "cataclysm.wiki/Talents/Tier 3/Formation Tactics.md",
-    "cataclysm.wiki/Talents/Tier 3/Body Guard.md",
-    "cataclysm.wiki/Talents/Tier 2/Bad Cop.md",
-    "cataclysm.wiki/Talents/Tier 5/Baleful Gaze.md",
-    "cataclysm.wiki/Talents/Tier 3/True Aim.md",
-    "cataclysm.wiki/Talents/Tier 1/Tier 1.md",
     "cataclysm.wiki/Rules/core rulebook.pdf",
-    "cataclysm.wiki/Talents/Tier 5/Thorough Assessment.md",
     "cataclysm.wiki/Items/Magical Impliments/Orb.png",
     "cataclysm.wiki/Items/Magical Impliments/Ring.png",
     "cataclysm.wiki/Items/Magical Impliments/Spellblade.png",
@@ -234,9 +236,6 @@
     "cataclysm.wiki/Talents/Tier 3",
     "cataclysm.wiki/Talents/Tier 2",
     "cataclysm.wiki/Talents/Tier 1",
-    "cataclysm.wiki/Talents/Talents-Expanded.pdf",
-    "cataclysm.wiki/Talents/Removed",
-    "cataclysm.wiki/Talents",
     "cataclysm.wiki/Items/Gear/Healing Potion.png",
     "Items/Magical Impliments/Spellblade.png",
     "Items/Gear/Healing Potion.png",
