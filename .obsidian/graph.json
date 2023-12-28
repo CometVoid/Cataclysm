@@ -95,7 +95,7 @@
       "query": "path:\"Items/Attachments & Hardpoints\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 5404128
       }
     }
   ],
@@ -105,10 +105,10 @@
   "nodeSizeMultiplier": 0.993229166666667,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.0885416666666667,
-  "repelStrength": 4.7279843444227,
-  "linkStrength": 0.859375,
-  "linkDistance": 263,
-  "scale": 0.30859644031353006,
-  "close": true
+  "centerStrength": 0.1640625,
+  "repelStrength": 5.36458333333333,
+  "linkStrength": 0.6796875,
+  "linkDistance": 291,
+  "scale": 0.3085964403135291,
+  "close": false
 }

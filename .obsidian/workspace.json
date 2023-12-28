@@ -11,15 +11,22 @@
             "id": "17526efb87fca9ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "cataclysm.wiki/home.md",
-                "mode": "source",
-                "source": false
+                "file": "cataclysm.wiki/Rules/core rulebook.pdf"
               }
             }
+          },
+          {
+            "id": "425cab22372a9b84",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cataclysm.wiki/home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cataclysm.wiki/home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,16 +129,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "5c7224d26f0847d3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "cataclysm.wiki/home.md"
               }
             }
           },
@@ -158,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -175,10 +170,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "17526efb87fca9ec",
+  "active": "425cab22372a9b84",
   "lastOpenFiles": [
-    "cataclysm.wiki/_Sidebar.md",
+    "cataclysm.wiki/Talents/Tier 4/Familiar (Improved).md",
+    "cataclysm.wiki/Talents/README.md",
+    "cataclysm.wiki/Rules/core rulebook.pdf",
+    "cataclysm.wiki/Talents/Removed/Menace.md",
+    "cataclysm.wiki/Talents/Removed/Harass (old).md",
+    "cataclysm.wiki/Talents/Removed/Familiar (Supreme) (old).md",
+    "cataclysm.wiki/Talents/Removed/Familiar (old).md",
+    "cataclysm.wiki/Talents/Removed/Animal Companion (old).md",
+    "cataclysm.wiki/Rules/Crafting.md",
     "cataclysm.wiki/home.md",
+    "cataclysm.wiki/_Sidebar.md",
     "cataclysm.wiki/Talents/Talents.md",
     "cataclysm.wiki/Items/Items.md",
     "cataclysm.wiki/Tier1.md",
@@ -199,14 +203,6 @@
     "cataclysm.wiki/Items/Armor/Concealing Robes.md",
     "cataclysm.wiki/Items/Armor/Armor.md",
     "cataclysm.wiki/Talents/Tier 2/Bad Cop.md",
-    "cataclysm.wiki/Talents/Tier 3/Unremarkable (Improved).md",
-    "cataclysm.wiki/Talents/Tier 5/Unrelenting Skeptic (Improved).md",
-    "cataclysm.wiki/Talents/Tier 4/Unrelenting Skeptic.md",
-    "cataclysm.wiki/Talents/Tier 4/Supporting Evidence.md",
-    "cataclysm.wiki/Talents/Tier 1/Smooth Talker.md",
-    "cataclysm.wiki/Talents/Tier 2/Sense Emotion.md",
-    "cataclysm.wiki/Talents/Tier 3/Nobody's Fool.md",
-    "cataclysm.wiki/Talents/Tier 2/Loom.md",
     "cataclysm.wiki/Talents/Trees (depricated)/Warlock.png",
     "cataclysm.wiki/Talents/Trees (depricated)/Warlock.canvas",
     "cataclysm.wiki/Talents/Trees (depricated)/Warlock old.canvas",
@@ -224,7 +220,6 @@
     "cataclysm.wiki/Talents/Talents-Expanded.pdf",
     "cataclysm.wiki/Talents/Removed",
     "cataclysm.wiki/Talents",
-    "cataclysm.wiki/Rules/core rulebook.pdf",
     "cataclysm.wiki/Items/Gear/Healing Potion.png",
     "Items/Magical Impliments/Spellblade.png",
     "Items/Gear/Healing Potion.png",
