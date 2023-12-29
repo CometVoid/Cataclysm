@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cataclysm.wiki/home.md",
+                "file": "cataclysm.wiki/Items/Armor/Royal Steamworks Division Power-armor.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,6 +31,22 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "f10cae2945ef0b4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9db3e623784baf3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "cataclysm.wiki/Rules/core rulebook.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cataclysm.wiki/home.md",
+                "file": "cataclysm.wiki/Items/Armor/Royal Steamworks Division Power-armor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cataclysm.wiki/home.md",
+                "file": "cataclysm.wiki/Items/Armor/Royal Steamworks Division Power-armor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cataclysm.wiki/home.md"
+                "file": "cataclysm.wiki/Items/Armor/Royal Steamworks Division Power-armor.md"
               }
             }
           }
@@ -186,39 +202,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e5df91b2fc72f09",
+  "active": "425cab22372a9b84",
   "lastOpenFiles": [
+    "cataclysm.wiki/Items/Armor/Plate Armor.md",
+    "cataclysm.wiki/Items/Armor/Royal Steamworks Division Power-armor.md",
+    "cataclysm.wiki/Rules/core rulebook.pdf",
+    "cataclysm.wiki/Items/Armor/Insulated Armor.md",
+    "cataclysm.wiki/Items/Armor/Sturdy Clothes.md",
+    "cataclysm.wiki/Items/Armor/Chainmail.md",
+    "cataclysm.wiki/Items/Armor/Concealing Cloak.md",
+    "cataclysm.wiki/Items/Armor/Magic Plate.md",
+    "cataclysm.wiki/Rules/Crafting.md",
+    "cataclysm.wiki/Rules/Rules.md",
+    "cataclysm.wiki/Species/Faun'in.md",
+    "cataclysm.wiki/Species/Hy'in.md",
     "cataclysm.wiki/_Sidebar.md",
+    "cataclysm.wiki/home.md",
+    "Factions/Factions.md",
     "cataclysm.wiki/Items/Items.md",
+    "cataclysm.wiki/Items/Armor/Armor.md",
     "cataclysm.wiki/Items/Weapons/Grenade.md",
     "cataclysm.wiki/Items/Weapons/Weapons.md",
     "cataclysm.wiki/Items/Weapons/Clockwork Minigun.md",
     "cataclysm.wiki/Items/Simple Weapon Profiles.md",
-    "cataclysm.wiki/Items/Armor/Chainmail.md",
-    "cataclysm.wiki/Items/Armor/Armor.md",
-    "cataclysm.wiki/Items/Armor/Concealing Cloak.md",
     "cataclysm.wiki/Items/Magical Impliments/Wand.md",
     "cataclysm.wiki/Items/Magical Impliments/Spellblade(attack spell).md",
     "cataclysm.wiki/Items/Magical Impliments/Spellblade.png",
-    "cataclysm.wiki/Items/Armor/Sturdy Clothes.md",
     "Species/Chan'on.md",
     "cataclysm.wiki/Talents/Tier 1/Unremarkable.md",
-    "cataclysm.wiki/Species/Hy'in.md",
     "Adversaries/Minions/Slime.md",
-    "Adversaries/Minions/Minions.md",
-    "cataclysm.wiki/home.md",
-    "Factions/Factions.md",
-    "cataclysm.wiki/Species/Faun'in.md",
-    "cataclysm.wiki/Talents/Talents.md",
-    "cataclysm.wiki/Talents/Tier 3/True Aim.md",
     "Species",
     "Species",
     "cataclysm.wiki/Species",
-    "cataclysm.wiki/Talents/Tier 1/Signature Vehicle.md",
-    "cataclysm.wiki/Talents/Tier 2/Side Step.md",
-    "cataclysm.wiki/Talents/Tier 4/Offensive Driving.md",
-    "cataclysm.wiki/Talents/Tier 3/Nobody's Fool.md",
-    "cataclysm.wiki/Rules/core rulebook.pdf",
     "cataclysm.wiki/Items/Magical Impliments/Orb.png",
     "cataclysm.wiki/Items/Magical Impliments/Ring.png",
     "cataclysm.wiki/Items/Magical Impliments/Wand.png",
