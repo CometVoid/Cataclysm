@@ -11,10 +11,11 @@
             "id": "425cab22372a9b84",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "cataclysm.wiki",
-                "staged": false
+                "file": "Factions/Factions.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Factions/Factions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Factions/Factions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Factions/Factions.md"
+              }
             }
           }
         ],
@@ -172,6 +177,15 @@
   },
   "active": "425cab22372a9b84",
   "lastOpenFiles": [
+    "Factions/Celestia.md",
+    "Factions/Factions.md",
+    "Cataclysm.wiki/Rules/Rules.md",
+    "Cataclysm.wiki/Rules/Companies.md",
+    "Cataclysm.wiki/Talents/Tier 1/Blood Sacrifice.md",
+    "Species/Chan'on.md",
+    "Realms/Realms.md",
+    "Cataclysm.wiki/Items/Items.md",
+    "Cataclysm.wiki/Talents/Talents.md",
     "cataclysm.wiki/Rules/core rulebook.pdf",
     "cataclysm.wiki/Items/Armor/Royal Steamworks Division Power-armor.md",
     "cataclysm.wiki/Items/Armor/Plate Armor.md",
@@ -187,18 +201,10 @@
     "cataclysm.wiki/Species/Faun'in.md",
     "cataclysm.wiki/Species/Hy'in.md",
     "cataclysm.wiki/home.md",
-    "Factions/Factions.md",
     "cataclysm.wiki/Items/Items.md",
     "cataclysm.wiki/Items/Weapons/Grenade.md",
     "cataclysm.wiki/Items/Weapons/Weapons.md",
-    "cataclysm.wiki/Items/Weapons/Clockwork Minigun.md",
-    "cataclysm.wiki/Items/Simple Weapon Profiles.md",
-    "cataclysm.wiki/Items/Magical Impliments/Wand.md",
-    "cataclysm.wiki/Items/Magical Impliments/Spellblade(attack spell).md",
     "cataclysm.wiki/Items/Magical Impliments/Spellblade.png",
-    "Species/Chan'on.md",
-    "cataclysm.wiki/Talents/Tier 1/Unremarkable.md",
-    "Adversaries/Minions/Slime.md",
     "Species",
     "Species",
     "cataclysm.wiki/Species",
