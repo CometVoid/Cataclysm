@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Factions.md",
+                "file": "Cataclysm.wiki/Rules/Companies.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "argents",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions/Factions.md",
+                "file": "Cataclysm.wiki/Rules/Companies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions/Factions.md",
+                "file": "Cataclysm.wiki/Rules/Companies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Factions/Factions.md"
+                "file": "Cataclysm.wiki/Rules/Companies.md"
               }
             }
           }
@@ -177,13 +177,16 @@
   },
   "active": "425cab22372a9b84",
   "lastOpenFiles": [
+    "Factions/House Argentus.md",
+    "Factions/Ravanica.md",
+    "Factions/Bouvardia.md",
     "Factions/Celestia.md",
-    "Factions/Factions.md",
-    "Cataclysm.wiki/Rules/Rules.md",
     "Cataclysm.wiki/Rules/Companies.md",
+    "Cataclysm.wiki/Rules/Rules.md",
+    "Realms/Realms.md",
+    "Factions/Factions.md",
     "Cataclysm.wiki/Talents/Tier 1/Blood Sacrifice.md",
     "Species/Chan'on.md",
-    "Realms/Realms.md",
     "Cataclysm.wiki/Items/Items.md",
     "Cataclysm.wiki/Talents/Talents.md",
     "cataclysm.wiki/Rules/core rulebook.pdf",
@@ -201,9 +204,6 @@
     "cataclysm.wiki/Species/Faun'in.md",
     "cataclysm.wiki/Species/Hy'in.md",
     "cataclysm.wiki/home.md",
-    "cataclysm.wiki/Items/Items.md",
-    "cataclysm.wiki/Items/Weapons/Grenade.md",
-    "cataclysm.wiki/Items/Weapons/Weapons.md",
     "cataclysm.wiki/Items/Magical Impliments/Spellblade.png",
     "Species",
     "Species",

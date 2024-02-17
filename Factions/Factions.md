@@ -4,6 +4,8 @@
 %% Begin Waypoint %%
 - [[Bouvardia]]
 - [[Celestia]]
+- [[House Argentus]]
+- [[Ravanica]]
 
 %% End Waypoint %%
 
