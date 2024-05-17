@@ -1,6 +1,6 @@
 **CATACLYSM END**
 > [!date]- 0
->  End of the cataclysm, Helios falls, and [[Helios's Ark]] is created, [[Karneth, the corpse god]] awakens
+>  End of the cataclysm, Helios falls, and [[The Ark]] is created, [[Karneth, the corpse god]] awakens
 
 > [!date]- 100
 >  [[Andrell Ravanica]] is born

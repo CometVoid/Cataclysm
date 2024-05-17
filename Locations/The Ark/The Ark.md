@@ -1,7 +1,8 @@
-# Helios's Ark Overview
+# The Ark Overview
 
 %% Begin Waypoint %%
 - [[Castle Ravanica]]
+- [[The Storm Wall]]
 
 %% End Waypoint %%
 

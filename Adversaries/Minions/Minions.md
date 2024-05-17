@@ -2,6 +2,7 @@
 
 %% Begin Waypoint %%
 - [[Slime]]
+- [[Thunder-rays]]
 
 %% End Waypoint %%
 

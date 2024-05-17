@@ -3,7 +3,7 @@
 # Realms Overview
 
 %% Begin Waypoint %%
-- **Helios's Ark**
+- **[[The Ark]]**
 
 %% End Waypoint %%
 
