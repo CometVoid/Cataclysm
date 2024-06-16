@@ -2,2518 +2,2623 @@
   "nodePositions": [
     {
       "id": "Adversaries/Adversaries.md",
-      "x": 2385.089599609375,
-      "y": 429.9068908691406
+      "x": 4680.9873046875,
+      "y": -2839.937744140625
     },
     {
       "id": "Adversaries/Minions/Minions.md",
-      "x": 2492.7998046875,
-      "y": 682.3525390625
+      "x": 4833.20166015625,
+      "y": -2466.822998046875
     },
     {
       "id": "Adversaries/Minions/Slime.md",
-      "x": 2525.0537109375,
-      "y": 386.55987548828125
+      "x": 5010.150390625,
+      "y": -2206.340087890625
+    },
+    {
+      "id": "Adversaries/Minions/Thunder-rays.md",
+      "x": 4892.384765625,
+      "y": -2159.784912109375
     },
     {
       "id": "Adversaries/Nemesis/Kirivon Ravanica.md",
-      "x": 2220.430419921875,
-      "y": 1049.0465087890625
+      "x": 3872.417236328125,
+      "y": -3737.12646484375
     },
     {
       "id": "Adversaries/Nemesis/Nemesis.md",
-      "x": 2357.689453125,
-      "y": 795.0265502929688
+      "x": 4281.8955078125,
+      "y": -3280.07958984375
     },
     {
       "id": "Adversaries/Nemesis/Vernon Alfred Victor Celestia.md",
-      "x": 2300.19775390625,
-      "y": 1138.6932373046875
+      "x": 4580.69873046875,
+      "y": -3321.850830078125
     },
     {
       "id": "Adversaries/Rivals/Baro.md",
-      "x": 2447.82177734375,
-      "y": -206.46971130371094
+      "x": 5267.068359375,
+      "y": -2381.1796875
     },
     {
       "id": "Adversaries/Rivals/Esky.md",
-      "x": 2330.97412109375,
-      "y": -179.16749572753906
+      "x": 5324.55126953125,
+      "y": -2491.2626953125
     },
     {
       "id": "Adversaries/Rivals/Rivals.md",
-      "x": 2442.05126953125,
-      "y": 97.97651672363281
+      "x": 5030.431640625,
+      "y": -2588.205810546875
     },
     {
       "id": "Adversaries/Rivals/Sprocket.md",
-      "x": 2562.6787109375,
-      "y": -171.7313995361328
+      "x": 5172.0634765625,
+      "y": -2307.885498046875
     },
     {
       "id": "Base Sheet.md",
-      "x": -63.180240631103516,
-      "y": 2636.251953125
+      "x": 318.03082275390625,
+      "y": 5988.26904296875
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Armor/Armor.md",
+      "x": 2131.052978515625,
+      "y": 166.18124389648438
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Armor/Chainmail.md",
+      "x": 2441.217041015625,
+      "y": 166.1368408203125
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Armor/Concealing Cloak.md",
+      "x": 2442.1416015625,
+      "y": 286.0865478515625
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Armor/Insulated Armor.md",
+      "x": 2651.825439453125,
+      "y": 360.9835205078125
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Armor/Plate Armor.md",
+      "x": 2545.327880859375,
+      "y": 225.63465881347656
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Armor/Royal Steamworks Division Power-armor.md",
+      "x": 2544.65478515625,
+      "y": 105.87001037597656
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Armor/Sturdy Clothes.md",
+      "x": 2458.10791015625,
+      "y": 23.11443328857422
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Attachments & Hardpoints/Armor Attacments/Armor Attacments.md",
+      "x": 2054.9501953125,
+      "y": -190.65960693359375
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Attachments & Hardpoints/Attachments & Hardpoints.md",
+      "x": 1740.9000244140625,
+      "y": -9.133280754089355
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Attachments & Hardpoints/Attachments rules summary.md",
+      "x": 2094.504150390625,
+      "y": 37.86338424682617
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Attachments & Hardpoints/Weapon Attachments/Weapon Attachments.md",
+      "x": 2104.312255859375,
+      "y": -81.55464172363281
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Gear/Backpack.md",
+      "x": 2848.60107421875,
+      "y": 627.3482666015625
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Gear/Equipment Kit.md",
+      "x": 2866.885986328125,
+      "y": 509.7447204589844
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Gear/Flashpowder.md",
+      "x": 2767.93310546875,
+      "y": 932.5077514648438
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Gear/Gas Mask.md",
+      "x": 2968.0986328125,
+      "y": 632.25146484375
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Gear/Gear.md",
+      "x": 2491.9541015625,
+      "y": 584.544677734375
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Gear/Healing Potion.md",
+      "x": 2716.161865234375,
+      "y": 824.837646484375
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Gear/Lantern.md",
+      "x": 2835.809814453125,
+      "y": 834.0074462890625
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Gear/Rope.md",
+      "x": 2648.337646484375,
+      "y": 922.9392700195312
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Gear/Skygear.md",
+      "x": 2902.55859375,
+      "y": 734.332275390625
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Gear/Toolbox.md",
+      "x": 2783.246337890625,
+      "y": 726.376220703125
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Items.md",
+      "x": 2268.52490234375,
+      "y": -234.39794921875
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Magical Impliments/Magical Circlet.md",
+      "x": 1910.4664306640625,
+      "y": -1086.8082275390625
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Magical Impliments/Magical Impliments.md",
+      "x": 1611.5731201171875,
+      "y": -869.437744140625
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Magical Impliments/Orb.md",
+      "x": 1964.8531494140625,
+      "y": -979.93896484375
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Magical Impliments/Ring.md",
+      "x": 619.1063842773438,
+      "y": -993.246337890625
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Magical Impliments/Spellblade(attack spell).md",
+      "x": 1447.7332763671875,
+      "y": -1429.02783203125
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Magical Impliments/Spellblade(conjure).md",
+      "x": 1909.4339599609375,
+      "y": -1229.181640625
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Magical Impliments/Staff.md",
+      "x": 1400.832275390625,
+      "y": -1318.65185546875
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Magical Impliments/Wand.md",
+      "x": 1657.0335693359375,
+      "y": -1454.9825439453125
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Weapons/Axe.md",
+      "x": 3066.089599609375,
+      "y": -796.0982055664062
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Weapons/Bow.md",
+      "x": 3371.26513671875,
+      "y": -682.1631469726562
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Weapons/Clockwork Minigun.md",
+      "x": 3251.923583984375,
+      "y": -886.924072265625
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Weapons/Crossbow.md",
+      "x": 3250.5009765625,
+      "y": -493.35772705078125
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Weapons/Greataxe.md",
+      "x": 3169.673828125,
+      "y": -581.0703125
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Weapons/Greatmace.md",
+      "x": 2960.6962890625,
+      "y": -1008.0000610351562
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Weapons/Greatsword.md",
+      "x": 3080.396728515625,
+      "y": -1002.2242431640625
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Weapons/Grenade.md",
+      "x": 2882.35791015625,
+      "y": -1097.033447265625
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Weapons/Halberd.md",
+      "x": 3184.207275390625,
+      "y": -787.711669921875
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Weapons/Hand Cannon.md",
+      "x": 3199.3681640625,
+      "y": -994.0872802734375
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Weapons/Knife.md",
+      "x": 3133.356201171875,
+      "y": -894.8893432617188
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Weapons/Mace.md",
+      "x": 3074.756103515625,
+      "y": -509.0516662597656
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Weapons/Pistol.md",
+      "x": 3014.450927734375,
+      "y": -902.6927490234375
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Weapons/Rifle.md",
+      "x": 3236.7080078125,
+      "y": -679.55810546875
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Weapons/Shield.md",
+      "x": 3117.6650390625,
+      "y": -688.709228515625
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Weapons/Spear.md",
+      "x": 3026.09912109375,
+      "y": -1107.8695068359375
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Weapons/Sword.md",
+      "x": 3302.59375,
+      "y": -779.1175537109375
+    },
+    {
+      "id": "Cataclysm.wiki/Items/Weapons/Weapons.md",
+      "x": 2834.18212890625,
+      "y": -704.6635131835938
+    },
+    {
+      "id": "Cataclysm.wiki/Rules/Companies.md",
+      "x": 2476.584228515625,
+      "y": 400.7584533691406
+    },
+    {
+      "id": "Cataclysm.wiki/Rules/Crafting.md",
+      "x": 1503.8079833984375,
+      "y": 222.052734375
+    },
+    {
+      "id": "Cataclysm.wiki/Rules/Embeds.md",
+      "x": 2407.92919921875,
+      "y": 498.96441650390625
+    },
+    {
+      "id": "Cataclysm.wiki/Rules/Rules.md",
+      "x": 2099.07958984375,
+      "y": 307.2899475097656
+    },
+    {
+      "id": "Cataclysm.wiki/Species/Faun'in.md",
+      "x": 1305.2919921875,
+      "y": 275.3267822265625
+    },
+    {
+      "id": "Cataclysm.wiki/Species/Hy'in.md",
+      "x": 1383.3182373046875,
+      "y": 185.24810791015625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Talent Template.md",
+      "x": 210.1866912841797,
+      "y": 22.504377365112305
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Talents.md",
+      "x": 203.00340270996094,
+      "y": 330.3877258300781
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/All-Terrain Driver.md",
+      "x": 79.70101165771484,
+      "y": -1050.188720703125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Apothecary.md",
+      "x": -544.1552124023438,
+      "y": -1195.7506103515625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Attack Spell.md",
+      "x": 884.4099731445312,
+      "y": -1430.862548828125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Black Market Contacts.md",
+      "x": -36.409908294677734,
+      "y": -1327.357421875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Blood Sacrifice.md",
+      "x": -496.3880920410156,
+      "y": -1300.5203857421875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Bought Info.md",
+      "x": 279.4339599609375,
+      "y": -1182.18701171875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Brace.md",
+      "x": -62.27324295043945,
+      "y": -1544.1800537109375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Bullrush.md",
+      "x": 69.12129974365234,
+      "y": -1285.78466796875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Call 'Em.md",
+      "x": 172.2498016357422,
+      "y": -1349.3736572265625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Challenge.md",
+      "x": -408.11004638671875,
+      "y": -1001.1817016601562
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Clever Retort.md",
+      "x": 285.2017822265625,
+      "y": -1064.9561767578125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Commander.md",
+      "x": -565.6007080078125,
+      "y": -1398.9100341796875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Companion.md",
+      "x": -495.68548583984375,
+      "y": -264.64251708984375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Construction Specialist.md",
+      "x": -518.8259887695312,
+      "y": -1506.0208740234375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Creative Design.md",
+      "x": -342.2108459472656,
+      "y": -901.8717041015625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Custom Enchants.md",
+      "x": -450.9764709472656,
+      "y": -1407.0809326171875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Custom Focus.md",
+      "x": 174.8242645263672,
+      "y": -1234.3958740234375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Customer Service Experience.md",
+      "x": -150.7285919189453,
+      "y": -1333.061279296875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Dark Insight.md",
+      "x": -190.10763549804688,
+      "y": -1742.127685546875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Deep Pockets.md",
+      "x": -594.583251953125,
+      "y": -1089.869873046875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Defensive Weaver.md",
+      "x": 164.5560760498047,
+      "y": -1475.301025390625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Desperate Recovery.md",
+      "x": 102.78461456298828,
+      "y": -913.369140625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Duelist.md",
+      "x": 276.1800842285156,
+      "y": -1299.372802734375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Dungeoneer.md",
+      "x": 16.174846649169922,
+      "y": -1629.308349609375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Durable.md",
+      "x": -22.25349235534668,
+      "y": -1436.458740234375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Extra Ammo.md",
+      "x": -226.51486206054688,
+      "y": -1428.8408203125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Feint.md",
+      "x": -476.4963073730469,
+      "y": -1098.8433837890625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Finesse.md",
+      "x": -289.3614501953125,
+      "y": -1525.52294921875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Forager.md",
+      "x": -527.44384765625,
+      "y": -993.114990234375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Grit.md",
+      "x": -193.81239318847656,
+      "y": -1225.913818359375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Hamstring Shot.md",
+      "x": -428.2633056640625,
+      "y": -1204.5360107421875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Hand On The Throttle.md",
+      "x": 70.85581970214844,
+      "y": -1168.6368408203125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Hidden Storage.md",
+      "x": -774.06982421875,
+      "y": -1087.411376953125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Intercept.md",
+      "x": -127.75008392333984,
+      "y": -630.1734619140625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Jump Up.md",
+      "x": -612.1774291992188,
+      "y": -1293.53466796875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Knack For It.md",
+      "x": -241.6860809326172,
+      "y": -1635.3497314453125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Knockout Punch.md",
+      "x": -404.3967590332031,
+      "y": -1514.4537353515625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Knowledge Specialization.md",
+      "x": -358.3587646484375,
+      "y": -1622.656982421875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Let's Ride.md",
+      "x": -460.9440612792969,
+      "y": -894.8287353515625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/One with Nature.md",
+      "x": 178.2058868408203,
+      "y": -1116.663818359375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Overchannel.md",
+      "x": -210.71728515625,
+      "y": -329.6943359375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Painful Blow.md",
+      "x": -358.0874938964844,
+      "y": -1107.2843017578125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Parry.md",
+      "x": -493.70074462890625,
+      "y": -779.87451171875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Precision.md",
+      "x": 187.0469207763672,
+      "y": -997.598388671875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Proper Upbringing.md",
+      "x": -336.947265625,
+      "y": -1419.3067626953125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Quick Draw.md",
+      "x": -641.397705078125,
+      "y": -891.6937255859375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Quick Strike.md",
+      "x": -661.6177978515625,
+      "y": -1186.15966796875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Rapid Reaction.md",
+      "x": -310.0556640625,
+      "y": -1213.2701416015625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Rapid Recovery.md",
+      "x": 266.96435546875,
+      "y": -1418.5548095703125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Redundant Systems.md",
+      "x": 77.80070495605469,
+      "y": -1400.486328125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Reflect.md",
+      "x": 66.35350036621094,
+      "y": 15.89801025390625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Resourceful Mechanic.md",
+      "x": -75.09326934814453,
+      "y": -1219.2650146484375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Second Wind.md",
+      "x": 143.08364868164062,
+      "y": -1592.5821533203125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Shapeshifter.md",
+      "x": -723.005126953125,
+      "y": -979.2987060546875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Shield Slam.md",
+      "x": -122.26000213623047,
+      "y": -1643.559326171875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Signature Vehicle.md",
+      "x": 146.18475341796875,
+      "y": 584.1002197265625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Smooth Talker.md",
+      "x": -177.52574157714844,
+      "y": -1539.8563232421875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Spirit Arts.md",
+      "x": -118.90338134765625,
+      "y": -1440.9385986328125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Surgeon.md",
+      "x": -265.356689453125,
+      "y": -1322.597412109375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Swift.md",
+      "x": -381.6566162109375,
+      "y": -1310.5255126953125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Tier 1.md",
+      "x": -134.79624938964844,
+      "y": -1053.2718505859375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Toughened.md",
+      "x": -325.8128356933594,
+      "y": -295.78021240234375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Tumble.md",
+      "x": 53.76506423950195,
+      "y": -1517.2325439453125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 1/Unremarkable.md",
+      "x": -238.8617401123047,
+      "y": -213.26182556152344
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Adventurer.md",
+      "x": -1752.725830078125,
+      "y": -86.29027557373047
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Alchemical Aptitude.md",
+      "x": -1552.63916015625,
+      "y": -157.3994598388672
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Animal Expertise.md",
+      "x": -1192.103515625,
+      "y": 303.5440673828125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Augment Spell.md",
+      "x": -1125.38916015625,
+      "y": 403.415771484375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Bad Cop.md",
+      "x": -1745.8739013671875,
+      "y": -192.81752014160156
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Barrage.md",
+      "x": -1925.3248291015625,
+      "y": 147.907958984375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Barrier Spell.md",
+      "x": -604.4649047851562,
+      "y": -423.5697326660156
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Basic Military Training.md",
+      "x": -1510.2418212890625,
+      "y": 154.46363830566406
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Berserk.md",
+      "x": -1635.5013427734375,
+      "y": 387.8507385253906
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Big Guns.md",
+      "x": -1664.59326171875,
+      "y": 2.0375795364379883
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Blackmail.md",
+      "x": -2046.6622314453125,
+      "y": -19.829450607299805
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Blooded.md",
+      "x": -1404.9774169921875,
+      "y": 697.6253662109375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Bulwark.md",
+      "x": -1854.787353515625,
+      "y": -35.8410530090332
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Burly.md",
+      "x": -1201.3792724609375,
+      "y": -362.6965026855469
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Combat Medicine.md",
+      "x": -1307.773681640625,
+      "y": 309.18829345703125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Command.md",
+      "x": -1449.667724609375,
+      "y": -186.33323669433594
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Companion (Improved).md",
+      "x": -748.0477905273438,
+      "y": -151.48367309570312
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Confidence.md",
+      "x": -1276.759521484375,
+      "y": 771.8123779296875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Conjure  Spell.md",
+      "x": -1725.604248046875,
+      "y": 102.62049102783203
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Containment.md",
+      "x": -1116.739990234375,
+      "y": -278.954345703125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Coordinated Assault.md",
+      "x": -1469.0826416015625,
+      "y": -72.0605239868164
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Counteroffer.md",
+      "x": -1365.0859375,
+      "y": -101.6031265258789
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Curse Spell.md",
+      "x": -1006.0117797851562,
+      "y": 81.24059295654297
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Cutting Question.md",
+      "x": -1899.3480224609375,
+      "y": 254.46670532226562
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Daring Aviator.md",
+      "x": -1313.22265625,
+      "y": -331.1878356933594
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Debilitating Shot.md",
+      "x": -1821.4212646484375,
+      "y": 480.3431091308594
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Deceptive Taunt.md",
+      "x": -1144.4493408203125,
+      "y": -163.53634643554688
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Defensive Stance.md",
+      "x": -1351.2841796875,
+      "y": 446.66082763671875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Defensive Weaver (Improved).md",
+      "x": -1530.324951171875,
+      "y": 356.9013366699219
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Determined Driver.md",
+      "x": -1137.31640625,
+      "y": 73.77210998535156
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Dirty Tricks.md",
+      "x": -1463.255126953125,
+      "y": 254.58580017089844
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Disorient.md",
+      "x": -1750.8946533203125,
+      "y": 389.6885681152344
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Distracting Behavior.md",
+      "x": -621.7868041992188,
+      "y": 352.088623046875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Dual wielder.md",
+      "x": -1825.5172119140625,
+      "y": -373.3368225097656
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Encouraging Song.md",
+      "x": -1256.5853271484375,
+      "y": -133.17669677734375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Exploit.md",
+      "x": -2034.9327392578125,
+      "y": 107.81001281738281
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Fan the Hammer.md",
+      "x": -1075.320068359375,
+      "y": 295.5160827636719
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Fancy Paint Job.md",
+      "x": -1979.208984375,
+      "y": 339.3053283691406
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Fearsome.md",
+      "x": -1758.0308837890625,
+      "y": 581.5545043945312
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Fine Tuning.md",
+      "x": -2047.748046875,
+      "y": -141.77735900878906
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Flash of Insight.md",
+      "x": -1412.3997802734375,
+      "y": 356.00701904296875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Freerunner.md",
+      "x": -709.0474243164062,
+      "y": 539.9462890625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Go Without.md",
+      "x": -1933.6236572265625,
+      "y": -321.256103515625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Good Cop.md",
+      "x": -1611.677001953125,
+      "y": 105.69344329833984
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Grapple.md",
+      "x": -1938.145751953125,
+      "y": 453.51116943359375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Hard Headed.md",
+      "x": -1242.3795166015625,
+      "y": 409.97796630859375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Haughty Demeanor.md",
+      "x": -1944.6143798828125,
+      "y": -203.27597045898438
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Headbutt.md",
+      "x": -1512.37744140625,
+      "y": 573.1943359375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Heal Spell.md",
+      "x": -1790.4578857421875,
+      "y": 284.66156005859375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Heightened Awareness.md",
+      "x": -1400.161865234375,
+      "y": -414.24139404296875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Heroic Recovery.md",
+      "x": -1511.774658203125,
+      "y": 42.15157699584961
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Hexslinger.md",
+      "x": -1713.657470703125,
+      "y": -421.8114318847656
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Hidden Storage (Improved).md",
+      "x": -1322.84765625,
+      "y": -588.8916015625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Hold Together.md",
+      "x": -1076.592041015625,
+      "y": 176.4175262451172
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Hunter.md",
+      "x": -1846.0755615234375,
+      "y": -142.94235229492188
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Impaling Strike.md",
+      "x": -2011.392333984375,
+      "y": 224.3767547607422
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Improvised Defences.md",
+      "x": -1575.7215576171875,
+      "y": -48.6185188293457
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Inspiring Rhetoric.md",
+      "x": -710.8818969726562,
+      "y": 720.6070556640625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Inventor.md",
+      "x": -1423.59521484375,
+      "y": -300.4864807128906
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Know-It-All.md",
+      "x": -1195.54931640625,
+      "y": 185.072998046875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Known Schematic.md",
+      "x": -1731.2198486328125,
+      "y": -305.9319763183594
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Knows the Ropes.md",
+      "x": -1863.9117431640625,
+      "y": 367.26666259765625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Loom.md",
+      "x": -1640.4615478515625,
+      "y": -233.4039306640625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Lucky Strike.md",
+      "x": -1341.030517578125,
+      "y": -217.052490234375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Magical Aptitude.md",
+      "x": -1948.0247802734375,
+      "y": -84.45049285888672
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Mechanical Aptitude.md",
+      "x": -1396.04736328125,
+      "y": 554.0486450195312
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Multiple Opponents.md",
+      "x": -1811.454345703125,
+      "y": -488.78387451171875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Mystic Theurge.md",
+      "x": -1486.9189453125,
+      "y": -495.44415283203125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Natural Communion.md",
+      "x": -1031.733642578125,
+      "y": -134.9940185546875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Overstocked Ammo.md",
+      "x": -684.4393920898438,
+      "y": 250.7704620361328
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Physical Training.md",
+      "x": -1466.25537109375,
+      "y": 459.1003112792969
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Point Blank.md",
+      "x": -2044.0679931640625,
+      "y": -260.8845520019531
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Probing Question.md",
+      "x": -1065.2099609375,
+      "y": -21.140552520751953
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Quick Draw (Improved).md",
+      "x": -1127.8839111328125,
+      "y": -454.7493896484375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Quick Fix.md",
+      "x": -1631.96240234375,
+      "y": 582.8759765625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Reckless Charge.md",
+      "x": -1577.0166015625,
+      "y": 248.97549438476562
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Reconstruct the Scene.md",
+      "x": -1272.2860107421875,
+      "y": 529.9415283203125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Researcher.md",
+      "x": -1601.4202880859375,
+      "y": -461.6869201660156
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Resist Disarm.md",
+      "x": -1228.4757080078125,
+      "y": -248.4031982421875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Scathing Tirade.md",
+      "x": -720.2366333007812,
+      "y": 420.6005859375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Selective Detonation.md",
+      "x": -1659.93310546875,
+      "y": -122.70939636230469
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Sense Emotion.md",
+      "x": -1531.613525390625,
+      "y": -267.46453857421875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Shapeshifter (Improved).md",
+      "x": -1214.6051025390625,
+      "y": -537.4793701171875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Share Pain.md",
+      "x": -1001.6724243164062,
+      "y": -250.29421997070312
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Shortcut.md",
+      "x": -1388.0064697265625,
+      "y": 816.14794921875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Side Step.md",
+      "x": -1685.20068359375,
+      "y": 192.3640594482422
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Signature Spell.md",
+      "x": -611.2764892578125,
+      "y": 470.7598571777344
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Speaks Binary.md",
+      "x": -346.92059326171875,
+      "y": 232.5687713623047
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Spirit Speak.md",
+      "x": -384.7131652832031,
+      "y": 118.81012725830078
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Stalker.md",
+      "x": -1945.6630859375,
+      "y": 33.680992126464844
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Strong Arm.md",
+      "x": -1844.6640625,
+      "y": 78.96269989013672
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Stunning Blow.md",
+      "x": -1293.564697265625,
+      "y": 653.4556884765625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Threaten.md",
+      "x": -1806.17333984375,
+      "y": 181.6736602783203
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Tier 2.md",
+      "x": -1381.2041015625,
+      "y": 78.92381286621094
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Time to Go.md",
+      "x": -1499.343505859375,
+      "y": 771.6384887695312
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Tinkerer.md",
+      "x": -1837.3485107421875,
+      "y": -257.78826904296875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Touch of Fate.md",
+      "x": -1622.67529296875,
+      "y": -345.7919921875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Two-Handed Stance.md",
+      "x": -1511.3558349609375,
+      "y": -382.7597351074219
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Unarmed Parry.md",
+      "x": -735.5353393554688,
+      "y": -270.4365539550781
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Unstoppable.md",
+      "x": -1763.6240234375,
+      "y": 7.890847206115723
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Untitled.md",
+      "x": -5718.68603515625,
+      "y": 1380.92529296875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Vehicle Combat Training.md",
+      "x": -1181.6455078125,
+      "y": -43.892974853515625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Weavehunter.md",
+      "x": -1578.831787109375,
+      "y": 476.5455322265625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Well Read.md",
+      "x": -1683.024658203125,
+      "y": 301.52191162109375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 2/Wraithbane.md",
+      "x": -1288.69189453125,
+      "y": -444.05047607421875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Ambush.md",
+      "x": -1064.0272216796875,
+      "y": 2094.99169921875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Applied Research.md",
+      "x": -282.1773986816406,
+      "y": 1550.892333984375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Armor Master.md",
+      "x": 283.4956359863281,
+      "y": 2115.431640625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Backstab.md",
+      "x": 6.0615010261535645,
+      "y": 1853.7144775390625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Bad Habit.md",
+      "x": -355.7373962402344,
+      "y": 2558.9306640625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Barrel Roll.md",
+      "x": -505.11309814453125,
+      "y": 1574.86376953125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Battle Casting.md",
+      "x": -557.5127563476562,
+      "y": 2064.6689453125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Blind Spot.md",
+      "x": -764.1546020507812,
+      "y": 2202.78369140625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Blooded (Improved).md",
+      "x": -1007.9398803710938,
+      "y": 1458.04296875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Body Guard.md",
+      "x": 43.03532409667969,
+      "y": 1316.9993896484375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Capital Sendoff.md",
+      "x": 149.60494995117188,
+      "y": 1794.5582275390625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Cavalier.md",
+      "x": -358.3238220214844,
+      "y": 1721.4080810546875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Center of Being.md",
+      "x": 147.48318481445312,
+      "y": 2028.2205810546875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Channel.md",
+      "x": -233.8909912109375,
+      "y": 1780.75146484375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Combat Veteran.md",
+      "x": -83.82231140136719,
+      "y": 1926.9437255859375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Confidence (Improved).md",
+      "x": -897.55419921875,
+      "y": 1504.92626953125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Congenial.md",
+      "x": -164.47230529785156,
+      "y": 1587.8177490234375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Constant Vigilance.md",
+      "x": -1002.4900512695312,
+      "y": 1992.3953857421875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Counterattack.md",
+      "x": -1062.6461181640625,
+      "y": 2304.660400390625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Creative Killer.md",
+      "x": -902.6100463867188,
+      "y": 1691.4229736328125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Cunning Persona.md",
+      "x": -121.52845001220703,
+      "y": 1820.225341796875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Cunning Snare.md",
+      "x": -133.27674865722656,
+      "y": 2224.085693359375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Customized Systems.md",
+      "x": -195.52810668945312,
+      "y": 1333.2486572265625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Daring Turn.md",
+      "x": -63.742427825927734,
+      "y": 2041.467041015625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Disarm.md",
+      "x": -539.127197265625,
+      "y": 1462.563720703125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Disarming Smile.md",
+      "x": -785.1434936523438,
+      "y": 1714.459716796875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Distinctive Style.md",
+      "x": -273.10211181640625,
+      "y": 2485.484619140625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Dockyard Expertise.md",
+      "x": -387.73046875,
+      "y": 1604.638916015625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Dodge.md",
+      "x": 239.4275665283203,
+      "y": 1880.1334228515625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Double or Nothing.md",
+      "x": 261.6440124511719,
+      "y": 1997.8511962890625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Dual Strike.md",
+      "x": -301.42156982421875,
+      "y": 2371.296630859375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Dumb Luck.md",
+      "x": -323.1311950683594,
+      "y": 2256.943359375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Eagle Eyes.md",
+      "x": -704.683837890625,
+      "y": 1631.0986328125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Easy Prey.md",
+      "x": -213.60353088378906,
+      "y": 1894.012939453125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Encoded Communique.md",
+      "x": -30.525476455688477,
+      "y": 1742.2752685546875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Encouraging Words.md",
+      "x": -142.41848754882812,
+      "y": 1703.86181640625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Exhaustive Questioning.md",
+      "x": 24.15631866455078,
+      "y": 1970.04736328125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Extended Reach.md",
+      "x": -111.21333312988281,
+      "y": 2332.56640625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Eye for Detail.md",
+      "x": -61.45983123779297,
+      "y": 2436.05712890625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Fear the Shadows.md",
+      "x": -363.73626708984375,
+      "y": 2024.2626953125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Fearsome Rep.md",
+      "x": -170.0919189453125,
+      "y": 1998.6220703125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Feral Strength.md",
+      "x": -888.6515502929688,
+      "y": 2401.254638671875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Field Commander.md",
+      "x": 125.71941375732422,
+      "y": 1910.7808837890625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Fire Control.md",
+      "x": -977.4131469726562,
+      "y": 1785.6787109375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Forgot to Count?.md",
+      "x": -621.6343994140625,
+      "y": 1546.189697265625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Form On Me.md",
+      "x": -704.6278076171875,
+      "y": 1926.1610107421875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Formation Tactics.md",
+      "x": -533.6698608398438,
+      "y": 2172.376220703125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Fortified Structure.md",
+      "x": -257.61639404296875,
+      "y": 1230.6910400390625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Frenzied Attack.md",
+      "x": -1007.6942138671875,
+      "y": 2199.01953125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Full Throttle.md",
+      "x": 35.196529388427734,
+      "y": 1197.7674560546875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Hard-Boiled.md",
+      "x": -549.042236328125,
+      "y": 1770.1031494140625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Healing Potion Specialisation.md",
+      "x": 46.081993103027344,
+      "y": 2084.030029296875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Heroic Resilience.md",
+      "x": -470.9449157714844,
+      "y": 1686.161865234375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Heroic Will.md",
+      "x": -586.4600219726562,
+      "y": 1657.2764892578125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Hex Warrior.md",
+      "x": -255.11721801757812,
+      "y": 1665.5194091796875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Hindering Shot.md",
+      "x": -838.679443359375,
+      "y": 2104.138671875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Hold It Steady.md",
+      "x": -598.77294921875,
+      "y": 2351.723388671875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Inspiring Rhetoric (Improved).md",
+      "x": -667.9330444335938,
+      "y": 1375.3221435546875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Intense Focus.md",
+      "x": -889.8671875,
+      "y": 2002.0689697265625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Interjection.md",
+      "x": -861.7803344726562,
+      "y": 1799.539306640625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Intimidating.md",
+      "x": -640.1953125,
+      "y": 2143.440185546875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Iron Body.md",
+      "x": -476.4117736816406,
+      "y": 2505.91015625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Justice of the Theocracy.md",
+      "x": -892.622802734375,
+      "y": 2194.766845703125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Larger Companion.md",
+      "x": -528.0833740234375,
+      "y": 944.0574340820312
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Larger Project.md",
+      "x": -138.46371459960938,
+      "y": 1228.2164306640625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Laugh It Off.md",
+      "x": -932.8447875976562,
+      "y": 1895.0660400390625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Lethal Blows.md",
+      "x": -630.7338256835938,
+      "y": 1847.771240234375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Made You Talk.md",
+      "x": -150.08753967285156,
+      "y": 2113.389404296875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Martial Grace.md",
+      "x": -382.6543884277344,
+      "y": 2443.6025390625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Martial Weapons Master.md",
+      "x": -582.7869262695312,
+      "y": 1949.2291259765625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Moving Target.md",
+      "x": -658.24609375,
+      "y": 2027.824951171875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Natural.md",
+      "x": -426.79815673828125,
+      "y": 2215.868408203125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Nimble.md",
+      "x": -195.99647521972656,
+      "y": 2403.96923828125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/No Escape.md",
+      "x": -512.4547119140625,
+      "y": 2283.559326171875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Nobody's Fool.md",
+      "x": -682.5313720703125,
+      "y": 2418.58642578125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Opportunist.md",
+      "x": -347.0719299316406,
+      "y": 2142.3916015625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Outside the Box.md",
+      "x": -675.9931030273438,
+      "y": 2534.559814453125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Overchannel (Improved).md",
+      "x": -367.8299560546875,
+      "y": 1005.1460571289062
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Overwhelm Defences.md",
+      "x": -22.458629608154297,
+      "y": 2275.639404296875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Parry (Improved).md",
+      "x": -1119.2274169921875,
+      "y": 1990.8355712890625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Pin.md",
+      "x": -258.8311767578125,
+      "y": 2067.43359375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Plausible Deniability.md",
+      "x": -474.3075256347656,
+      "y": 1988.842041015625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Point Blank.md",
+      "x": -951.1044921875,
+      "y": 2097.0068359375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Poison Specialist.md",
+      "x": -567.3225708007812,
+      "y": 2578.150146484375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Potent Concoctions.md",
+      "x": -219.1372528076172,
+      "y": 2294.2373046875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Powerful Blast.md",
+      "x": -777.080078125,
+      "y": 2005.133056640625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Precise Archery.md",
+      "x": -708.2498779296875,
+      "y": 2300.69482421875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Pressure Point.md",
+      "x": -450.14678955078125,
+      "y": 2102.73779296875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Rapid Archery.md",
+      "x": -44.696502685546875,
+      "y": 2157.9091796875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Reflect (Improved).md",
+      "x": -214.93260192871094,
+      "y": 1027.196533203125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Resist Questioning.md",
+      "x": 169.56044006347656,
+      "y": 2145.4580078125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Resourceful Refit.md",
+      "x": -492.2496643066406,
+      "y": 2396.838623046875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Scathing Tirade (Improved).md",
+      "x": -404.1646423339844,
+      "y": 2328.6845703125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Scything Strike.md",
+      "x": -820.6303100585938,
+      "y": 1604.728759765625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Seize the Initiative.md",
+      "x": -667.3045654296875,
+      "y": 1737.7420654296875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Sense Advantage.md",
+      "x": 65.16898345947266,
+      "y": 2200.750244140625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Shockwave.md",
+      "x": -737.3510131835938,
+      "y": 1519.10498046875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Shortcut (Improved).md",
+      "x": -992.7805786132812,
+      "y": 1577.303466796875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Skilled Teacher.md",
+      "x": -240.535888671875,
+      "y": 2180.8388671875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Smart Handling.md",
+      "x": -745.5553588867188,
+      "y": 1820.1588134765625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Snaring Wards.md",
+      "x": -155.2334747314453,
+      "y": 2510.9716796875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Spur.md",
+      "x": -65.76166534423828,
+      "y": 1133.565673828125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Studious Plotting.md",
+      "x": -422.6638488769531,
+      "y": 1491.011474609375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Stunning Blow (Improved).md",
+      "x": -911.78759765625,
+      "y": 1386.13232421875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Sunder Expertise.md",
+      "x": -782.9586181640625,
+      "y": 2491.692626953125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Suppressing Fire.md",
+      "x": -821.3394775390625,
+      "y": 1907.1234130859375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Takedown.md",
+      "x": -781.2106323242188,
+      "y": 2381.636962890625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Tier 3.md",
+      "x": -421.2810974121094,
+      "y": 1884.2042236328125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Time to Go (Improved).md",
+      "x": -1103.08154296875,
+      "y": 1531.1427001953125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Toughened (Improved).md",
+      "x": -478.09991455078125,
+      "y": 1052.7960205078125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Tricky Target.md",
+      "x": -739.9161987304688,
+      "y": 2105.97802734375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/True Aim.md",
+      "x": -947.1085205078125,
+      "y": 2301.231201171875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Trust the Captain.md",
+      "x": -455.5156555175781,
+      "y": 2615.513671875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Tuned Handling.md",
+      "x": -75.7280502319336,
+      "y": 1329.7908935546875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Twisted Words.md",
+      "x": -1047.6678466796875,
+      "y": 1883.232177734375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Unremarkable (Improved).md",
+      "x": -381.9363098144531,
+      "y": 1124.098388671875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Up the Ante.md",
+      "x": -615.3678588867188,
+      "y": 2244.750244140625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Valuable Facts.md",
+      "x": -831.933837890625,
+      "y": 2284.92578125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 3/Well-Rounded.md",
+      "x": -582.8765869140625,
+      "y": 2463.5693359375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/A Step Ahead.md",
+      "x": 1318.085693359375,
+      "y": 1825.2777099609375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Analyze Data.md",
+      "x": 1281.8277587890625,
+      "y": 855.4186401367188
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Armor Master (Improved).md",
+      "x": 997.6586303710938,
+      "y": 1865.2569580078125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Back-to-Back.md",
+      "x": 1506.5325927734375,
+      "y": 1070.392333984375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Better Luck Next Time.md",
+      "x": 1804.6739501953125,
+      "y": 1591.2532958984375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Body Guard (Improved).md",
+      "x": 1720.0535888671875,
+      "y": 1515.2254638671875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Bolstered Armor.md",
+      "x": 741.0028076171875,
+      "y": 875.7305297851562
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Brilliant Evasion.md",
+      "x": 1819.7208251953125,
+      "y": 1106.1873779296875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Burn Through.md",
+      "x": 1408.343017578125,
+      "y": 1486.7237548828125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/By the Book.md",
+      "x": 904.5784301757812,
+      "y": 1398.890625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Can't We Talk About This.md",
+      "x": 1182.6162109375,
+      "y": 1545.8038330078125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Capital Sendoff (Improved).md",
+      "x": 809.1423950195312,
+      "y": 1560.628173828125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Careful Planning.md",
+      "x": 1120.948486328125,
+      "y": 1774.2423095703125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Center of Being (Improved).md",
+      "x": 807.5941772460938,
+      "y": 1773.31982421875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Commanding Presence.md",
+      "x": 1416.248291015625,
+      "y": 1253.814697265625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Comrades in Arms.md",
+      "x": 1371.47607421875,
+      "y": 684.6947021484375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Conduit.md",
+      "x": 1623.733154296875,
+      "y": 1228.7979736328125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Deadeye.md",
+      "x": 1038.0584716796875,
+      "y": 1690.2689208984375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Deadly Accuracy.md",
+      "x": 1324.3397216796875,
+      "y": 1402.927734375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Death Rage.md",
+      "x": 1020.7432250976562,
+      "y": 1372.00439453125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Defensive Driving.md",
+      "x": 1496.3392333984375,
+      "y": 957.6530151367188
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Defensive.md",
+      "x": 1399.41162109375,
+      "y": 1022.5464477539062
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Deflection.md",
+      "x": 796.8197631835938,
+      "y": 632.4802856445312
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Discredit.md",
+      "x": 1593.803466796875,
+      "y": 889.1428833007812
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Distracting Behaviour (Improved).md",
+      "x": 508.9507141113281,
+      "y": 871.1782836914062
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Dodge (Improved).md",
+      "x": 862.2342529296875,
+      "y": 1668.192138671875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Don't Shoot!.md",
+      "x": 1539.21630859375,
+      "y": 1385.6700439453125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Double or Nothing (Improved).md",
+      "x": 933.9486694335938,
+      "y": 1763.7735595703125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Double-Talk.md",
+      "x": 968.2974243164062,
+      "y": 1213.2659912109375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Elementary.md",
+      "x": 1654.2030029296875,
+      "y": 1739.8326416015625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Enduring.md",
+      "x": 1388.45068359375,
+      "y": 906.2586669921875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Field Commander (Improved).md",
+      "x": 744.0537719726562,
+      "y": 1661.5733642578125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Formation Tactics (Improved).md",
+      "x": 1290.8338623046875,
+      "y": 973.279296875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Fortune Favors the Bold.md",
+      "x": 1722.426513671875,
+      "y": 1170.8961181640625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Freerunner (Improved).md",
+      "x": 523.95458984375,
+      "y": 1078.1275634765625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Full Throttle (Improved).md",
+      "x": 1712.9984130859375,
+      "y": 1057.085205078125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Holistic Navigation.md",
+      "x": 1838.689208984375,
+      "y": 1342.107421875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/How Convenient!.md",
+      "x": 1828.9356689453125,
+      "y": 1470.376220703125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Improvised Position.md",
+      "x": 1408.1641845703125,
+      "y": 1138.4443359375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/In the Know.md",
+      "x": 1174.64013671875,
+      "y": 925.00830078125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Incite Distraction.md",
+      "x": 1301.248779296875,
+      "y": 1091.7965087890625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Incite Rebellion.md",
+      "x": 1193.0849609375,
+      "y": 1042.6153564453125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Inspiring Rhetoric (Supreme).md",
+      "x": 404.93121337890625,
+      "y": 1090.38818359375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/It's Not that Bad.md",
+      "x": 1488.3636474609375,
+      "y": 1577.2843017578125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Jury Rigged.md",
+      "x": 1345.38232421875,
+      "y": 1711.8931884765625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Lose Them.md",
+      "x": 1738.601318359375,
+      "y": 1400.0501708984375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Not Today.md",
+      "x": 816.005126953125,
+      "y": 968.628662109375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Offensive Driving.md",
+      "x": 1634.726318359375,
+      "y": 1334.7705078125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Overbalance.md",
+      "x": 1406.6484375,
+      "y": 1903.3521728515625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Overcharge.md",
+      "x": 957.5714721679688,
+      "y": 1602.00146484375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Precise Aim.md",
+      "x": 1833.20361328125,
+      "y": 1222.8126220703125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Prey on the Weak.md",
+      "x": 1151.5076904296875,
+      "y": 1659.2315673828125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Prime Positions.md",
+      "x": 1606.090087890625,
+      "y": 1550.8848876953125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Prophetic Aim.md",
+      "x": 1099.7396240234375,
+      "y": 1460.6221923828125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Push the Specs.md",
+      "x": 984.9218139648438,
+      "y": 1486.3248291015625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Quick Witted.md",
+      "x": 1430.5706787109375,
+      "y": 1369.7120361328125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Rain of Death.md",
+      "x": 1701.28125,
+      "y": 940.38427734375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Reflect (Supreme).md",
+      "x": 702.560546875,
+      "y": 705.9588623046875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Reinforced Frame.md",
+      "x": 698.0256958007812,
+      "y": 988.0533447265625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Reroute Processors.md",
+      "x": 1206.021484375,
+      "y": 1856.9217529296875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Resist Questioning (Improved).md",
+      "x": 878.029541015625,
+      "y": 1869.810302734375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Resolve.md",
+      "x": 1526.02880859375,
+      "y": 1289.0712890625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Savvy Negotiator.md",
+      "x": 1633.45068359375,
+      "y": 1444.1083984375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Scathing Tirade (Supreme).md",
+      "x": 456.53936767578125,
+      "y": 978.8123779296875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Scavenger.md",
+      "x": 1071.115234375,
+      "y": 1575.139892578125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Second Chances.md",
+      "x": 1457.5289306640625,
+      "y": 1678.0010986328125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Seen a Lot of Things.md",
+      "x": 1520.8458251953125,
+      "y": 1870.711669921875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Showboat.md",
+      "x": 1486.671630859375,
+      "y": 839.6781616210938
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Signature Spell (Improved).md",
+      "x": 576.14453125,
+      "y": 970.4048461914062
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Skilled Slicer.md",
+      "x": 1514.521728515625,
+      "y": 1178.7529296875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Sorry About the Mess.md",
+      "x": 1575.836669921875,
+      "y": 1652.7086181640625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Speaks Binary (Improved).md",
+      "x": 625.7318725585938,
+      "y": 844.5690307617188
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Spirit Speak(Improved).md",
+      "x": 568.447998046875,
+      "y": 739.5082397460938
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Split fire.md",
+      "x": 1295.222900390625,
+      "y": 1514.71435546875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Spur (Improved).md",
+      "x": 1212.49658203125,
+      "y": 1432.3663330078125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Steady Aim.md",
+      "x": 1541.37109375,
+      "y": 1759.8319091796875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Street Smarts.md",
+      "x": 1074.54736328125,
+      "y": 1028.6400146484375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Supporting Evidence.md",
+      "x": 1520.0198974609375,
+      "y": 1477.57763671875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Targeted Firepower.md",
+      "x": 1689.24267578125,
+      "y": 1625.676513671875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/That's How It's Done.md",
+      "x": 1428.698974609375,
+      "y": 1791.085205078125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Tier 4.md",
+      "x": 1239.9508056640625,
+      "y": 1281.490966796875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Trust No One.md",
+      "x": 1377.577880859375,
+      "y": 1598.5391845703125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Unrelenting Skeptic.md",
+      "x": 1768.328369140625,
+      "y": 1711.6640625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Unrelenting.md",
+      "x": 1602.8460693359375,
+      "y": 1004.7095336914062
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Urban Combatant.md",
+      "x": 1264.1260986328125,
+      "y": 1628.345458984375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Venom Soaked Blade.md",
+      "x": 1733.397705078125,
+      "y": 1283.1041259765625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Weak Foundation.md",
+      "x": 1234.59375,
+      "y": 1742.7071533203125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 4/Your Owe Me One (Improved).md",
+      "x": 1615.0948486328125,
+      "y": 1120.04052734375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Altered Deal.md",
+      "x": 1175.596435546875,
+      "y": -649.0139770507812
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Armor Master (Supreme).md",
+      "x": 1238.408203125,
+      "y": -954.0714721679688
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Baleful Gaze.md",
+      "x": 1392.2381591796875,
+      "y": -558.667236328125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Biggest Fan.md",
+      "x": 1283.07861328125,
+      "y": -604.3845825195312
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Body Guard (Supreme).md",
+      "x": 558.0989379882812,
+      "y": 219.8169403076172
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Comrades in Arms (Improved).md",
+      "x": 1208.59912109375,
+      "y": -87.07135009765625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Coordination Dodge.md",
+      "x": 725.1634521484375,
+      "y": -940.5283203125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Crucial Point.md",
+      "x": 894.3013916015625,
+      "y": -234.47573852539062
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Crushing Blow.md",
+      "x": 1269.1817626953125,
+      "y": -719.9464721679688
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Custom Loadout.md",
+      "x": 491.16259765625,
+      "y": -37.97773742675781
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Dedication.md",
+      "x": 756.1820678710938,
+      "y": -703.7617797851562
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Double or Nothing (Supreme).md",
+      "x": 601.0108642578125,
+      "y": 9.28173828125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Drone Master.md",
+      "x": 833.0922241210938,
+      "y": -894.9688720703125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Full Throttle (Supreme).md",
+      "x": 631.422607421875,
+      "y": 125.32279968261719
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Ghost In The Machine.md",
+      "x": 1254.05908203125,
+      "y": -838.12255859375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Heavy Hitter.md",
+      "x": 1068.5284423828125,
+      "y": -693.534423828125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Indomitable.md",
+      "x": 925.968994140625,
+      "y": -967.5051879882812
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Inside Knowledge.md",
+      "x": 645.764404296875,
+      "y": -749.4644775390625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Inside Person.md",
+      "x": 1295.9906005859375,
+      "y": -487.5403137207031
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Inspiring Leadership.md",
+      "x": 1378.263671875,
+      "y": -676.0603637695312
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Just Kidding!.md",
+      "x": 623.7916870117188,
+      "y": -632.7255249023438
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Let's Talk This Over.md",
+      "x": 1092.1964111328125,
+      "y": -461.4818420410156
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Master (Melee Light).md",
+      "x": 959.3836059570312,
+      "y": -733.2413940429688
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Master Demolitionist.md",
+      "x": 1310.255615234375,
+      "y": -368.5850830078125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Master Grenadier.md",
+      "x": 941.7467041015625,
+      "y": -851.333984375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Master Instructor.md",
+      "x": 1079.3758544921875,
+      "y": -579.3291015625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Master Merchant.md",
+      "x": 740.5574340820312,
+      "y": -822.1409912109375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Master Pilot.md",
+      "x": 1017.6771240234375,
+      "y": -1042.0472412109375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Master Plan.md",
+      "x": 849.82568359375,
+      "y": -777.1324462890625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Master.md",
+      "x": 1104.7161865234375,
+      "y": -343.9501647949219
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Momentum.md",
+      "x": 1215.1990966796875,
+      "y": -297.1967468261719
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Monstrous Companion.md",
+      "x": 189.97402954101562,
+      "y": -428.12939453125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Most Impressive.md",
+      "x": 1362.9354248046875,
+      "y": -794.3668212890625
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Overcharge (improved).md",
+      "x": 1034.361328125,
+      "y": -925.187255859375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Overwhelm.md",
+      "x": 631.4185180664062,
+      "y": -867.8257446289062
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Power of Darkness.md",
+      "x": 1162.0911865234375,
+      "y": -764.5659790039062
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Prepare to be Boarded.md",
+      "x": 1144.8131103515625,
+      "y": -880.958740234375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Retribution.md",
+      "x": 631.779052734375,
+      "y": -428.85467529296875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Ruinious Repartee.md",
+      "x": 1188.5924072265625,
+      "y": -533.3296508789062
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Speaks Binary (Supreme).md",
+      "x": 367.96844482421875,
+      "y": -213.3274688720703
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Spirit Speak (Supreme).md",
+      "x": 326.48565673828125,
+      "y": -325.7481689453125
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Spur (Supreme).md",
+      "x": 512.6861572265625,
+      "y": 108.26728820800781
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Superhuman Reflexes.md",
+      "x": 1128.52783203125,
+      "y": -998.1707763671875
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Thorough Assessment.md",
+      "x": 1404.0513916015625,
+      "y": -440.8950500488281
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Tier 5.md",
+      "x": 897.599365234375,
+      "y": -512.7291870117188
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Trick Of The Light.md",
+      "x": 819.0260620117188,
+      "y": -1013.1843872070312
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Unrelenting Skeptic (Improved).md",
+      "x": 1051.152099609375,
+      "y": -808.3805541992188
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Web Of Knowledge.md",
+      "x": 1008.9158325195312,
+      "y": -269.14105224609375
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Whirlwind.md",
+      "x": 1201.0406494140625,
+      "y": -414.9841613769531
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Tier 5/Zealous Fire.md",
+      "x": 1120.1220703125,
+      "y": -225.29689025878906
+    },
+    {
+      "id": "Cataclysm.wiki/Talents/Trees (depricated)/Trees (depricated).md",
+      "x": -6.866147518157959,
+      "y": 110.9089584350586
+    },
+    {
+      "id": "Cataclysm.wiki/_Sidebar.md",
+      "x": 1001.103515625,
+      "y": 224.72842407226562
+    },
+    {
+      "id": "Ush'in",
+      "x": 1283.281982421875,
+      "y": 119.18876647949219
+    },
+    {
+      "id": "Av'in",
+      "x": 1291.1796875,
+      "y": -0.7176316976547241
+    },
+    {
+      "id": "Flor'in",
+      "x": 1241.641357421875,
+      "y": 376.3196105957031
+    },
+    {
+      "id": "Ness'in",
+      "x": 1390.4471435546875,
+      "y": 65.72749328613281
+    },
+    {
+      "id": "Cataclysm.wiki/home.md",
+      "x": 1005.1279907226562,
+      "y": 105.19432830810547
+    },
+    {
+      "id": "Cynthia Argentus.md",
+      "x": 3477.901611328125,
+      "y": -4416.7578125
     },
     {
       "id": "Factions/Bouvardia.md",
-      "x": 1759.2127685546875,
-      "y": 1916.255859375
+      "x": 4125.0654296875,
+      "y": -3416.9169921875
     },
     {
       "id": "Factions/Celestia.md",
-      "x": 2131.193603515625,
-      "y": 1428.439697265625
+      "x": 4348.31103515625,
+      "y": -3544.810302734375
     },
     {
       "id": "Factions/Factions.md",
-      "x": 1957.657470703125,
-      "y": 1692.8902587890625
+      "x": 4051.69677734375,
+      "y": -3704.3193359375
+    },
+    {
+      "id": "Factions/House Argentus.md",
+      "x": 3742.603515625,
+      "y": -3900.6328125
+    },
+    {
+      "id": "Factions/Ravanica.md",
+      "x": 4058.671630859375,
+      "y": -3998.41552734375
+    },
+    {
+      "id": "Selene",
+      "x": 4325.74755859375,
+      "y": -4134.5478515625
+    },
+    {
+      "id": "Moonstone",
+      "x": 4350.26611328125,
+      "y": -3924.41064453125
+    },
+    {
+      "id": "Andrell Ravanica",
+      "x": 3782.112548828125,
+      "y": -4143.9853515625
+    },
+    {
+      "id": "Locations/Locations.md",
+      "x": 2711.718994140625,
+      "y": -4547.978515625
+    },
+    {
+      "id": "Locations/The Ark/Castle Ravanica.md",
+      "x": 2964.0595703125,
+      "y": -4798.814453125
+    },
+    {
+      "id": "Locations/The Ark/The Ark.md",
+      "x": 3015.59765625,
+      "y": -4494.818359375
+    },
+    {
+      "id": "Helios",
+      "x": 2838.676025390625,
+      "y": -4749.0771484375
+    },
+    {
+      "id": "Locations/The Ark/The Storm Wall.md",
+      "x": 2725.060791015625,
+      "y": -4691.091796875
+    },
+    {
+      "id": "Kohryu the Storm Dragon",
+      "x": 2472.881103515625,
+      "y": -4882.341796875
     },
     {
       "id": "README.md",
-      "x": 178.5390167236328,
-      "y": -814.0975341796875
+      "x": 1504.6856689453125,
+      "y": 102.1295166015625
     },
     {
-      "id": "Realms/Realms.md",
-      "x": 2140.5556640625,
-      "y": -1170.8863525390625
+      "id": "Species/Chan'on.md",
+      "x": -196.83474731445312,
+      "y": -2172.28759765625
     },
     {
-      "id": "cataclysm.wiki/Items/Armor/Armor.md",
-      "x": -214.9063720703125,
-      "y": -1171.1424560546875
+      "id": "Timeline (years).md",
+      "x": 3470.072509765625,
+      "y": -4112.74267578125
     },
     {
-      "id": "cataclysm.wiki/Items/Armor/Chainmail.md",
-      "x": -212.88475036621094,
-      "y": -1501.27783203125
+      "id": "Karneth, the corpse god",
+      "x": 3215.85986328125,
+      "y": -4276.75390625
     },
     {
-      "id": "cataclysm.wiki/Items/Armor/Concealing Robes.md",
-      "x": -418.7975769042969,
-      "y": -1438.435791015625
+      "id": "Oswynn Ash'ra",
+      "x": 3168.173583984375,
+      "y": -4110.8505859375
     },
     {
-      "id": "cataclysm.wiki/Items/Armor/Sturdy Clothes.md",
-      "x": -331.29339599609375,
-      "y": -1520.521728515625
+      "id": "Nadirlith the demon lord",
+      "x": 3626.673095703125,
+      "y": -4370.91748046875
     },
     {
-      "id": "cataclysm.wiki/Items/Attachments & Hardpoints/Armor Attacments/Armor Attacments.md",
-      "x": -3.903484344482422,
-      "y": -1505.9947509765625
+      "id": "Windswept Plateau",
+      "x": 3336.465576171875,
+      "y": -4385.48046875
     },
     {
-      "id": "cataclysm.wiki/Items/Attachments & Hardpoints/Attachments & Hardpoints.md",
-      "x": -71.77217102050781,
-      "y": -1182.267333984375
-    },
-    {
-      "id": "cataclysm.wiki/Items/Attachments & Hardpoints/Attachments rules summary.md",
-      "x": -109.72264862060547,
-      "y": -1562.517333984375
-    },
-    {
-      "id": "cataclysm.wiki/Items/Attachments & Hardpoints/Weapon Attachments/Weapon Attachments.md",
-      "x": 113.0814208984375,
-      "y": -1479.427734375
-    },
-    {
-      "id": "cataclysm.wiki/Items/Gear/Backpack.md",
-      "x": 623.5715942382812,
-      "y": -1764.500244140625
-    },
-    {
-      "id": "cataclysm.wiki/Items/Gear/Equipment Kit.md",
-      "x": 452.3348388671875,
-      "y": -2031.6656494140625
-    },
-    {
-      "id": "cataclysm.wiki/Items/Gear/Flashpowder.md",
-      "x": 557.2483520507812,
-      "y": -1973.45556640625
-    },
-    {
-      "id": "cataclysm.wiki/Items/Gear/Gas Mask.md",
-      "x": 342.46307373046875,
-      "y": -1983.388427734375
-    },
-    {
-      "id": "cataclysm.wiki/Items/Gear/Gear.md",
-      "x": 357.7013244628906,
-      "y": -1636.4481201171875
-    },
-    {
-      "id": "cataclysm.wiki/Items/Gear/Healing Potion.md",
-      "x": 439.17266845703125,
-      "y": -1912.4354248046875
-    },
-    {
-      "id": "cataclysm.wiki/Items/Gear/Lantern.md",
-      "x": 544.0233764648438,
-      "y": -1854.2012939453125
-    },
-    {
-      "id": "cataclysm.wiki/Items/Gear/Rope.md",
-      "x": 733.48974609375,
-      "y": -1812.5531005859375
-    },
-    {
-      "id": "cataclysm.wiki/Items/Gear/Skygear.md",
-      "x": 653.901123046875,
-      "y": -1902.3333740234375
-    },
-    {
-      "id": "cataclysm.wiki/Items/Gear/Toolbox.md",
-      "x": 720.1158447265625,
-      "y": -1693.3138427734375
-    },
-    {
-      "id": "cataclysm.wiki/Items/Items.md",
-      "x": -105.78075408935547,
-      "y": -1442.59228515625
-    },
-    {
-      "id": "cataclysm.wiki/Items/Magical Impliments/Magical Circlet.md",
-      "x": -850.70068359375,
-      "y": -1854.707275390625
-    },
-    {
-      "id": "cataclysm.wiki/Items/Magical Impliments/Magical Impliments.md",
-      "x": -630.66650390625,
-      "y": -1602.5323486328125
-    },
-    {
-      "id": "cataclysm.wiki/Items/Magical Impliments/Orb.md",
-      "x": -740.773193359375,
-      "y": -1902.785888671875
-    },
-    {
-      "id": "cataclysm.wiki/Items/Magical Impliments/Ring.md",
-      "x": -989.177490234375,
-      "y": -1471.9222412109375
-    },
-    {
-      "id": "cataclysm.wiki/Items/Magical Impliments/Spellblade(attack spell).md",
-      "x": -1076.2999267578125,
-      "y": -1801.754638671875
-    },
-    {
-      "id": "cataclysm.wiki/Items/Magical Impliments/Spellblade(conjure).md",
-      "x": -696.3471069335938,
-      "y": -2014.241943359375
-    },
-    {
-      "id": "cataclysm.wiki/Items/Magical Impliments/Staff.md",
-      "x": -956.3679809570312,
-      "y": -1797.85400390625
-    },
-    {
-      "id": "cataclysm.wiki/Items/Magical Impliments/Wand.md",
-      "x": -985.9732666015625,
-      "y": -1968.7757568359375
-    },
-    {
-      "id": "cataclysm.wiki/Items/Simple Weapon Profiles.md",
-      "x": -118.01130676269531,
-      "y": -1017.6907958984375
-    },
-    {
-      "id": "cataclysm.wiki/Items/Weapons/Axe.md",
-      "x": -13.222223281860352,
-      "y": -2082.421142578125
-    },
-    {
-      "id": "cataclysm.wiki/Items/Weapons/Bow.md",
-      "x": 70.29306030273438,
-      "y": -2272.77294921875
-    },
-    {
-      "id": "cataclysm.wiki/Items/Weapons/Clockwork Minigun.md",
-      "x": -417.8763122558594,
-      "y": -1924.089599609375
-    },
-    {
-      "id": "cataclysm.wiki/Items/Weapons/Crossbow.md",
-      "x": -244.41830444335938,
-      "y": -2301.330322265625
-    },
-    {
-      "id": "cataclysm.wiki/Items/Weapons/Greataxe.md",
-      "x": 206.58033752441406,
-      "y": -1986.1990966796875
-    },
-    {
-      "id": "cataclysm.wiki/Items/Weapons/Greatmace.md",
-      "x": 193.32102966308594,
-      "y": -2105.406005859375
-    },
-    {
-      "id": "cataclysm.wiki/Items/Weapons/Greatsword.md",
-      "x": -233.05783081054688,
-      "y": -2181.9326171875
-    },
-    {
-      "id": "cataclysm.wiki/Items/Weapons/Grenade.md",
-      "x": -26.3019962310791,
-      "y": -2201.64013671875
-    },
-    {
-      "id": "cataclysm.wiki/Items/Weapons/Halberd.md",
-      "x": -319.976318359375,
-      "y": -1993.4453125
-    },
-    {
-      "id": "cataclysm.wiki/Items/Weapons/Hand Cannon.md",
-      "x": -135.36407470703125,
-      "y": -2251.378662109375
-    },
-    {
-      "id": "cataclysm.wiki/Items/Weapons/Knife.md",
-      "x": -221.8792266845703,
-      "y": -2062.52587890625
-    },
-    {
-      "id": "cataclysm.wiki/Items/Weapons/Mace.md",
-      "x": -428.9851989746094,
-      "y": -2043.5657958984375
-    },
-    {
-      "id": "cataclysm.wiki/Items/Weapons/Pistol.md",
-      "x": -123.96607971191406,
-      "y": -2131.9287109375
-    },
-    {
-      "id": "cataclysm.wiki/Items/Weapons/Rifle.md",
-      "x": 96.6613998413086,
-      "y": -2034.275634765625
-    },
-    {
-      "id": "cataclysm.wiki/Items/Weapons/Shield.md",
-      "x": -331.10052490234375,
-      "y": -2112.92431640625
-    },
-    {
-      "id": "cataclysm.wiki/Items/Weapons/Spear.md",
-      "x": 198.27647399902344,
-      "y": -1866.54150390625
-    },
-    {
-      "id": "cataclysm.wiki/Items/Weapons/Sword.md",
-      "x": 83.47528839111328,
-      "y": -2153.5146484375
-    },
-    {
-      "id": "cataclysm.wiki/Items/Weapons/Weapons.md",
-      "x": -101.7768783569336,
-      "y": -1839.4339599609375
-    },
-    {
-      "id": "cataclysm.wiki/Rules/Crafting.md",
-      "x": 1284.0146484375,
-      "y": -1570.0970458984375
-    },
-    {
-      "id": "cataclysm.wiki/Rules/Embeds.md",
-      "x": 1340.398193359375,
-      "y": -1464.1693115234375
-    },
-    {
-      "id": "cataclysm.wiki/Rules/Rules.md",
-      "x": 1003.5338134765625,
-      "y": -1370.9141845703125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/README.md",
-      "x": -103.59281921386719,
-      "y": -158.9891357421875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Removed/Animal Companion (old).md",
-      "x": -86.82888793945312,
-      "y": -723.0960693359375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Removed/Familiar (Supreme) (old).md",
-      "x": 56.0493049621582,
-      "y": -507.14422607421875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Removed/Familiar (old).md",
-      "x": 256.56634521484375,
-      "y": -416.7917785644531
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Removed/Harass (old).md",
-      "x": -253.67788696289062,
-      "y": -522.73681640625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Removed/Menace.md",
-      "x": -139.05364990234375,
-      "y": -487.25823974609375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Talent Template.md",
-      "x": -297.5440368652344,
-      "y": -411.053466796875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Talents.md",
-      "x": -43.00284957885742,
-      "y": -262.556640625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/All-Terrain Driver.md",
-      "x": -605.8837280273438,
-      "y": -1088.3485107421875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Apothecary.md",
-      "x": -800.911865234375,
-      "y": -1351.6925048828125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Attack Spell.md",
-      "x": -1188.7484130859375,
-      "y": -1545.0418701171875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Black Market Contacts.md",
-      "x": -487.9346008300781,
-      "y": -1067.2303466796875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Blood Sacrifice.md",
-      "x": -682.796630859375,
-      "y": -996.2910766601562
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Bought Info.md",
-      "x": -976.6212158203125,
-      "y": -936.9896240234375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Brace.md",
-      "x": -1096.8427734375,
-      "y": -694.1918334960938
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Bullrush.md",
-      "x": -1116.901123046875,
-      "y": -575.915283203125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Call 'Em.md",
-      "x": -1027.54443359375,
-      "y": -496.3192138671875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Challenge.md",
-      "x": -954.2783813476562,
-      "y": -1169.935302734375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Channel.md",
-      "x": -686.12841796875,
-      "y": -605.9719848632812
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Clever Retort.md",
-      "x": -931.185302734375,
-      "y": -1367.2296142578125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Commander.md",
-      "x": -1066.929443359375,
-      "y": -1380.6558837890625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Companion.md",
-      "x": -788.3237915039062,
-      "y": -303.2817687988281
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Construction Specialist.md",
-      "x": -1388.8963623046875,
-      "y": -1078.3294677734375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Creative Design.md",
-      "x": -1008.96923828125,
-      "y": -1275.89013671875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Custom Enchants.md",
-      "x": -528.5181274414062,
-      "y": -1180.0023193359375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Custom Focus.md",
-      "x": -799.919677734375,
-      "y": -1019.5646362304688
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Customer Service Experience.md",
-      "x": -633.682373046875,
-      "y": -877.1535034179688
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Dark Insight.md",
-      "x": -915.1050415039062,
-      "y": -537.8133544921875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Deep Pockets.md",
-      "x": -1311.3619384765625,
-      "y": -761.9157104492188
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Defensive Weaver.md",
-      "x": -1149.423583984375,
-      "y": -1081.28369140625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Desperate Recovery.md",
-      "x": -877.6808471679688,
-      "y": -1260.3316650390625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Duelist.md",
-      "x": -1266.0562744140625,
-      "y": -872.3667602539062
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Dungeoneer.md",
-      "x": -917.3095092773438,
-      "y": -1041.0562744140625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Durable.md",
-      "x": -1264.2822265625,
-      "y": -1291.1312255859375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Extra Ammo.md",
-      "x": -502.2816467285156,
-      "y": -873.4759521484375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Finesse.md",
-      "x": -1385.578857421875,
-      "y": -869.3488159179688
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Forager.md",
-      "x": -1229.6368408203125,
-      "y": -532.0675659179688
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Grit.md",
-      "x": -1146.6248779296875,
-      "y": -875.2785034179688
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Hamstring Shot.md",
-      "x": -1330.5189208984375,
-      "y": -643.9500732421875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Hand On The Throttle.md",
-      "x": -686.4247436523438,
-      "y": -1316.1573486328125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Hidden Storage.md",
-      "x": -1450.2935791015625,
-      "y": -639.8679809570312
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Intercept.md",
-      "x": -573.3317260742188,
-      "y": -565.204345703125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Jump Up.md",
-      "x": -1328.3372802734375,
-      "y": -974.8837890625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Knack For It.md",
-      "x": -797.7910766601562,
-      "y": -562.44677734375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Knockout Punch.md",
-      "x": -1269.14404296875,
-      "y": -1081.043701171875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Knowledge Specialization.md",
-      "x": -1211.05908203125,
-      "y": -649.375244140625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Let's Ride.md",
-      "x": -1049.853515625,
-      "y": -804.5227661132812
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/One with Nature.md",
-      "x": -723.1287841796875,
-      "y": -1111.4710693359375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Overchannel.md",
-      "x": -550.322509765625,
-      "y": -294.6253967285156
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Painful Blow.md",
-      "x": -840.9049682617188,
-      "y": -1133.0328369140625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Parry.md",
-      "x": -680.0736083984375,
-      "y": -725.7355346679688
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Precision.md",
-      "x": -1086.538818359375,
-      "y": -1184.6036376953125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Proper Upbringing.md",
-      "x": -1326.1634521484375,
-      "y": -1186.4542236328125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Quick Draw.md",
-      "x": -1306.7415771484375,
-      "y": -440.66729736328125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Quick Strike.md",
-      "x": -763.687255859375,
-      "y": -1224.5675048828125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Rapid Reaction.md",
-      "x": -570.6922607421875,
-      "y": -775.0099487304688
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Rapid Recovery.md",
-      "x": -1029.84619140625,
-      "y": -1080.0587158203125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Redundant Systems.md",
-      "x": -1430.8233642578125,
-      "y": -758.2703857421875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Reflect.md",
-      "x": -268.6041259765625,
-      "y": -278.2942810058594
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Resourceful Mechanic.md",
-      "x": -1144.3984375,
-      "y": -1289.1580810546875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Second Wind.md",
-      "x": -645.881591796875,
-      "y": -1203.169189453125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Shapeshifter.md",
-      "x": -1380.6724853515625,
-      "y": -535.1590576171875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Shield Slam.md",
-      "x": -1089.1629638671875,
-      "y": -977.5430297851562
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Signature Vehicle.md",
-      "x": 11.29641056060791,
-      "y": -75.11741638183594
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Smooth Talker.md",
-      "x": -1004.5266723632812,
-      "y": -617.7047119140625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Spirit Arts.md",
-      "x": -1206.2740478515625,
-      "y": -1186.3072509765625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Surgeon.md",
-      "x": -1192.085205078125,
-      "y": -766.8712768554688
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Swift.md",
-      "x": -1208.860595703125,
-      "y": -977.6021728515625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Tier 1.md",
-      "x": -884.9608154296875,
-      "y": -845.1296997070312
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Toughened.md",
-      "x": -619.1093139648438,
-      "y": -392.93310546875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/True Aim.md",
-      "x": -1447.968505859375,
-      "y": -971.8312377929688
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Tumble.md",
-      "x": -565.033935546875,
-      "y": -975.5823364257812
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 1/Unremarkable.md",
-      "x": -669.8661499023438,
-      "y": -284.2041931152344
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Adventurer.md",
-      "x": -1122.2982177734375,
-      "y": 795.6972045898438
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Alchemical Aptitude.md",
-      "x": -1189.816650390625,
-      "y": 894.48486328125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Animal Expertise.md",
-      "x": -799.6430053710938,
-      "y": 498.660888671875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Augment Spell.md",
-      "x": -1980.6273193359375,
-      "y": 394.5131530761719
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Bad Cop.md",
-      "x": -1553.798095703125,
-      "y": 341.55645751953125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Barrage.md",
-      "x": -1768.527099609375,
-      "y": 630.4218139648438
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Barrier Spell.md",
-      "x": -1176.359375,
-      "y": -424.9741516113281
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Basic Military Training.md",
-      "x": -1311.3642578125,
-      "y": 885.5517578125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Berserk.md",
-      "x": -1242.3331298828125,
-      "y": 787.793701171875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Big Guns.md",
-      "x": -1645.638671875,
-      "y": 121.27783203125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Blackmail.md",
-      "x": -1599.7889404296875,
-      "y": 231.55276489257812
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Blooded.md",
-      "x": -883.035888671875,
-      "y": 808.5023193359375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Bulwark.md",
-      "x": -1425.995849609375,
-      "y": -162.80772399902344
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Burly.md",
-      "x": -1618.20068359375,
-      "y": -84.16307830810547
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Combat Medicine.md",
-      "x": -1453.9453125,
-      "y": 41.329498291015625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Command.md",
-      "x": -1342.806884765625,
-      "y": 572.8306884765625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Companion (Improved).md",
-      "x": -670.2724609375,
-      "y": -110.83602905273438
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Confidence.md",
-      "x": -815.26708984375,
-      "y": 706.9735107421875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Conjure  Spell.md",
-      "x": -1815.9617919921875,
-      "y": 519.2027587890625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Containment.md",
-      "x": -1023.2737426757812,
-      "y": -9.515087127685547
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Coordinated Assault.md",
-      "x": -1460.7720947265625,
-      "y": 560.9625244140625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Counteroffer.md",
-      "x": -1697.629150390625,
-      "y": 533.9309692382812
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Curse Spell.md",
-      "x": -1887.2786865234375,
-      "y": 615.4895629882812
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Cutting Question.md",
-      "x": -1691.3555908203125,
-      "y": 10.888924598693848
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Daring Aviator.md",
-      "x": -1743.7506103515625,
-      "y": 423.33441162109375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Debilitating Shot.md",
-      "x": -1572.69873046875,
-      "y": 26.137773513793945
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Deceptive Taunt.md",
-      "x": -1316.16650390625,
-      "y": 367.2021789550781
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Defensive Stance.md",
-      "x": -1836.82275390625,
-      "y": 202.25282287597656
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Defensive Weaver (Improved).md",
-      "x": -1764.2481689453125,
-      "y": 106.64532470703125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Determined Driver.md",
-      "x": -1527.294189453125,
-      "y": 136.09780883789062
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Dirty Tricks.md",
-      "x": -1579.0501708984375,
-      "y": 547.964599609375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Disorient.md",
-      "x": -1333.3662109375,
-      "y": 58.238582611083984
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Distracting Behavior.md",
-      "x": -519.9150390625,
-      "y": 280.28009033203125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Dual wielder.md",
-      "x": -1307.201416015625,
-      "y": -147.36233520507812
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Encouraging Song.md",
-      "x": -769.82763671875,
-      "y": 382.6189880371094
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Exploit.md",
-      "x": -918.74365234375,
-      "y": 491.2649841308594
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Fan the Hammer.md",
-      "x": -1293.122802734375,
-      "y": 680.365966796875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Fancy Paint Job.md",
-      "x": -1499.4442138671875,
-      "y": -68.56865692138672
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Fearsome.md",
-      "x": -1379.8236083984375,
-      "y": -52.17395782470703
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Fine Tuning.md",
-      "x": -889.5968627929688,
-      "y": 375.38140869140625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Flash of Insight.md",
-      "x": -1037.26416015625,
-      "y": 484.7745666503906
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Freerunner.md",
-      "x": -594,
-      "y": 374.6551818847656
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Go Without.md",
-      "x": -1435.4527587890625,
-      "y": 355.15509033203125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Good Cop.md",
-      "x": -1141.93310546875,
-      "y": -21.575477600097656
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Grapple.md",
-      "x": -1258.4832763671875,
-      "y": 992.6467895507812
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Hard Headed.md",
-      "x": -1188.6126708984375,
-      "y": -131.8940887451172
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Haughty Demeanor.md",
-      "x": -1214.1781005859375,
-      "y": 73.58403778076172
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Headbutt.md",
-      "x": -1273.6859130859375,
-      "y": 475.9142150878906
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Heal Spell.md",
-      "x": -1508.2984619140625,
-      "y": 451.3176574707031
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Heightened Awareness.md",
-      "x": -1601.5626220703125,
-      "y": 754.601806640625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Heroic Recovery.md",
-      "x": -1481.865234375,
-      "y": 245.86082458496094
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Hexslinger.md",
-      "x": -1261.0491943359375,
-      "y": -36.65639877319336
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Hidden Storage (Improved).md",
-      "x": -1663.997314453125,
-      "y": -194.61080932617188
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Hold Together.md",
-      "x": -1095.403564453125,
-      "y": 89.11068725585938
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Hunter.md",
-      "x": -1790.2315673828125,
-      "y": 312.70709228515625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Impaling Strike.md",
-      "x": -1717.969482421875,
-      "y": 216.89515686035156
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Improvised Defences.md",
-      "x": -1862.0096435546875,
-      "y": 408.5530090332031
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Inspiring Rhetoric.md",
-      "x": -555.6917114257812,
-      "y": 488.3556823730469
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Inventor.md",
-      "x": -1408.6363525390625,
-      "y": 150.4486083984375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Know-It-All.md",
-      "x": -1069.3529052734375,
-      "y": -120.02680969238281
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Known Schematic.md",
-      "x": -1431.5382080078125,
-      "y": 875.5551147460938
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Knows the Ropes.md",
-      "x": -1531.1964111328125,
-      "y": 657.5924682617188
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Loom.md",
-      "x": -1481.901611328125,
-      "y": 766.79345703125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Lucky Strike.md",
-      "x": -1625.9913330078125,
-      "y": 437.7450256347656
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Magical Aptitude.md",
-      "x": -1173.6260986328125,
-      "y": 689.815185546875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Mechanical Aptitude.md",
-      "x": -1390.560546875,
-      "y": 464.77105712890625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Multiple Opponents.md",
-      "x": -1810.295166015625,
-      "y": -3.912569761276245
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Mystic Theurge.md",
-      "x": -1286.435546875,
-      "y": 168.50979614257812
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Natural Communion.md",
-      "x": -905.2080078125,
-      "y": -28.340068817138672
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Overstocked Ammo.md",
-      "x": -637.7943725585938,
-      "y": 71.33120727539062
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Physical Training.md",
-      "x": -1105.298095703125,
-      "y": 583.4470825195312
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Point Blank.md",
-      "x": -1908.926025390625,
-      "y": 298.1319885253906
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Probing Question.md",
-      "x": -1362.3006591796875,
-      "y": 777.9177856445312
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Quick Draw (Improved).md",
-      "x": -1544.9892578125,
-      "y": -179.37696838378906
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Quick Fix.md",
-      "x": -1551.7999267578125,
-      "y": 863.7864379882812
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Reckless Charge.md",
-      "x": -976.054443359375,
-      "y": 100.21360778808594
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Reconstruct the Scene.md",
-      "x": -825.8735961914062,
-      "y": 61.4445686340332
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Researcher.md",
-      "x": -1155.118896484375,
-      "y": 474.4591979980469
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Resist Disarm.md",
-      "x": -1412.295654296875,
-      "y": 669.4437255859375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Scathing Tirade.md",
-      "x": -580.645751953125,
-      "y": 176.8225860595703
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Selective Detonation.md",
-      "x": -986.4168701171875,
-      "y": 592.5342407226562
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Sense Emotion.md",
-      "x": -934.8239135742188,
-      "y": 700.5980834960938
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Shapeshifter (Improved).md",
-      "x": -1353.146728515625,
-      "y": -257.91180419921875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Share Pain.md",
-      "x": -1120.201904296875,
-      "y": -230.19944763183594
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Shortcut.md",
-      "x": -1137.2613525390625,
-      "y": 1001.927978515625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Side Step.md",
-      "x": -1363.05126953125,
-      "y": 260.2431945800781
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Signature Spell.md",
-      "x": -654.736328125,
-      "y": 271.19390869140625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Speaks Binary.md",
-      "x": -454.0193786621094,
-      "y": -74.99645233154297
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Spirit Speak.md",
-      "x": -369.1487731933594,
-      "y": 9.823894500732422
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Stalker.md",
-      "x": -944.261474609375,
-      "y": 268.6280822753906
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Strong Arm.md",
-      "x": -878.1019287109375,
-      "y": 168.95323181152344
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Stunning Blow.md",
-      "x": -1017.27880859375,
-      "y": 1009.723388671875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Threaten.md",
-      "x": -1070.3709716796875,
-      "y": 902.3389282226562
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Tier 2.md",
-      "x": -1208.975830078125,
-      "y": 313.5472106933594
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Time to Go.md",
-      "x": -950.6029663085938,
-      "y": 907.5319213867188
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Tinkerer.md",
-      "x": -1224.435302734375,
-      "y": 582.6264038085938
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Touch of Fate.md",
-      "x": -866.6800537109375,
-      "y": 598.83544921875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Two-Handed Stance.md",
-      "x": -1009.4329223632812,
-      "y": 368.87225341796875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Unarmed Parry.md",
-      "x": -822.4935302734375,
-      "y": -153.98794555664062
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Unstoppable.md",
-      "x": -1671.7470703125,
-      "y": 327.1665954589844
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Untitled.md",
-      "x": -1042.6029052734375,
-      "y": 199.94168090820312
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Vehicle Combat Training.md",
-      "x": -823.4074096679688,
-      "y": 275.4941101074219
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Weavehunter.md",
-      "x": -1054.34521484375,
-      "y": 691.5020141601562
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Well Read.md",
-      "x": -1649.9227294921875,
-      "y": 644.6383056640625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 2/Wraithbane.md",
-      "x": -1002.7000122070312,
-      "y": 799.5972290039062
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Ambush.md",
-      "x": 5.734516620635986,
-      "y": 657.2117919921875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Applied Research.md",
-      "x": 404.5024108886719,
-      "y": 702.0233764648438
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Armor Master.md",
-      "x": 740.1795654296875,
-      "y": 1377.6502685546875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Backstab.md",
-      "x": -322.6935119628906,
-      "y": 771.9032592773438
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Bad Habit.md",
-      "x": -113.91695404052734,
-      "y": 654.3965454101562
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Barrel Roll.md",
-      "x": 424.4170837402344,
-      "y": 1364.54150390625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Battle Casting.md",
-      "x": -111.89167022705078,
-      "y": 897.763427734375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Blind Spot.md",
-      "x": -116.72579193115234,
-      "y": 1017.741455078125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Blooded (Improved).md",
-      "x": -552.9795532226562,
-      "y": 1243.82861328125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Body Guard.md",
-      "x": 369.1519470214844,
-      "y": 510.7456359863281
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Capital Sendoff.md",
-      "x": 701.92138671875,
-      "y": 1138.927490234375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Cavalier.md",
-      "x": 499.8504333496094,
-      "y": 1171.84423828125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Center of Being.md",
-      "x": 426.6882629394531,
-      "y": 819.8169555664062
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Combat Veteran.md",
-      "x": -116.23615264892578,
-      "y": 1494.1680908203125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Confidence (Improved).md",
-      "x": -544.9994506835938,
-      "y": 1001.7837524414062
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Congenial.md",
-      "x": 291.2046203613281,
-      "y": 662.48974609375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Constant Vigilance.md",
-      "x": 147.5841522216797,
-      "y": 633.4608154296875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Counterattack.md",
-      "x": -306.0654602050781,
-      "y": 1763.57470703125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Creative Killer.md",
-      "x": 176.19195556640625,
-      "y": 1646.8392333984375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Cunning Persona.md",
-      "x": -343.0627746582031,
-      "y": 1128.6820068359375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Cunning Snare.md",
-      "x": -447.0301513671875,
-      "y": 1436.3701171875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Customized Systems.md",
-      "x": 56.577823638916016,
-      "y": 548.7025756835938
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Daring Turn.md",
-      "x": 319.565185546875,
-      "y": 1481.0233154296875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Disarm.md",
-      "x": 186.24859619140625,
-      "y": 1160.157958984375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Disarming Smile.md",
-      "x": -115.19952392578125,
-      "y": 774.0572509765625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Distinctive Style.md",
-      "x": -219.20054626464844,
-      "y": 832.4714965820312
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Dockyard Expertise.md",
-      "x": -174.02040100097656,
-      "y": 1727.0555419921875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Dodge.md",
-      "x": 820.2692260742188,
-      "y": 1155.9954833984375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Double or Nothing.md",
-      "x": 722.2713012695312,
-      "y": 1259.050048828125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Dual Strike.md",
-      "x": 1.2644041776657104,
-      "y": 1471.4998779296875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Dumb Luck.md",
-      "x": -323.240966796875,
-      "y": 891.4140014648438
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Eagle Eyes.md",
-      "x": 549.3336791992188,
-      "y": 1528.2242431640625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Easy Prey.md",
-      "x": 457.2077941894531,
-      "y": 935.2774047851562
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Encoded Communique.md",
-      "x": 295.6995849609375,
-      "y": 1204.886962890625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Encouraging Words.md",
-      "x": 377.3534851074219,
-      "y": 1710.87109375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Exhaustive Questioning.md",
-      "x": -242.59466552734375,
-      "y": 1423.43359375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Extended Reach.md",
-      "x": -376.6220397949219,
-      "y": 1604.1708984375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Eye for Detail.md",
-      "x": 591.1165161132812,
-      "y": 1094.29345703125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Fear the Shadows.md",
-      "x": -224.371826171875,
-      "y": 1070.3468017578125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Fearsome Rep.md",
-      "x": 94.05999755859375,
-      "y": 1562.200927734375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Feint.md",
-      "x": 243.2584686279297,
-      "y": 974.3200073242188
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Feral Strength.md",
-      "x": 97.57015228271484,
-      "y": 1331.8299560546875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Field Commander.md",
-      "x": 770.53076171875,
-      "y": 1040.9287109375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Fire Control.md",
-      "x": 388.429443359375,
-      "y": 1130.19677734375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Forgot to Count?.md",
-      "x": 534.5762939453125,
-      "y": 1409.1182861328125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Form On Me.md",
-      "x": -348.7637939453125,
-      "y": 1368.54541015625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Formation Tactics.md",
-      "x": -240.2855987548828,
-      "y": 1187.5650634765625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Fortified Structure.md",
-      "x": -61.148414611816406,
-      "y": 525.6329956054688
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Frenzies Attack.md",
-      "x": 117.86216735839844,
-      "y": 1447.810302734375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Full Throttle.md",
-      "x": 249.53233337402344,
-      "y": 520.1559448242188
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Hard-Boiled.md",
-      "x": 81.24498748779297,
-      "y": 750.0511474609375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Healing Potion Specialisation.md",
-      "x": -137.31922912597656,
-      "y": 1613.6285400390625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Heroic Resilience.md",
-      "x": 517.7011108398438,
-      "y": 1290.6429443359375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Heroic Will.md",
-      "x": -125.91704559326172,
-      "y": 1137.958984375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Hex Warrior.md",
-      "x": 103.50994873046875,
-      "y": 868.6676635742188
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Hindering Shot.md",
-      "x": -218.41021728515625,
-      "y": 713.0543823242188
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Hold It Steady.md",
-      "x": 439.26666259765625,
-      "y": 1481.1175537109375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Inspiring Rhetoric (Improved).md",
-      "x": -428.910400390625,
-      "y": 827.4431762695312
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Intense Focus.md",
-      "x": -134.86566162109375,
-      "y": 1375.7440185546875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Interjection.md",
-      "x": -451.866943359375,
-      "y": 1307.790283203125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Intimidating.md",
-      "x": -7.7803473472595215,
-      "y": 1118.3502197265625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Iron Body.md",
-      "x": -429.54620361328125,
-      "y": 947.0238647460938
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Justice of the Theocracy.md",
-      "x": -9.179808616638184,
-      "y": 828.5775146484375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Larger Companion.md",
-      "x": -346.11846923828125,
-      "y": 463.55462646484375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Larger Project.md",
-      "x": 141.9196014404297,
-      "y": 464.4500732421875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Laugh It Off.md",
-      "x": -219.00559997558594,
-      "y": 951.5556640625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Lethal Blows.md",
-      "x": 313.8075256347656,
-      "y": 780.0057983398438
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Made You Talk.md",
-      "x": -340.331298828125,
-      "y": 1490.2469482421875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Martial Grace.md",
-      "x": -143.236328125,
-      "y": 1256.05810546875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Martial Weapons Master.md",
-      "x": -449.1434326171875,
-      "y": 1184.9849853515625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Moving Target.md",
-      "x": -348.94854736328125,
-      "y": 1247.4749755859375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Natural.md",
-      "x": 314.5521545410156,
-      "y": 1322.5421142578125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Nimble.md",
-      "x": 367.4624938964844,
-      "y": 1012.0657348632812
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/No Escape.md",
-      "x": -444.02838134765625,
-      "y": 1065.6153564453125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Nobody's Fool.md",
-      "x": -247.0930938720703,
-      "y": 1307.8095703125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Opportunist.md",
-      "x": 569.7113037109375,
-      "y": 975.8162231445312
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Outside the Box.md",
-      "x": 222.46961975097656,
-      "y": 857.8536376953125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Overchannel (Improved).md",
-      "x": -182.82823181152344,
-      "y": 551.8313598632812
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Overwhelm Defences.md",
-      "x": 60.09473419189453,
-      "y": 1675.8892822265625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Parry (Improved).md",
-      "x": 24.11515235900879,
-      "y": 1790.2574462890625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Pin.md",
-      "x": -17.971872329711914,
-      "y": 1354.390869140625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Plausible Deniability.md",
-      "x": 517.5879516601562,
-      "y": 742.0055541992188
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Point Blank.md",
-      "x": 276.8215637207031,
-      "y": 1088.1016845703125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Poison Specialist.md",
-      "x": -327.9550476074219,
-      "y": 1010.788330078125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Potent Concoctions.md",
-      "x": -266.4065246582031,
-      "y": 1651.3372802734375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Powerful Blast.md",
-      "x": -3.0783584117889404,
-      "y": 948.2866821289062
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Precise Archery.md",
-      "x": 547.840087890625,
-      "y": 858.0270385742188
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Pressure Point.md",
-      "x": 200.4697723388672,
-      "y": 740.5203857421875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Rapid Archery.md",
-      "x": 479.0164489746094,
-      "y": 1053.3819580078125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Reflect (Improved).md",
-      "x": -106.08187866210938,
-      "y": 414.3655700683594
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Resist Questioning.md",
-      "x": 687.2911376953125,
-      "y": 954.80126953125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Resourceful Refit.md",
-      "x": 259.6061706542969,
-      "y": 1731.79443359375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Scathing Tirade (Improved).md",
-      "x": 290.24371337890625,
-      "y": 1613.510009765625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Scything Strike.md",
-      "x": 85.2374496459961,
-      "y": 1214.119140625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Seize the Initiative.md",
-      "x": -30.15920066833496,
-      "y": 1235.6533203125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Sense Advantage.md",
-      "x": 610.7426147460938,
-      "y": 1215.734375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Shockwave.md",
-      "x": -229.0469207763672,
-      "y": 1538.4586181640625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Shortcut (Improved).md",
-      "x": -668.4959106445312,
-      "y": 1274.743408203125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Skilled Teacher.md",
-      "x": 208.4608917236328,
-      "y": 1526.2880859375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Smart Handling.md",
-      "x": 335.4783020019531,
-      "y": 897.464599609375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Snaring Wards.md",
-      "x": 406.9687194824219,
-      "y": 1247.3336181640625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Spur.md",
-      "x": 243.33384704589844,
-      "y": 400.3343200683594
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Studious Plotting.md",
-      "x": -56.841552734375,
-      "y": 1701.7347412109375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Stunning Blow (Improved).md",
-      "x": -550.2957763671875,
-      "y": 1375.760986328125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Sunder Expertise.md",
-      "x": 644.8045043945312,
-      "y": 1455.6365966796875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Suppressing Fire.md",
-      "x": 203.17759704589844,
-      "y": 1278.8836669921875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Takedown.md",
-      "x": 408.00830078125,
-      "y": 1595.75341796875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Tier 3.md",
-      "x": 103.40930938720703,
-      "y": 1073.7142333984375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Time to Go (Improved).md",
-      "x": -550.5044555664062,
-      "y": 1121.8922119140625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Toughened (Improved).md",
-      "x": -228.30050659179688,
-      "y": 440.8061218261719
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Tricky Target.md",
-      "x": 628.6905517578125,
-      "y": 1334.409912109375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Trust the Captain.md",
-      "x": -21.33844566345215,
-      "y": 1587.8271484375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Tuned Handling.md",
-      "x": 17.694721221923828,
-      "y": 435.1895751953125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Twisted Words.md",
-      "x": 517.5709228515625,
-      "y": 1643.7857666015625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Unremarkable (Improved).md",
-      "x": -300.6417236328125,
-      "y": 574.593505859375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Up the Ante.md",
-      "x": 143.45599365234375,
-      "y": 1761.8099365234375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Valuable Facts.md",
-      "x": 228.0520477294922,
-      "y": 1404.2696533203125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 3/Well-Rounded.md",
-      "x": -93.26399993896484,
-      "y": 1815.409912109375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/A Step Ahead.md",
-      "x": 1408.11962890625,
-      "y": 6.16829252243042
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Analyze Data.md",
-      "x": 1116.8187255859375,
-      "y": 604.805908203125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Armor Master (Improved).md",
-      "x": 1035.2998046875,
-      "y": 829.7400512695312
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Back-to-Back.md",
-      "x": 1135.7747802734375,
-      "y": -233.07843017578125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Better Luck Next Time.md",
-      "x": 995.3026733398438,
-      "y": 303.8672790527344
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Body Guard (Improved).md",
-      "x": 1230.7222900390625,
-      "y": -160.93157958984375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Bolstered Armor.md",
-      "x": 550.40380859375,
-      "y": -162.1559295654297
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Brilliant Evasion.md",
-      "x": 1369.269775390625,
-      "y": -313.33489990234375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Burn Through.md",
-      "x": 1177.6295166015625,
-      "y": 68.06495666503906
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/By the Book.md",
-      "x": 841.0187377929688,
-      "y": 439.7460632324219
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Can't We Talk About This.md",
-      "x": 1113.852783203125,
-      "y": 292.3440856933594
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Capital Sendoff (Improved).md",
-      "x": 957.8048706054688,
-      "y": 738.2901611328125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Careful Planning.md",
-      "x": 1110.1947021484375,
-      "y": -116.22544860839844
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Center of Being (Improved).md",
-      "x": 684.0630493164062,
-      "y": 575.7644653320312
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Commanding Presence.md",
-      "x": 1230.88427734375,
-      "y": 266.4575500488281
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Comrades in Arms.md",
-      "x": 1065.2940673828125,
-      "y": -423.5035095214844
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Conduit.md",
-      "x": 927.09423828125,
-      "y": -268.467041015625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Deadeye.md",
-      "x": 1041.0904541015625,
-      "y": -305.9038391113281
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Deadly Accuracy.md",
-      "x": 1460.2288818359375,
-      "y": -227.6427459716797
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Death Rage.md",
-      "x": 1293.0509033203125,
-      "y": 36.782596588134766
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Defensive Driving.md",
-      "x": 1434.9437255859375,
-      "y": -110.45133972167969
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Defensive.md",
-      "x": 723.0872192382812,
-      "y": 462.55902099609375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Deflection.md",
-      "x": 348.21649169921875,
-      "y": -108.94615936279297
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Discredit.md",
-      "x": 1462.3116455078125,
-      "y": 207.17274475097656
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Distracting Behaviour (Improved).md",
-      "x": 440.4378662109375,
-      "y": 172.58197021484375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Dodge (Improved).md",
-      "x": 1196.9139404296875,
-      "y": 693.8372192382812
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Don't Shoot!.md",
-      "x": 1509.52880859375,
-      "y": 413.3397521972656
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Double or Nothing (Improved).md",
-      "x": 886.4588623046875,
-      "y": 834.134521484375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Double-Talk.md",
-      "x": 763.7716064453125,
-      "y": -152.65533447265625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Elementary.md",
-      "x": 601.9539184570312,
-      "y": 166.97801208496094
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Enduring.md",
-      "x": 760.5537109375,
-      "y": 349.24188232421875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Familiar (Improved).md",
-      "x": 688.0001831054688,
-      "y": -257.8887939453125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Field Commander (Improved).md",
-      "x": 1155.64794921875,
-      "y": 806.4180908203125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Formation Tactics (Improved).md",
-      "x": 879.7252807617188,
-      "y": 643.7621459960938
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Fortune Favors the Bold.md",
-      "x": 958.8967895507812,
-      "y": 417.6810302734375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Freerunner (Improved).md",
-      "x": 340.21258544921875,
-      "y": 238.52572631835938
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Full Throttle (Improved).md",
-      "x": 1393.2010498046875,
-      "y": 442.2419738769531
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Holistic Navigation.md",
-      "x": 997.958984375,
-      "y": 626.32568359375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/How Convenient!.md",
-      "x": 1608.557861328125,
-      "y": 58.9303092956543
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Improvised Position.md",
-      "x": 1549.896484375,
-      "y": -142.5077362060547
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/In the Know.md",
-      "x": 1015.9075317382812,
-      "y": -188.615234375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Incite Distraction.md",
-      "x": 801.7019653320312,
-      "y": 552.7687377929688
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Incite Rebellion.md",
-      "x": 1577.6724853515625,
-      "y": 175.55075073242188
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Inspiring Rhetoric (Supreme).md",
-      "x": 355.41180419921875,
-      "y": 357.4889221191406
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/It's Not that Bad.md",
-      "x": 827.885986328125,
-      "y": -51.31140899658203
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Jury Rigged.md",
-      "x": 1312.4224853515625,
-      "y": 353.6150207519531
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Lose Them.md",
-      "x": 1031.1036376953125,
-      "y": 189.71621704101562
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Not Today.md",
-      "x": 579.4011840820312,
-      "y": -45.92682647705078
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Offensive Driving.md",
-      "x": 680.6088256835938,
-      "y": 257.2498474121094
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Overbalance.md",
-      "x": 951.5617065429688,
-      "y": -385.6488342285156
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Overcharge.md",
-      "x": 1159.9857177734375,
-      "y": -350.31634521484375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Precise Aim.md",
-      "x": 807.7410278320312,
-      "y": -264.137939453125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Prey on the Weak.md",
-      "x": 708.0119018554688,
-      "y": -46.57318878173828
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Prime Positions.md",
-      "x": 1238.4779052734375,
-      "y": 581.5335083007812
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Prophetic Aim.md",
-      "x": 1346.794189453125,
-      "y": 238.018798828125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Push the Specs.md",
-      "x": 1079.4923095703125,
-      "y": -0.3681362569332123
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Quick Witted.md",
-      "x": 1195.3770751953125,
-      "y": 379.51373291015625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Rain of Death.md",
-      "x": 1356.46826171875,
-      "y": 556.5121459960938
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Reflect (Supreme).md",
-      "x": 434.352294921875,
-      "y": -192.4448699951172
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Reinforced Frame.md",
-      "x": 463.506591796875,
-      "y": -76.07089233398438
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Reroute Processors.md",
-      "x": 1157.977294921875,
-      "y": 493.0745544433594
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Resist Questioning (Improved).md",
-      "x": 1075.9505615234375,
-      "y": 716.9776000976562
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Resolve.md",
-      "x": 643.8978271484375,
-      "y": 54.74101638793945
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Savvy Negotiator.md",
-      "x": 1254.9844970703125,
-      "y": -277.3955993652344
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Scathing Tirade (Supreme).md",
-      "x": 333.1844482421875,
-      "y": 118.81118774414062
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Scavenger.md",
-      "x": 893.0135498046875,
-      "y": -153.3801727294922
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Second Chances.md",
-      "x": 1205.77099609375,
-      "y": -45.60868453979492
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Seen a Lot of Things.md",
-      "x": 1523.2802734375,
-      "y": -25.55573081970215
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Showboat.md",
-      "x": 1263.740478515625,
-      "y": 152.05621337890625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Signature Spell (Improved).md",
-      "x": 232.97836303710938,
-      "y": 184.6848602294922
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Skilled Slicer.md",
-      "x": 1037.82373046875,
-      "y": 514.9307861328125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Sorry About the Mess.md",
-      "x": 729.9004516601562,
-      "y": 137.74313354492188
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Speaks Binary (Improved).md",
-      "x": 303.8719482421875,
-      "y": 2.482645034790039
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Spirit Speak(Improved).md",
-      "x": 419.447998046875,
-      "y": 35.48637390136719
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Split fire.md",
-      "x": 1544.5994873046875,
-      "y": 294.1600341796875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Spur (Improved).md",
-      "x": 642.8721313476562,
-      "y": 370.96875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Steady Aim.md",
-      "x": 1378.19921875,
-      "y": 122.04712677001953
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Street Smarts.md",
-      "x": 1344.75830078125,
-      "y": -196.18798828125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Supporting Evidence.md",
-      "x": 919.3949584960938,
-      "y": 530.6920776367188
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Targeted Firepower.md",
-      "x": 798.08544921875,
-      "y": 235.9010009765625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/That's How It's Done.md",
-      "x": 878.03125,
-      "y": 325.9930725097656
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Tier 4.md",
-      "x": 964.4505615234375,
-      "y": 90.17325592041016
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Trust No One.md",
-      "x": 1428.7630615234375,
-      "y": 325.0348815917969
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Unrelenting Skeptic.md",
-      "x": 1078.0733642578125,
-      "y": 403.40447998046875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Unrelenting.md",
-      "x": 1493.376708984375,
-      "y": 90.47984313964844
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Urban Combatant.md",
-      "x": 1320.1885986328125,
-      "y": -79.11925506591797
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Venom Soaked Blade.md",
-      "x": 915.0162353515625,
-      "y": 212.0355987548828
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Weak Foundation.md",
-      "x": 1276.0631103515625,
-      "y": 467.7600402832031
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 4/Your Owe Me One (Improved).md",
-      "x": 1148.6390380859375,
-      "y": 180.3499755859375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Altered Deal.md",
-      "x": 1051.2652587890625,
-      "y": -933.0877685546875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Armor Master (Supreme).md",
-      "x": 247.46151733398438,
-      "y": -1163.3720703125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Baleful Gaze.md",
-      "x": 956.8758544921875,
-      "y": -1006.9791259765625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Biggest Fan.md",
-      "x": 358.21783447265625,
-      "y": -1209.3643798828125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Body Guard (Supreme).md",
-      "x": 573.5241088867188,
-      "y": -388.6343994140625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Comrades in Arms (Improved).md",
-      "x": 925.1507568359375,
-      "y": -618.9711303710938
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Coordination Dodge.md",
-      "x": 990.176513671875,
-      "y": -1244.568359375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Crucial Point.md",
-      "x": 224.76588439941406,
-      "y": -924.7356567382812
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Crushing Blow.md",
-      "x": 736.4523315429688,
-      "y": -767.0740966796875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Custom Loadout.md",
-      "x": 284.09332275390625,
-      "y": -597.4252319335938
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Dedication.md",
-      "x": 468.3768310546875,
-      "y": -1256.36376953125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Double or Nothing (Supreme).md",
-      "x": 369.19329833984375,
-      "y": -512.8550415039062
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Drone Master.md",
-      "x": 973.4551391601562,
-      "y": -1125.719970703125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Full Throttle (Supreme).md",
-      "x": 461.159423828125,
-      "y": -346.5000305175781
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Ghost In The Machine.md",
-      "x": 1084.5113525390625,
-      "y": -1170.610107421875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Heavy Hitter.md",
-      "x": 940.0307006835938,
-      "y": -888.30810546875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Indomitable.md",
-      "x": 335.51226806640625,
-      "y": -970.815673828125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Inside Knowledge.md",
-      "x": 753.4732055664062,
-      "y": -885.7529907226562
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Inside Person.md",
-      "x": 751.389404296875,
-      "y": -1035.8104248046875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Inspiring Leadership.md",
-      "x": 942.098876953125,
-      "y": -737.6908569335938
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Just Kidding!.md",
-      "x": 830.7615356445312,
-      "y": -692.9613037109375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Let's Talk This Over.md",
-      "x": 862.5032958984375,
-      "y": -1080.849365234375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Master (Melee Light).md",
-      "x": 845.8429565429688,
-      "y": -962.146728515625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Master Demolitionist.md",
-      "x": 657.2528686523438,
-      "y": -1109.5400390625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Master Grenadier.md",
-      "x": 879.1746826171875,
-      "y": -1199.6160888671875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Master Instructor.md",
-      "x": 673.8331909179688,
-      "y": -1228.485107421875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Master Merchant.md",
-      "x": 784.6686401367188,
-      "y": -1273.403076171875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Master Pilot.md",
-      "x": 563.1690063476562,
-      "y": -1183.416259765625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Master Plan.md",
-      "x": 895.7599487304688,
-      "y": -1318.4149169921875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Master.md",
-      "x": 320.0923767089844,
-      "y": -851.873291015625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Momentum.md",
-      "x": 801.2843627929688,
-      "y": -1392.2689208984375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Monstrous Companion.md",
-      "x": 18.649539947509766,
-      "y": -665.9196166992188
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Most Impressive.md",
-      "x": 579.212646484375,
-      "y": -1302.002685546875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Overcharge (improved).md",
-      "x": 595.4482421875,
-      "y": -1420.838623046875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Overwhelm.md",
-      "x": 453.27423095703125,
-      "y": -1136.31982421875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Power of Darkness.md",
-      "x": 690.2261962890625,
-      "y": -1347.2884521484375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Prepare to be Boarded.md",
-      "x": 231.95167541503906,
-      "y": -1044.4376220703125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Retribution.md",
-      "x": 342.65350341796875,
-      "y": -1090.48291015625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Ruinious Repartee.md",
-      "x": 768.1444091796875,
-      "y": -1154.646240234375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Speaks Binary (Supreme).md",
-      "x": 134.60955810546875,
-      "y": -635.1660766601562
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Spirit Speak (Supreme).md",
-      "x": 186.83636474609375,
-      "y": -527.149658203125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Spur (Supreme).md",
-      "x": 480.8349914550781,
-      "y": -464.8523254394531
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Superhuman Reflexes.md",
-      "x": 484.3078308105469,
-      "y": -1375.288330078125
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Thorough Assessment.md",
-      "x": 1034.2974853515625,
-      "y": -814.3720092773438
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Tier 5.md",
-      "x": 572.1488037109375,
-      "y": -926.8562622070312
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Trick Of The Light.md",
-      "x": 847.772705078125,
-      "y": -811.7230224609375
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Unrelenting Skeptic (Improved).md",
-      "x": 713.9391479492188,
-      "y": -649.265625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Web Of Knowledge.md",
-      "x": 373.4868469238281,
-      "y": -1329.3544921875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Whirlwind.md",
-      "x": 1067.911376953125,
-      "y": -1051.83544921875
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Tier 5/Zealous Fire.md",
-      "x": 263.1520080566406,
-      "y": -1282.28759765625
-    },
-    {
-      "id": "cataclysm.wiki/Talents/Trees (depricated)/Trees (depricated).md",
-      "x": 136.58050537109375,
-      "y": -418.1845397949219
-    },
-    {
-      "id": "cataclysm.wiki/_Sidebar.md",
-      "x": -70.77177429199219,
-      "y": -585.929931640625
-    },
-    {
-      "id": "cataclysm.wiki/home.md",
-      "x": -180.67596435546875,
-      "y": -634.0269165039062
+      "id": "counters.md",
+      "x": -1696.7764892578125,
+      "y": 483.1115417480469
     }
   ],
   "automaticallyRestoreNodePositions": true

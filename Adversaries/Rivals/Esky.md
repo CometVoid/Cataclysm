@@ -1,8 +1,4 @@
-A short female nes'in with blonde hair and red eyes, and a skilled artificer. Probably the one who made sprocket concidering how close they always are.
+# Summary
+Esky is A short female nes'in with blonde hair and red eyes, and a skilled artificer. She lives among the [[Sheargale Nomads]] as their shipwright and merchant, and makes her living dungeon diving in ruins.
 
-Esky carries a large shield, and an affinity for clockwork magic
- 
-    
-  
-
-Esky comes from a family of shipwrights, and her dad is the royal navy's artificer                   
+Esky is technically a [[Sheargale Nomads|Sheargale Nomad]] Princess, although she's pretty far from first in line for the throne.

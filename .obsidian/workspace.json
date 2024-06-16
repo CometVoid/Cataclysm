@@ -23,22 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/The Ark/The Ark.md",
+                "file": "Locations/The Great Rift.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ac1ad670ca3b83e8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +60,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -96,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 425.5124969482422
   },
   "right": {
     "id": "d8c0e2d32c2f2491",
@@ -112,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/The Great Rift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Locations/The Great Rift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Locations/The Great Rift.md"
+              }
             }
           }
         ],
@@ -190,36 +186,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac1ad670ca3b83e8",
+  "active": "425cab22372a9b84",
   "lastOpenFiles": [
-    "Cataclysm.wiki/Talents/Talents.md",
-    "Adversaries/Minions/Thunder-rays.md",
-    "Adversaries/Minions/Slime.md",
-    "Adversaries/Minions/Minions.md",
-    "Locations/The Ark/The Storm Wall.md",
-    "Locations/Locations.md",
-    "Locations/The Ark/The Ark.md",
-    "Timeline (years).md",
-    "Cataclysm.wiki/Talents/Tier 3/Larger Companion.md",
-    "Cataclysm.wiki/Talents/Tier 3/Tier 3.md",
-    "Locations/The Ark/Castle Ravanica.md",
-    "Karvel the blood god.md",
-    "README.md",
-    "Pasted image 20230713202859.png",
-    "Cynthia Argentus.md",
-    "Factions/House Argentus.md",
-    "Locations/Helios's Ark/Helios's.md",
-    "Locations/Untitled.md",
-    "Locations/The Ark",
+    "Factions/Bouvardia.md",
+    "Factions/Celestia.md",
     "Factions/Factions.md",
-    "Realms/Untitled.md",
+    "Factions/House Argentus.md",
+    "Factions/Ravanica.md",
+    "Factions/Royal Steamworks Division.md",
+    "Factions/Sheargale Nomads.md",
+    "Signal Flares.md",
+    "Locations/The Great Rift.md",
+    "Cataclysm.wiki/Talents/Talents.md",
+    "Cataclysm.wiki/Species/Hy'in.md",
+    "Cataclysm.wiki/Species/Faun'in.md",
+    "Cataclysm.wiki/Items/Weapons/Weapons.md",
+    "Ashra Family.md",
+    "Locations/The Ark/The Ark.md",
+    "Locations/The Ark/The Storm Wall.md",
+    "Cataclysm.wiki/Talents/Tier 5/Custom Loadout.md",
+    "Cataclysm.wiki/Talents/Tier 1/Feint.md",
+    "Cataclysm.wiki/Talents/Tier 4/Bolstered Armor.md",
+    "Cataclysm.wiki/Talents/Tier 5/Monstrous Companion.md",
+    "Cataclysm.wiki/Talents/Tier 5/Tier 5.md",
+    "Cataclysm.wiki/Talents/Tier 2/Share Pain.md",
+    "Cataclysm.wiki/Talents/Tier 1/Precision.md",
+    "Cataclysm.wiki/Items/Weapons/Pistol.md",
+    "Cataclysm.wiki/Items/Gear/Gear.md",
     "Cataclysm.wiki/Items/Items.md",
-    "Cataclysm.wiki/Rules/Rules.md",
-    "Cataclysm.wiki/_Sidebar.md",
-    "Adversaries/Adversaries.md",
-    "Cataclysm.wiki/Talents/Tier 2/Tier 2.md",
-    "Cataclysm.wiki/Items/Magical Impliments/Wand.md",
-    "Cataclysm.wiki/Talents/Tier 2/Fearsome.md",
+    "Pasted image 20230713202859.png",
+    "Locations/The Ark",
     "Cataclysm.wiki/Rules/core rulebook.pdf",
     "cataclysm.wiki/Rules/core rulebook.pdf",
     "cataclysm.wiki/Items/Magical Impliments/Spellblade.png",

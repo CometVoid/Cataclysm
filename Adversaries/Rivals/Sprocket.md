@@ -1,4 +1,3 @@
-A clockwork automaton made by a mysterious artificer, Sprocket is an outlaw who wields dual revolvers and wears a brown leather hat with a red feather and scarf. Sprocket has an affinity for clockwork magic
-           
+# Summary
 
-                      
+Sprocket is a fully sentient clockwork golem recovered by [[Esky]] from an ancient temple in the [[desert realm]]. He dual wields lever action pistols, has a red cape, and wears a cowboy hat.

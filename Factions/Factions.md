@@ -6,6 +6,8 @@
 - [[Celestia]]
 - [[House Argentus]]
 - [[Ravanica]]
+- [[Royal Steamworks Division]]
+- [[Sheargale Nomads]]
 
 %% End Waypoint %%
 

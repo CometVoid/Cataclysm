@@ -4,6 +4,7 @@
 
 %% Begin Waypoint %%
 - **[[The Ark]]**
+- [[The Great Rift]]
 
 %% End Waypoint %%
 
